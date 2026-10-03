@@ -1,0 +1,74 @@
+[
+ {
+  "name": "Prologue: the voyage",
+  "t": 0.0
+ },
+ {
+  "name": "Prologue: the sinking",
+  "t": 12.83
+ },
+ {
+  "name": "Intro: spoken",
+  "t": 29.937
+ },
+ {
+  "name": "Verse 1",
+  "t": 33.927
+ },
+ {
+  "name": "Pre-Chorus",
+  "t": 61.214
+ },
+ {
+  "name": "Chorus",
+  "t": 68.235
+ },
+ {
+  "name": "Verse 2",
+  "t": 81.719
+ },
+ {
+  "name": "Pre-Chorus 2",
+  "t": 109.405
+ },
+ {
+  "name": "Chorus",
+  "t": 121.373
+ },
+ {
+  "name": "Interlude: spoken",
+  "t": 136.693
+ },
+ {
+  "name": "Verse 3",
+  "t": 157.357
+ },
+ {
+  "name": "Chorus",
+  "t": 198.528
+ },
+ {
+  "name": "Bridge",
+  "t": 212.251
+ },
+ {
+  "name": "Breakdown",
+  "t": 233.714
+ },
+ {
+  "name": "Verse 4",
+  "t": 246.48
+ },
+ {
+  "name": "Final Chorus",
+  "t": 274.006
+ },
+ {
+  "name": "Outro: spoken",
+  "t": 302.49
+ },
+ {
+  "name": "Outro: the bells",
+  "t": 312.91999999999996
+ }
+]

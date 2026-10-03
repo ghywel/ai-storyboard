@@ -1,0 +1,20 @@
+{
+ "plates": [
+  {
+   "id": "open",
+   "scene": "demo",
+   "at": 0,
+   "params": {
+    "look": 0
+   }
+  },
+  {
+   "id": "second",
+   "scene": "demo",
+   "at": "every cut lands",
+   "params": {
+    "look": 1
+   }
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+[
+ {
+  "name": "Lead-in",
+  "t": 0.0
+ },
+ {
+  "name": "Intro: spoken",
+  "t": 2.68
+ },
+ {
+  "name": "Verse 1",
+  "t": 13.46
+ },
+ {
+  "name": "Pre-Chorus",
+  "t": 40.88
+ },
+ {
+  "name": "Chorus",
+  "t": 53.942
+ },
+ {
+  "name": "Verse 2",
+  "t": 76.86
+ },
+ {
+  "name": "Pre-Chorus 2",
+  "t": 104.94
+ },
+ {
+  "name": "Chorus",
+  "t": 118.02
+ },
+ {
+  "name": "Bridge",
+  "t": 131.332
+ },
+ {
+  "name": "Breakdown",
+  "t": 145.92
+ },
+ {
+  "name": "Final Chorus",
+  "t": 158.42
+ },
+ {
+  "name": "Outro: spoken",
+  "t": 189.035
+ }
+]

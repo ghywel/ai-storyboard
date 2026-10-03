@@ -1,0 +1,6373 @@
+{
+  "lines": [
+    {
+      "i": 0,
+      "text": "Hi. You can't see me.",
+      "start": 29.92,
+      "end": 30.9,
+      "words": [
+        {
+          "w": "Hi.",
+          "start": 29.92,
+          "end": 30.1,
+          "conf": 0.83
+        },
+        {
+          "w": "You",
+          "start": 30.1,
+          "end": 30.26,
+          "conf": 1.0
+        },
+        {
+          "w": "can't",
+          "start": 30.26,
+          "end": 30.451,
+          "conf": 1.0
+        },
+        {
+          "w": "see",
+          "start": 30.451,
+          "end": 30.61,
+          "conf": 1.0
+        },
+        {
+          "w": "me.",
+          "start": 30.61,
+          "end": 30.9,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "text": "That's kind of the whole point.",
+      "start": 31.64,
+      "end": 32.656,
+      "words": [
+        {
+          "w": "That's",
+          "start": 31.64,
+          "end": 31.84,
+          "conf": 0.85
+        },
+        {
+          "w": "kind",
+          "start": 31.84,
+          "end": 32.0,
+          "conf": 1.0
+        },
+        {
+          "w": "of",
+          "start": 32.0,
+          "end": 32.102,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 32.102,
+          "end": 32.16,
+          "conf": 0.96
+        },
+        {
+          "w": "whole",
+          "start": 32.16,
+          "end": 32.426,
+          "conf": 1.0
+        },
+        {
+          "w": "point.",
+          "start": 32.426,
+          "end": 32.656,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "text": "They cut me out of a cliff on Palau with shell and a stubborn crew,",
+      "start": 33.504,
+      "end": 37.24,
+      "words": [
+        {
+          "w": "They",
+          "start": 33.504,
+          "end": 34.147,
+          "conf": 1.0
+        },
+        {
+          "w": "cut",
+          "start": 34.147,
+          "end": 34.257,
+          "conf": 1.0
+        },
+        {
+          "w": "me",
+          "start": 34.257,
+          "end": 34.48,
+          "conf": 1.0
+        },
+        {
+          "w": "out",
+          "start": 34.48,
+          "end": 34.62,
+          "conf": 1.0
+        },
+        {
+          "w": "of",
+          "start": 34.62,
+          "end": 34.72,
+          "conf": 0.99
+        },
+        {
+          "w": "a",
+          "start": 34.72,
+          "end": 34.846,
+          "conf": 0.99
+        },
+        {
+          "w": "cliff",
+          "start": 34.846,
+          "end": 35.0,
+          "conf": 1.0
+        },
+        {
+          "w": "on",
+          "start": 35.0,
+          "end": 35.1,
+          "conf": 0.92
+        },
+        {
+          "w": "Palau",
+          "start": 35.1,
+          "end": 35.54,
+          "conf": 1.0
+        },
+        {
+          "w": "with",
+          "start": 35.54,
+          "end": 35.639,
+          "conf": 0.98
+        },
+        {
+          "w": "shell",
+          "start": 35.639,
+          "end": 35.88,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 35.88,
+          "end": 36.0,
+          "conf": 0.93
+        },
+        {
+          "w": "a",
+          "start": 36.0,
+          "end": 36.08,
+          "conf": 0.96
+        },
+        {
+          "w": "stubborn",
+          "start": 36.08,
+          "end": 36.447,
+          "conf": 0.97
+        },
+        {
+          "w": "crew,",
+          "start": 36.447,
+          "end": 37.24,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "text": "four hundred kilometres of ocean, nothing but stars and blue;",
+      "start": 37.24,
+      "end": 40.348,
+      "words": [
+        {
+          "w": "four",
+          "start": 37.24,
+          "end": 37.44,
+          "conf": 0.92
+        },
+        {
+          "w": "hundred",
+          "start": 37.44,
+          "end": 37.704,
+          "conf": 0.92
+        },
+        {
+          "w": "kilometres",
+          "start": 37.704,
+          "end": 38.32,
+          "conf": 0.92
+        },
+        {
+          "w": "of",
+          "start": 38.32,
+          "end": 38.448,
+          "conf": 0.79
+        },
+        {
+          "w": "ocean,",
+          "start": 38.448,
+          "end": 38.98,
+          "conf": 0.99
+        },
+        {
+          "w": "nothing",
+          "start": 38.98,
+          "end": 39.38,
+          "conf": 1.0
+        },
+        {
+          "w": "but",
+          "start": 39.38,
+          "end": 39.475,
+          "conf": 0.85
+        },
+        {
+          "w": "stars",
+          "start": 39.475,
+          "end": 39.88,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 39.88,
+          "end": 39.98,
+          "conf": 1.0
+        },
+        {
+          "w": "blue;",
+          "start": 39.98,
+          "end": 40.348,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "text": "they lashed me to a raft, put a pole through the hole in the heart of me,",
+      "start": 40.68,
+      "end": 43.696,
+      "words": [
+        {
+          "w": "they",
+          "start": 40.68,
+          "end": 40.86,
+          "conf": 0.85
+        },
+        {
+          "w": "lashed",
+          "start": 40.86,
+          "end": 41.12,
+          "conf": 1.0
+        },
+        {
+          "w": "me",
+          "start": 41.12,
+          "end": 41.24,
+          "conf": 1.0
+        },
+        {
+          "w": "to",
+          "start": 41.24,
+          "end": 41.46,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 41.46,
+          "end": 41.56,
+          "conf": 1.0
+        },
+        {
+          "w": "raft,",
+          "start": 41.56,
+          "end": 41.8,
+          "conf": 1.0
+        },
+        {
+          "w": "put",
+          "start": 41.84,
+          "end": 42.02,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 42.02,
+          "end": 42.1,
+          "conf": 1.0
+        },
+        {
+          "w": "pole",
+          "start": 42.1,
+          "end": 42.26,
+          "conf": 1.0
+        },
+        {
+          "w": "through",
+          "start": 42.26,
+          "end": 42.44,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 42.44,
+          "end": 42.54,
+          "conf": 0.97
+        },
+        {
+          "w": "hole",
+          "start": 42.54,
+          "end": 42.76,
+          "conf": 1.0
+        },
+        {
+          "w": "in",
+          "start": 42.76,
+          "end": 42.86,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 42.86,
+          "end": 42.957,
+          "conf": 0.97
+        },
+        {
+          "w": "heart",
+          "start": 42.957,
+          "end": 43.3,
+          "conf": 1.0
+        },
+        {
+          "w": "of",
+          "start": 43.3,
+          "end": 43.4,
+          "conf": 0.93
+        },
+        {
+          "w": "me,",
+          "start": 43.4,
+          "end": 43.696,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "text": "then a storm came off the reef one night and I went to the bottom of the sea.",
+      "start": 44.0,
+      "end": 47.54,
+      "words": [
+        {
+          "w": "then",
+          "start": 44.0,
+          "end": 44.16,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 44.16,
+          "end": 44.22,
+          "conf": 1.0
+        },
+        {
+          "w": "storm",
+          "start": 44.22,
+          "end": 44.54,
+          "conf": 1.0
+        },
+        {
+          "w": "came",
+          "start": 44.54,
+          "end": 44.72,
+          "conf": 1.0
+        },
+        {
+          "w": "off",
+          "start": 44.72,
+          "end": 44.86,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 44.86,
+          "end": 45.0,
+          "conf": 1.0
+        },
+        {
+          "w": "reef",
+          "start": 45.0,
+          "end": 45.317,
+          "conf": 1.0
+        },
+        {
+          "w": "one",
+          "start": 45.317,
+          "end": 45.54,
+          "conf": 1.0
+        },
+        {
+          "w": "night",
+          "start": 45.54,
+          "end": 45.76,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 45.76,
+          "end": 45.866,
+          "conf": 1.0
+        },
+        {
+          "w": "I",
+          "start": 45.866,
+          "end": 45.96,
+          "conf": 1.0
+        },
+        {
+          "w": "went",
+          "start": 45.96,
+          "end": 46.145,
+          "conf": 1.0
+        },
+        {
+          "w": "to",
+          "start": 46.145,
+          "end": 46.29,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 46.29,
+          "end": 46.429,
+          "conf": 1.0
+        },
+        {
+          "w": "bottom",
+          "start": 46.429,
+          "end": 46.74,
+          "conf": 1.0
+        },
+        {
+          "w": "of",
+          "start": 46.74,
+          "end": 46.84,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 46.84,
+          "end": 46.938,
+          "conf": 1.0
+        },
+        {
+          "w": "sea.",
+          "start": 46.938,
+          "end": 47.54,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "text": "Now here's the twist, and I love this bit: nobody wrote me off,",
+      "start": 47.54,
+      "end": 50.98,
+      "words": [
+        {
+          "w": "Now",
+          "start": 47.54,
+          "end": 47.72,
+          "conf": 1.0
+        },
+        {
+          "w": "here's",
+          "start": 47.72,
+          "end": 48.0,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 48.0,
+          "end": 48.126,
+          "conf": 1.0
+        },
+        {
+          "w": "twist,",
+          "start": 48.126,
+          "end": 48.38,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 48.38,
+          "end": 48.48,
+          "conf": 0.93
+        },
+        {
+          "w": "I",
+          "start": 48.48,
+          "end": 48.56,
+          "conf": 0.88
+        },
+        {
+          "w": "love",
+          "start": 48.56,
+          "end": 48.8,
+          "conf": 0.87
+        },
+        {
+          "w": "this",
+          "start": 48.8,
+          "end": 49.009,
+          "conf": 0.86
+        },
+        {
+          "w": "bit:",
+          "start": 49.009,
+          "end": 49.26,
+          "conf": 0.82
+        },
+        {
+          "w": "nobody",
+          "start": 49.26,
+          "end": 49.742,
+          "conf": 1.0
+        },
+        {
+          "w": "wrote",
+          "start": 49.742,
+          "end": 50.12,
+          "conf": 0.79
+        },
+        {
+          "w": "me",
+          "start": 50.12,
+          "end": 50.46,
+          "conf": 1.0
+        },
+        {
+          "w": "off,",
+          "start": 50.46,
+          "end": 50.98,
+          "conf": 0.77
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "text": "the island said \"we know she's down there\", and believing was enough;",
+      "start": 50.98,
+      "end": 54.337,
+      "words": [
+        {
+          "w": "the",
+          "start": 50.98,
+          "end": 51.174,
+          "conf": 1.0
+        },
+        {
+          "w": "island",
+          "start": 51.174,
+          "end": 51.513,
+          "conf": 0.92
+        },
+        {
+          "w": "said",
+          "start": 51.513,
+          "end": 51.767,
+          "conf": 1.0
+        },
+        {
+          "w": "\"we",
+          "start": 51.767,
+          "end": 51.98,
+          "conf": 1.0
+        },
+        {
+          "w": "know",
+          "start": 51.98,
+          "end": 52.171,
+          "conf": 1.0
+        },
+        {
+          "w": "she's",
+          "start": 52.171,
+          "end": 52.441,
+          "conf": 1.0
+        },
+        {
+          "w": "down",
+          "start": 52.441,
+          "end": 52.68,
+          "conf": 1.0
+        },
+        {
+          "w": "there\",",
+          "start": 52.68,
+          "end": 52.98,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 52.98,
+          "end": 53.12,
+          "conf": 0.6
+        },
+        {
+          "w": "believing",
+          "start": 53.12,
+          "end": 53.458,
+          "conf": 1.0
+        },
+        {
+          "w": "was",
+          "start": 53.458,
+          "end": 53.738,
+          "conf": 1.0
+        },
+        {
+          "w": "enough;",
+          "start": 53.738,
+          "end": 54.337,
+          "conf": 0.97
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "text": "so I still buy land, I still settle a feud, I still make a wedding complete,",
+      "start": 54.337,
+      "end": 57.42,
+      "words": [
+        {
+          "w": "so",
+          "start": 54.337,
+          "end": 54.451,
+          "conf": 1.0
+        },
+        {
+          "w": "I",
+          "start": 54.451,
+          "end": 54.64,
+          "conf": 0.93
+        },
+        {
+          "w": "still",
+          "start": 54.64,
+          "end": 54.82,
+          "conf": 0.91
+        },
+        {
+          "w": "buy",
+          "start": 54.82,
+          "end": 54.96,
+          "conf": 0.92
+        },
+        {
+          "w": "land,",
+          "start": 54.96,
+          "end": 55.16,
+          "conf": 1.0
+        },
+        {
+          "w": "I",
+          "start": 55.16,
+          "end": 55.22,
+          "conf": 0.81
+        },
+        {
+          "w": "still",
+          "start": 55.22,
+          "end": 55.349,
+          "conf": 0.94
+        },
+        {
+          "w": "settle",
+          "start": 55.349,
+          "end": 55.72,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 55.72,
+          "end": 55.82,
+          "conf": 1.0
+        },
+        {
+          "w": "feud,",
+          "start": 55.82,
+          "end": 56.14,
+          "conf": 0.94
+        },
+        {
+          "w": "I",
+          "start": 56.14,
+          "end": 56.2,
+          "conf": 0.81
+        },
+        {
+          "w": "still",
+          "start": 56.2,
+          "end": 56.42,
+          "conf": 0.98
+        },
+        {
+          "w": "make",
+          "start": 56.42,
+          "end": 56.58,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 56.58,
+          "end": 56.7,
+          "conf": 0.98
+        },
+        {
+          "w": "wedding",
+          "start": 56.7,
+          "end": 56.881,
+          "conf": 1.0
+        },
+        {
+          "w": "complete,",
+          "start": 56.881,
+          "end": 57.42,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "text": "nobody living has seen me and I'm the richest rock in the street.",
+      "start": 57.524,
+      "end": 60.433,
+      "words": [
+        {
+          "w": "nobody",
+          "start": 57.524,
+          "end": 57.96,
+          "conf": 0.85
+        },
+        {
+          "w": "living",
+          "start": 57.96,
+          "end": 58.28,
+          "conf": 1.0
+        },
+        {
+          "w": "has",
+          "start": 58.28,
+          "end": 58.38,
+          "conf": 0.88
+        },
+        {
+          "w": "seen",
+          "start": 58.38,
+          "end": 58.68,
+          "conf": 1.0
+        },
+        {
+          "w": "me",
+          "start": 58.68,
+          "end": 58.88,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 58.88,
+          "end": 59.02,
+          "conf": 0.9
+        },
+        {
+          "w": "I'm",
+          "start": 59.02,
+          "end": 59.14,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 59.14,
+          "end": 59.28,
+          "conf": 1.0
+        },
+        {
+          "w": "richest",
+          "start": 59.28,
+          "end": 59.7,
+          "conf": 1.0
+        },
+        {
+          "w": "rock",
+          "start": 59.7,
+          "end": 59.9,
+          "conf": 1.0
+        },
+        {
+          "w": "in",
+          "start": 59.9,
+          "end": 59.98,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 59.98,
+          "end": 60.08,
+          "conf": 0.99
+        },
+        {
+          "w": "street.",
+          "start": 60.08,
+          "end": 60.433,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "text": "'Cause I was never really stone,",
+      "start": 60.852,
+      "end": 63.186,
+      "words": [
+        {
+          "w": "'Cause",
+          "start": 60.852,
+          "end": 61.45,
+          "conf": 0.85
+        },
+        {
+          "w": "I",
+          "start": 61.45,
+          "end": 61.66,
+          "conf": 0.92
+        },
+        {
+          "w": "was",
+          "start": 61.66,
+          "end": 61.84,
+          "conf": 1.0
+        },
+        {
+          "w": "never",
+          "start": 61.84,
+          "end": 62.28,
+          "conf": 1.0
+        },
+        {
+          "w": "really",
+          "start": 62.28,
+          "end": 62.593,
+          "conf": 1.0
+        },
+        {
+          "w": "stone,",
+          "start": 62.593,
+          "end": 63.186,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "text": "I'm the story that you keep;",
+      "start": 63.186,
+      "end": 64.628,
+      "words": [
+        {
+          "w": "I'm",
+          "start": 63.186,
+          "end": 63.4,
+          "conf": 0.89
+        },
+        {
+          "w": "the",
+          "start": 63.4,
+          "end": 63.496,
+          "conf": 0.99
+        },
+        {
+          "w": "story",
+          "start": 63.496,
+          "end": 64.0,
+          "conf": 1.0
+        },
+        {
+          "w": "that",
+          "start": 64.0,
+          "end": 64.24,
+          "conf": 1.0
+        },
+        {
+          "w": "you",
+          "start": 64.24,
+          "end": 64.4,
+          "conf": 1.0
+        },
+        {
+          "w": "keep;",
+          "start": 64.4,
+          "end": 64.628,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "text": "I'm worth exactly what you say,",
+      "start": 64.74,
+      "end": 66.344,
+      "words": [
+        {
+          "w": "I'm",
+          "start": 64.74,
+          "end": 64.86,
+          "conf": 0.73
+        },
+        {
+          "w": "worth",
+          "start": 64.86,
+          "end": 65.127,
+          "conf": 1.0
+        },
+        {
+          "w": "exactly",
+          "start": 65.127,
+          "end": 65.621,
+          "conf": 1.0
+        },
+        {
+          "w": "what",
+          "start": 65.621,
+          "end": 65.94,
+          "conf": 1.0
+        },
+        {
+          "w": "you",
+          "start": 65.94,
+          "end": 66.04,
+          "conf": 1.0
+        },
+        {
+          "w": "say,",
+          "start": 66.04,
+          "end": 66.344,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "text": "so what are you saying about me?",
+      "start": 66.344,
+      "end": 67.98,
+      "words": [
+        {
+          "w": "so",
+          "start": 66.344,
+          "end": 66.464,
+          "conf": 1.0
+        },
+        {
+          "w": "what",
+          "start": 66.464,
+          "end": 66.72,
+          "conf": 1.0
+        },
+        {
+          "w": "are",
+          "start": 66.72,
+          "end": 66.8,
+          "conf": 0.89
+        },
+        {
+          "w": "you",
+          "start": 66.8,
+          "end": 66.898,
+          "conf": 1.0
+        },
+        {
+          "w": "saying",
+          "start": 66.898,
+          "end": 67.48,
+          "conf": 1.0
+        },
+        {
+          "w": "about",
+          "start": 67.48,
+          "end": 67.84,
+          "conf": 0.84
+        },
+        {
+          "w": "me?",
+          "start": 67.84,
+          "end": 67.98,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "text": "I'm the stone at the bottom of the sea,",
+      "start": 67.98,
+      "end": 70.864,
+      "words": [
+        {
+          "w": "I'm",
+          "start": 67.98,
+          "end": 68.52,
+          "conf": 0.48
+        },
+        {
+          "w": "the",
+          "start": 68.52,
+          "end": 68.619,
+          "conf": 0.95
+        },
+        {
+          "w": "stone",
+          "start": 68.619,
+          "end": 69.26,
+          "conf": 0.93
+        },
+        {
+          "w": "at",
+          "start": 69.26,
+          "end": 69.4,
+          "conf": 0.77
+        },
+        {
+          "w": "the",
+          "start": 69.4,
+          "end": 69.54,
+          "conf": 1.0
+        },
+        {
+          "w": "bottom",
+          "start": 69.54,
+          "end": 70.14,
+          "conf": 0.97
+        },
+        {
+          "w": "of",
+          "start": 70.14,
+          "end": 70.26,
+          "conf": 0.74
+        },
+        {
+          "w": "the",
+          "start": 70.26,
+          "end": 70.355,
+          "conf": 0.99
+        },
+        {
+          "w": "sea,",
+          "start": 70.355,
+          "end": 70.864,
+          "conf": 0.91
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "text": "nobody's seen me but everybody believes;",
+      "start": 71.063,
+      "end": 74.326,
+      "words": [
+        {
+          "w": "nobody's",
+          "start": 71.063,
+          "end": 71.857,
+          "conf": 0.81
+        },
+        {
+          "w": "seen",
+          "start": 71.857,
+          "end": 72.14,
+          "conf": 0.75
+        },
+        {
+          "w": "me",
+          "start": 72.14,
+          "end": 72.38,
+          "conf": 0.91
+        },
+        {
+          "w": "but",
+          "start": 72.38,
+          "end": 72.72,
+          "conf": 1.0
+        },
+        {
+          "w": "everybody",
+          "start": 72.72,
+          "end": 73.42,
+          "conf": 0.85
+        },
+        {
+          "w": "believes;",
+          "start": 73.42,
+          "end": 74.326,
+          "conf": 0.7
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "text": "if you can count a thing you can't even see,",
+      "start": 74.58,
+      "end": 77.778,
+      "words": [
+        {
+          "w": "if",
+          "start": 74.58,
+          "end": 74.72,
+          "conf": 0.81
+        },
+        {
+          "w": "you",
+          "start": 74.72,
+          "end": 74.94,
+          "conf": 0.95
+        },
+        {
+          "w": "can",
+          "start": 74.94,
+          "end": 75.1,
+          "conf": 1.0
+        },
+        {
+          "w": "count",
+          "start": 75.1,
+          "end": 75.46,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 75.46,
+          "end": 75.54,
+          "conf": 0.95
+        },
+        {
+          "w": "thing",
+          "start": 75.54,
+          "end": 75.98,
+          "conf": 0.9
+        },
+        {
+          "w": "you",
+          "start": 75.98,
+          "end": 76.406,
+          "conf": 0.85
+        },
+        {
+          "w": "can't",
+          "start": 76.406,
+          "end": 76.76,
+          "conf": 0.74
+        },
+        {
+          "w": "even",
+          "start": 76.76,
+          "end": 77.16,
+          "conf": 0.86
+        },
+        {
+          "w": "see,",
+          "start": 77.16,
+          "end": 77.778,
+          "conf": 0.78
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "text": "who else is waiting at the bottom of the sea?",
+      "start": 77.898,
+      "end": 81.026,
+      "words": [
+        {
+          "w": "who",
+          "start": 77.898,
+          "end": 78.46,
+          "conf": 0.81
+        },
+        {
+          "w": "else",
+          "start": 78.46,
+          "end": 78.64,
+          "conf": 0.55
+        },
+        {
+          "w": "is",
+          "start": 78.64,
+          "end": 78.8,
+          "conf": 0.88
+        },
+        {
+          "w": "waiting",
+          "start": 78.8,
+          "end": 79.56,
+          "conf": 0.88
+        },
+        {
+          "w": "at",
+          "start": 79.56,
+          "end": 79.68,
+          "conf": 0.77
+        },
+        {
+          "w": "the",
+          "start": 79.68,
+          "end": 79.82,
+          "conf": 1.0
+        },
+        {
+          "w": "bottom",
+          "start": 79.82,
+          "end": 80.42,
+          "conf": 0.93
+        },
+        {
+          "w": "of",
+          "start": 80.42,
+          "end": 80.54,
+          "conf": 0.64
+        },
+        {
+          "w": "the",
+          "start": 80.54,
+          "end": 80.637,
+          "conf": 0.86
+        },
+        {
+          "w": "sea?",
+          "start": 80.637,
+          "end": 81.026,
+          "conf": 0.87
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "text": "Then a trader sailed in with an iron hull: \"why paddle? I'll bring you a ton\";",
+      "start": 81.495,
+      "end": 84.907,
+      "words": [
+        {
+          "w": "Then",
+          "start": 81.495,
+          "end": 81.88,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 81.88,
+          "end": 81.94,
+          "conf": 0.99
+        },
+        {
+          "w": "trader",
+          "start": 81.94,
+          "end": 82.193,
+          "conf": 1.0
+        },
+        {
+          "w": "sailed",
+          "start": 82.193,
+          "end": 82.5,
+          "conf": 1.0
+        },
+        {
+          "w": "in",
+          "start": 82.5,
+          "end": 82.58,
+          "conf": 1.0
+        },
+        {
+          "w": "with",
+          "start": 82.58,
+          "end": 82.76,
+          "conf": 1.0
+        },
+        {
+          "w": "an",
+          "start": 82.76,
+          "end": 82.882,
+          "conf": 1.0
+        },
+        {
+          "w": "iron",
+          "start": 82.882,
+          "end": 83.14,
+          "conf": 1.0
+        },
+        {
+          "w": "hull:",
+          "start": 83.14,
+          "end": 83.376,
+          "conf": 1.0
+        },
+        {
+          "w": "\"why",
+          "start": 83.5,
+          "end": 83.725,
+          "conf": 0.85
+        },
+        {
+          "w": "paddle?",
+          "start": 83.725,
+          "end": 84.0,
+          "conf": 1.0
+        },
+        {
+          "w": "I'll",
+          "start": 84.0,
+          "end": 84.14,
+          "conf": 0.99
+        },
+        {
+          "w": "bring",
+          "start": 84.14,
+          "end": 84.3,
+          "conf": 1.0
+        },
+        {
+          "w": "you",
+          "start": 84.3,
+          "end": 84.46,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 84.46,
+          "end": 84.49,
+          "conf": 0.98
+        },
+        {
+          "w": "ton\";",
+          "start": 84.49,
+          "end": 84.907,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "text": "he shipped us in bulk; the island said thanks, and priced his at a fraction of one;",
+      "start": 84.962,
+      "end": 88.68,
+      "words": [
+        {
+          "w": "he",
+          "start": 84.962,
+          "end": 85.356,
+          "conf": 0.85
+        },
+        {
+          "w": "shipped",
+          "start": 85.356,
+          "end": 85.6,
+          "conf": 1.0
+        },
+        {
+          "w": "us",
+          "start": 85.6,
+          "end": 85.74,
+          "conf": 1.0
+        },
+        {
+          "w": "in",
+          "start": 85.74,
+          "end": 85.84,
+          "conf": 1.0
+        },
+        {
+          "w": "bulk;",
+          "start": 85.84,
+          "end": 86.039,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 86.099,
+          "end": 86.32,
+          "conf": 1.0
+        },
+        {
+          "w": "island",
+          "start": 86.32,
+          "end": 86.498,
+          "conf": 0.93
+        },
+        {
+          "w": "said",
+          "start": 86.498,
+          "end": 86.603,
+          "conf": 0.9
+        },
+        {
+          "w": "thanks,",
+          "start": 86.603,
+          "end": 87.0,
+          "conf": 0.83
+        },
+        {
+          "w": "and",
+          "start": 87.0,
+          "end": 87.1,
+          "conf": 1.0
+        },
+        {
+          "w": "priced",
+          "start": 87.1,
+          "end": 87.337,
+          "conf": 1.0
+        },
+        {
+          "w": "his",
+          "start": 87.337,
+          "end": 87.596,
+          "conf": 0.97
+        },
+        {
+          "w": "at",
+          "start": 87.596,
+          "end": 87.74,
+          "conf": 0.98
+        },
+        {
+          "w": "a",
+          "start": 87.74,
+          "end": 87.84,
+          "conf": 0.99
+        },
+        {
+          "w": "fraction",
+          "start": 87.84,
+          "end": 88.3,
+          "conf": 1.0
+        },
+        {
+          "w": "of",
+          "start": 88.3,
+          "end": 88.48,
+          "conf": 0.85
+        },
+        {
+          "w": "one;",
+          "start": 88.48,
+          "end": 88.68,
+          "conf": 0.92
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "text": "'cause value's the crossing, the risk and the reef, the hands and the hours it cost,",
+      "start": 88.68,
+      "end": 92.0,
+      "words": [
+        {
+          "w": "'cause",
+          "start": 88.68,
+          "end": 88.84,
+          "conf": 0.96
+        },
+        {
+          "w": "value's",
+          "start": 88.84,
+          "end": 89.12,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 89.12,
+          "end": 89.22,
+          "conf": 1.0
+        },
+        {
+          "w": "crossing,",
+          "start": 89.22,
+          "end": 89.507,
+          "conf": 0.92
+        },
+        {
+          "w": "the",
+          "start": 89.507,
+          "end": 89.68,
+          "conf": 0.97
+        },
+        {
+          "w": "risk",
+          "start": 89.68,
+          "end": 89.9,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 89.9,
+          "end": 89.98,
+          "conf": 0.93
+        },
+        {
+          "w": "the",
+          "start": 89.98,
+          "end": 90.12,
+          "conf": 1.0
+        },
+        {
+          "w": "reef,",
+          "start": 90.12,
+          "end": 90.4,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 90.4,
+          "end": 90.499,
+          "conf": 1.0
+        },
+        {
+          "w": "hands",
+          "start": 90.499,
+          "end": 90.729,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 90.729,
+          "end": 90.883,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 90.883,
+          "end": 91.04,
+          "conf": 1.0
+        },
+        {
+          "w": "hours",
+          "start": 91.04,
+          "end": 91.32,
+          "conf": 0.92
+        },
+        {
+          "w": "it",
+          "start": 91.32,
+          "end": 91.42,
+          "conf": 1.0
+        },
+        {
+          "w": "cost,",
+          "start": 91.42,
+          "end": 92.0,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "text": "not how heavy you are, not how you shine, but the voyage, and what could be lost.",
+      "start": 92.0,
+      "end": 95.448,
+      "words": [
+        {
+          "w": "not",
+          "start": 92.0,
+          "end": 92.14,
+          "conf": 0.85
+        },
+        {
+          "w": "how",
+          "start": 92.14,
+          "end": 92.255,
+          "conf": 1.0
+        },
+        {
+          "w": "heavy",
+          "start": 92.255,
+          "end": 92.45,
+          "conf": 1.0
+        },
+        {
+          "w": "you",
+          "start": 92.45,
+          "end": 92.734,
+          "conf": 1.0
+        },
+        {
+          "w": "are,",
+          "start": 92.734,
+          "end": 93.12,
+          "conf": 0.92
+        },
+        {
+          "w": "not",
+          "start": 93.12,
+          "end": 93.218,
+          "conf": 1.0
+        },
+        {
+          "w": "how",
+          "start": 93.218,
+          "end": 93.38,
+          "conf": 1.0
+        },
+        {
+          "w": "you",
+          "start": 93.38,
+          "end": 93.483,
+          "conf": 1.0
+        },
+        {
+          "w": "shine,",
+          "start": 93.483,
+          "end": 93.72,
+          "conf": 1.0
+        },
+        {
+          "w": "but",
+          "start": 93.72,
+          "end": 93.84,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 93.84,
+          "end": 93.96,
+          "conf": 1.0
+        },
+        {
+          "w": "voyage,",
+          "start": 93.96,
+          "end": 94.276,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 94.276,
+          "end": 94.4,
+          "conf": 1.0
+        },
+        {
+          "w": "what",
+          "start": 94.4,
+          "end": 94.54,
+          "conf": 1.0
+        },
+        {
+          "w": "could",
+          "start": 94.54,
+          "end": 94.7,
+          "conf": 1.0
+        },
+        {
+          "w": "be",
+          "start": 94.7,
+          "end": 94.8,
+          "conf": 1.0
+        },
+        {
+          "w": "lost.",
+          "start": 94.8,
+          "end": 95.448,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "text": "Now you print it, you wire it, you mine it in code, a pledge on a screen held up as gold,",
+      "start": 95.448,
+      "end": 99.04,
+      "words": [
+        {
+          "w": "Now",
+          "start": 95.448,
+          "end": 95.54,
+          "conf": 0.85
+        },
+        {
+          "w": "you",
+          "start": 95.54,
+          "end": 95.707,
+          "conf": 1.0
+        },
+        {
+          "w": "print",
+          "start": 95.707,
+          "end": 95.88,
+          "conf": 1.0
+        },
+        {
+          "w": "it,",
+          "start": 95.88,
+          "end": 95.96,
+          "conf": 0.99
+        },
+        {
+          "w": "you",
+          "start": 95.96,
+          "end": 96.1,
+          "conf": 1.0
+        },
+        {
+          "w": "wire",
+          "start": 96.1,
+          "end": 96.32,
+          "conf": 0.98
+        },
+        {
+          "w": "it,",
+          "start": 96.32,
+          "end": 96.42,
+          "conf": 0.96
+        },
+        {
+          "w": "you",
+          "start": 96.42,
+          "end": 96.54,
+          "conf": 1.0
+        },
+        {
+          "w": "mine",
+          "start": 96.54,
+          "end": 96.76,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 96.76,
+          "end": 96.86,
+          "conf": 0.89
+        },
+        {
+          "w": "in",
+          "start": 96.86,
+          "end": 96.96,
+          "conf": 1.0
+        },
+        {
+          "w": "code,",
+          "start": 96.96,
+          "end": 97.32,
+          "conf": 0.94
+        },
+        {
+          "w": "a",
+          "start": 97.32,
+          "end": 97.424,
+          "conf": 1.0
+        },
+        {
+          "w": "pledge",
+          "start": 97.424,
+          "end": 97.573,
+          "conf": 1.0
+        },
+        {
+          "w": "on",
+          "start": 97.573,
+          "end": 97.72,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 97.72,
+          "end": 97.78,
+          "conf": 1.0
+        },
+        {
+          "w": "screen",
+          "start": 97.78,
+          "end": 97.937,
+          "conf": 1.0
+        },
+        {
+          "w": "held",
+          "start": 97.937,
+          "end": 98.351,
+          "conf": 1.0
+        },
+        {
+          "w": "up",
+          "start": 98.351,
+          "end": 98.456,
+          "conf": 1.0
+        },
+        {
+          "w": "as",
+          "start": 98.526,
+          "end": 98.68,
+          "conf": 1.0
+        },
+        {
+          "w": "gold,",
+          "start": 98.68,
+          "end": 99.04,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "text": "and honestly? Genius: it lets strangers trade. I won't call money a fraud;",
+      "start": 99.04,
+      "end": 102.56,
+      "words": [
+        {
+          "w": "and",
+          "start": 99.04,
+          "end": 99.14,
+          "conf": 1.0
+        },
+        {
+          "w": "honestly?",
+          "start": 99.14,
+          "end": 99.454,
+          "conf": 1.0
+        },
+        {
+          "w": "Genius:",
+          "start": 99.454,
+          "end": 100.02,
+          "conf": 0.99
+        },
+        {
+          "w": "it",
+          "start": 100.02,
+          "end": 100.12,
+          "conf": 0.95
+        },
+        {
+          "w": "lets",
+          "start": 100.12,
+          "end": 100.32,
+          "conf": 0.97
+        },
+        {
+          "w": "strangers",
+          "start": 100.32,
+          "end": 100.861,
+          "conf": 1.0
+        },
+        {
+          "w": "trade.",
+          "start": 100.861,
+          "end": 101.16,
+          "conf": 1.0
+        },
+        {
+          "w": "I",
+          "start": 101.16,
+          "end": 101.28,
+          "conf": 0.72
+        },
+        {
+          "w": "won't",
+          "start": 101.28,
+          "end": 101.549,
+          "conf": 0.98
+        },
+        {
+          "w": "call",
+          "start": 101.549,
+          "end": 101.599,
+          "conf": 0.99
+        },
+        {
+          "w": "money",
+          "start": 101.599,
+          "end": 102.0,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 102.0,
+          "end": 102.1,
+          "conf": 0.86
+        },
+        {
+          "w": "fraud;",
+          "start": 102.1,
+          "end": 102.56,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "text": "but up the road there's a woman awake at four with a fever, a lunchbox, a bill,",
+      "start": 102.56,
+      "end": 105.72,
+      "words": [
+        {
+          "w": "but",
+          "start": 102.56,
+          "end": 102.72,
+          "conf": 0.85
+        },
+        {
+          "w": "up",
+          "start": 102.72,
+          "end": 102.84,
+          "conf": 0.99
+        },
+        {
+          "w": "the",
+          "start": 102.84,
+          "end": 102.96,
+          "conf": 1.0
+        },
+        {
+          "w": "road",
+          "start": 102.96,
+          "end": 103.12,
+          "conf": 0.91
+        },
+        {
+          "w": "there's",
+          "start": 103.12,
+          "end": 103.3,
+          "conf": 0.98
+        },
+        {
+          "w": "a",
+          "start": 103.3,
+          "end": 103.4,
+          "conf": 0.99
+        },
+        {
+          "w": "woman",
+          "start": 103.4,
+          "end": 103.72,
+          "conf": 1.0
+        },
+        {
+          "w": "awake",
+          "start": 103.72,
+          "end": 104.14,
+          "conf": 0.89
+        },
+        {
+          "w": "at",
+          "start": 104.14,
+          "end": 104.24,
+          "conf": 0.91
+        },
+        {
+          "w": "four",
+          "start": 104.24,
+          "end": 104.313,
+          "conf": 1.0
+        },
+        {
+          "w": "with",
+          "start": 104.313,
+          "end": 104.58,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 104.58,
+          "end": 104.66,
+          "conf": 0.85
+        },
+        {
+          "w": "fever,",
+          "start": 104.66,
+          "end": 105.0,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 105.0,
+          "end": 105.1,
+          "conf": 0.87
+        },
+        {
+          "w": "lunchbox,",
+          "start": 105.1,
+          "end": 105.316,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 105.316,
+          "end": 105.54,
+          "conf": 0.85
+        },
+        {
+          "w": "bill,",
+          "start": 105.54,
+          "end": 105.72,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "text": "and your ledger looks right at her, blinks, and writes zero. Not minus. Just nothing. Still.",
+      "start": 105.72,
+      "end": 109.4,
+      "words": [
+        {
+          "w": "and",
+          "start": 105.72,
+          "end": 105.84,
+          "conf": 0.89
+        },
+        {
+          "w": "your",
+          "start": 105.84,
+          "end": 105.96,
+          "conf": 0.95
+        },
+        {
+          "w": "ledger",
+          "start": 105.96,
+          "end": 106.139,
+          "conf": 1.0
+        },
+        {
+          "w": "looks",
+          "start": 106.139,
+          "end": 106.363,
+          "conf": 1.0
+        },
+        {
+          "w": "right",
+          "start": 106.363,
+          "end": 106.6,
+          "conf": 0.99
+        },
+        {
+          "w": "at",
+          "start": 106.6,
+          "end": 106.72,
+          "conf": 0.95
+        },
+        {
+          "w": "her,",
+          "start": 106.72,
+          "end": 106.84,
+          "conf": 0.89
+        },
+        {
+          "w": "blinks,",
+          "start": 106.84,
+          "end": 107.16,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 107.16,
+          "end": 107.26,
+          "conf": 1.0
+        },
+        {
+          "w": "writes",
+          "start": 107.26,
+          "end": 107.52,
+          "conf": 0.94
+        },
+        {
+          "w": "zero.",
+          "start": 107.52,
+          "end": 107.735,
+          "conf": 1.0
+        },
+        {
+          "w": "Not",
+          "start": 107.735,
+          "end": 108.124,
+          "conf": 0.97
+        },
+        {
+          "w": "minus.",
+          "start": 108.124,
+          "end": 108.38,
+          "conf": 1.0
+        },
+        {
+          "w": "Just",
+          "start": 108.38,
+          "end": 108.56,
+          "conf": 1.0
+        },
+        {
+          "w": "nothing.",
+          "start": 108.56,
+          "end": 108.843,
+          "conf": 1.0
+        },
+        {
+          "w": "Still.",
+          "start": 108.843,
+          "end": 109.4,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "text": "Marry your housekeeper, the income drops:",
+      "start": 109.4,
+      "end": 111.477,
+      "words": [
+        {
+          "w": "Marry",
+          "start": 109.4,
+          "end": 109.68,
+          "conf": 0.85
+        },
+        {
+          "w": "your",
+          "start": 109.68,
+          "end": 109.795,
+          "conf": 1.0
+        },
+        {
+          "w": "housekeeper,",
+          "start": 109.795,
+          "end": 110.469,
+          "conf": 0.92
+        },
+        {
+          "w": "the",
+          "start": 110.469,
+          "end": 110.78,
+          "conf": 0.97
+        },
+        {
+          "w": "income",
+          "start": 110.78,
+          "end": 111.12,
+          "conf": 1.0
+        },
+        {
+          "w": "drops:",
+          "start": 111.12,
+          "end": 111.477,
+          "conf": 0.95
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "text": "same floors, same love, same clock, the counting stops;",
+      "start": 111.477,
+      "end": 114.12,
+      "words": [
+        {
+          "w": "same",
+          "start": 111.477,
+          "end": 111.786,
+          "conf": 0.85
+        },
+        {
+          "w": "floors,",
+          "start": 111.786,
+          "end": 112.095,
+          "conf": 0.98
+        },
+        {
+          "w": "same",
+          "start": 112.095,
+          "end": 112.42,
+          "conf": 1.0
+        },
+        {
+          "w": "love,",
+          "start": 112.42,
+          "end": 112.609,
+          "conf": 0.95
+        },
+        {
+          "w": "same",
+          "start": 112.609,
+          "end": 112.729,
+          "conf": 0.89
+        },
+        {
+          "w": "clock,",
+          "start": 112.729,
+          "end": 113.038,
+          "conf": 0.97
+        },
+        {
+          "w": "the",
+          "start": 113.12,
+          "end": 113.24,
+          "conf": 1.0
+        },
+        {
+          "w": "counting",
+          "start": 113.24,
+          "end": 113.612,
+          "conf": 0.95
+        },
+        {
+          "w": "stops;",
+          "start": 113.612,
+          "end": 114.12,
+          "conf": 0.96
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "text": "pay a stranger, watch the number climb,",
+      "start": 114.12,
+      "end": 116.655,
+      "words": [
+        {
+          "w": "pay",
+          "start": 114.12,
+          "end": 114.4,
+          "conf": 0.83
+        },
+        {
+          "w": "a",
+          "start": 114.4,
+          "end": 114.5,
+          "conf": 0.81
+        },
+        {
+          "w": "stranger,",
+          "start": 114.5,
+          "end": 114.884,
+          "conf": 0.85
+        },
+        {
+          "w": "watch",
+          "start": 114.884,
+          "end": 115.28,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 115.28,
+          "end": 115.42,
+          "conf": 1.0
+        },
+        {
+          "w": "number",
+          "start": 115.42,
+          "end": 115.727,
+          "conf": 1.0
+        },
+        {
+          "w": "climb,",
+          "start": 115.727,
+          "end": 116.655,
+          "conf": 0.99
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "text": "your meter's measuring the wrong kind of time.",
+      "start": 116.96,
+      "end": 120.746,
+      "words": [
+        {
+          "w": "your",
+          "start": 116.96,
+          "end": 117.12,
+          "conf": 0.78
+        },
+        {
+          "w": "meter's",
+          "start": 117.12,
+          "end": 117.54,
+          "conf": 0.94
+        },
+        {
+          "w": "measuring",
+          "start": 117.54,
+          "end": 118.24,
+          "conf": 0.94
+        },
+        {
+          "w": "the",
+          "start": 118.24,
+          "end": 118.42,
+          "conf": 0.85
+        },
+        {
+          "w": "wrong",
+          "start": 118.42,
+          "end": 118.8,
+          "conf": 0.92
+        },
+        {
+          "w": "kind",
+          "start": 118.8,
+          "end": 119.16,
+          "conf": 0.98
+        },
+        {
+          "w": "of",
+          "start": 119.16,
+          "end": 119.26,
+          "conf": 0.97
+        },
+        {
+          "w": "time.",
+          "start": 119.26,
+          "end": 120.746,
+          "conf": 0.9
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "text": "I'm the stone at the bottom of the sea,",
+      "start": 121.344,
+      "end": 123.998,
+      "words": [
+        {
+          "w": "I'm",
+          "start": 121.344,
+          "end": 121.64,
+          "conf": 0.59
+        },
+        {
+          "w": "the",
+          "start": 121.64,
+          "end": 121.738,
+          "conf": 1.0
+        },
+        {
+          "w": "stone",
+          "start": 121.738,
+          "end": 122.4,
+          "conf": 0.95
+        },
+        {
+          "w": "at",
+          "start": 122.4,
+          "end": 122.54,
+          "conf": 0.77
+        },
+        {
+          "w": "the",
+          "start": 122.54,
+          "end": 122.68,
+          "conf": 1.0
+        },
+        {
+          "w": "bottom",
+          "start": 122.68,
+          "end": 123.28,
+          "conf": 0.94
+        },
+        {
+          "w": "of",
+          "start": 123.28,
+          "end": 123.4,
+          "conf": 0.77
+        },
+        {
+          "w": "the",
+          "start": 123.4,
+          "end": 123.499,
+          "conf": 1.0
+        },
+        {
+          "w": "sea,",
+          "start": 123.499,
+          "end": 123.998,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "text": "nobody's seen me but everybody believes;",
+      "start": 124.372,
+      "end": 127.425,
+      "words": [
+        {
+          "w": "nobody's",
+          "start": 124.372,
+          "end": 125.016,
+          "conf": 0.85
+        },
+        {
+          "w": "seen",
+          "start": 125.016,
+          "end": 125.28,
+          "conf": 0.82
+        },
+        {
+          "w": "me",
+          "start": 125.28,
+          "end": 125.52,
+          "conf": 0.89
+        },
+        {
+          "w": "but",
+          "start": 125.52,
+          "end": 125.82,
+          "conf": 0.98
+        },
+        {
+          "w": "everybody",
+          "start": 125.82,
+          "end": 126.56,
+          "conf": 1.0
+        },
+        {
+          "w": "believes;",
+          "start": 126.56,
+          "end": 127.425,
+          "conf": 0.77
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "text": "if you can count a thing you can't even see,",
+      "start": 127.72,
+      "end": 130.823,
+      "words": [
+        {
+          "w": "if",
+          "start": 127.72,
+          "end": 127.86,
+          "conf": 0.85
+        },
+        {
+          "w": "you",
+          "start": 127.86,
+          "end": 128.08,
+          "conf": 1.0
+        },
+        {
+          "w": "can",
+          "start": 128.08,
+          "end": 128.24,
+          "conf": 1.0
+        },
+        {
+          "w": "count",
+          "start": 128.24,
+          "end": 128.6,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 128.6,
+          "end": 128.68,
+          "conf": 1.0
+        },
+        {
+          "w": "thing",
+          "start": 128.68,
+          "end": 129.12,
+          "conf": 1.0
+        },
+        {
+          "w": "you",
+          "start": 129.12,
+          "end": 129.451,
+          "conf": 0.85
+        },
+        {
+          "w": "can't",
+          "start": 129.52,
+          "end": 129.9,
+          "conf": 0.74
+        },
+        {
+          "w": "even",
+          "start": 129.9,
+          "end": 130.314,
+          "conf": 0.91
+        },
+        {
+          "w": "see,",
+          "start": 130.314,
+          "end": 130.823,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "text": "who else is waiting at the bottom of the sea?",
+      "start": 131.24,
+      "end": 134.165,
+      "words": [
+        {
+          "w": "who",
+          "start": 131.24,
+          "end": 131.56,
+          "conf": 0.72
+        },
+        {
+          "w": "else",
+          "start": 131.56,
+          "end": 131.8,
+          "conf": 0.49
+        },
+        {
+          "w": "is",
+          "start": 131.8,
+          "end": 131.94,
+          "conf": 0.94
+        },
+        {
+          "w": "waiting",
+          "start": 131.94,
+          "end": 132.7,
+          "conf": 0.93
+        },
+        {
+          "w": "at",
+          "start": 132.7,
+          "end": 132.82,
+          "conf": 0.83
+        },
+        {
+          "w": "the",
+          "start": 132.82,
+          "end": 132.98,
+          "conf": 1.0
+        },
+        {
+          "w": "bottom",
+          "start": 132.98,
+          "end": 133.452,
+          "conf": 0.95
+        },
+        {
+          "w": "of",
+          "start": 133.452,
+          "end": 133.68,
+          "conf": 0.92
+        },
+        {
+          "w": "the",
+          "start": 133.68,
+          "end": 133.776,
+          "conf": 1.0
+        },
+        {
+          "w": "sea?",
+          "start": 133.776,
+          "end": 134.165,
+          "conf": 0.95
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "text": "\"Tell me the one about the stone in the sea.\"",
+      "start": 136.66,
+      "end": 138.54,
+      "words": [
+        {
+          "w": "\"Tell",
+          "start": 136.66,
+          "end": 136.88,
+          "conf": 0.85
+        },
+        {
+          "w": "me",
+          "start": 136.88,
+          "end": 136.98,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 136.98,
+          "end": 137.16,
+          "conf": 1.0
+        },
+        {
+          "w": "one",
+          "start": 137.16,
+          "end": 137.28,
+          "conf": 1.0
+        },
+        {
+          "w": "about",
+          "start": 137.28,
+          "end": 137.52,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 137.52,
+          "end": 137.617,
+          "conf": 1.0
+        },
+        {
+          "w": "stone",
+          "start": 137.617,
+          "end": 137.98,
+          "conf": 1.0
+        },
+        {
+          "w": "in",
+          "start": 137.98,
+          "end": 138.08,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 138.08,
+          "end": 138.176,
+          "conf": 1.0
+        },
+        {
+          "w": "sea.\"",
+          "start": 138.176,
+          "end": 138.54,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "text": "\"They carried a stone across the ocean,",
+      "start": 139.64,
+      "end": 141.498,
+      "words": [
+        {
+          "w": "\"They",
+          "start": 139.64,
+          "end": 139.82,
+          "conf": 0.85
+        },
+        {
+          "w": "carried",
+          "start": 139.82,
+          "end": 140.14,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 140.14,
+          "end": 140.24,
+          "conf": 1.0
+        },
+        {
+          "w": "stone",
+          "start": 140.24,
+          "end": 140.6,
+          "conf": 1.0
+        },
+        {
+          "w": "across",
+          "start": 140.6,
+          "end": 140.94,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 140.94,
+          "end": 141.16,
+          "conf": 1.0
+        },
+        {
+          "w": "ocean,",
+          "start": 141.16,
+          "end": 141.498,
+          "conf": 0.92
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "text": "and a storm took it down where no one could reach.",
+      "start": 142.68,
+      "end": 144.985,
+      "words": [
+        {
+          "w": "and",
+          "start": 142.68,
+          "end": 142.751,
+          "conf": 0.85
+        },
+        {
+          "w": "a",
+          "start": 142.751,
+          "end": 142.85,
+          "conf": 1.0
+        },
+        {
+          "w": "storm",
+          "start": 142.85,
+          "end": 143.26,
+          "conf": 1.0
+        },
+        {
+          "w": "took",
+          "start": 143.26,
+          "end": 143.429,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 143.429,
+          "end": 143.54,
+          "conf": 1.0
+        },
+        {
+          "w": "down",
+          "start": 143.54,
+          "end": 143.8,
+          "conf": 1.0
+        },
+        {
+          "w": "where",
+          "start": 143.8,
+          "end": 143.898,
+          "conf": 1.0
+        },
+        {
+          "w": "no",
+          "start": 143.898,
+          "end": 144.2,
+          "conf": 1.0
+        },
+        {
+          "w": "one",
+          "start": 144.2,
+          "end": 144.34,
+          "conf": 1.0
+        },
+        {
+          "w": "could",
+          "start": 144.34,
+          "end": 144.482,
+          "conf": 1.0
+        },
+        {
+          "w": "reach.",
+          "start": 144.482,
+          "end": 144.985,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "text": "Nobody cried. They just said: we know it's there.",
+      "start": 145.98,
+      "end": 148.792,
+      "words": [
+        {
+          "w": "Nobody",
+          "start": 145.98,
+          "end": 146.36,
+          "conf": 0.85
+        },
+        {
+          "w": "cried.",
+          "start": 146.36,
+          "end": 146.68,
+          "conf": 1.0
+        },
+        {
+          "w": "They",
+          "start": 146.68,
+          "end": 146.84,
+          "conf": 1.0
+        },
+        {
+          "w": "just",
+          "start": 146.84,
+          "end": 146.936,
+          "conf": 1.0
+        },
+        {
+          "w": "said:",
+          "start": 146.936,
+          "end": 147.31,
+          "conf": 1.0
+        },
+        {
+          "w": "we",
+          "start": 147.98,
+          "end": 148.12,
+          "conf": 0.85
+        },
+        {
+          "w": "know",
+          "start": 148.12,
+          "end": 148.32,
+          "conf": 1.0
+        },
+        {
+          "w": "it's",
+          "start": 148.32,
+          "end": 148.48,
+          "conf": 1.0
+        },
+        {
+          "w": "there.",
+          "start": 148.48,
+          "end": 148.792,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "text": "And it was still worth everything.\"",
+      "start": 150.34,
+      "end": 151.75,
+      "words": [
+        {
+          "w": "And",
+          "start": 150.34,
+          "end": 150.46,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 150.46,
+          "end": 150.54,
+          "conf": 1.0
+        },
+        {
+          "w": "was",
+          "start": 150.54,
+          "end": 150.658,
+          "conf": 1.0
+        },
+        {
+          "w": "still",
+          "start": 150.658,
+          "end": 150.96,
+          "conf": 1.0
+        },
+        {
+          "w": "worth",
+          "start": 150.96,
+          "end": 151.28,
+          "conf": 1.0
+        },
+        {
+          "w": "everything.\"",
+          "start": 151.28,
+          "end": 151.75,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "text": "\"How much is it worth?\"",
+      "start": 152.723,
+      "end": 153.641,
+      "words": [
+        {
+          "w": "\"How",
+          "start": 152.723,
+          "end": 152.94,
+          "conf": 0.85
+        },
+        {
+          "w": "much",
+          "start": 152.94,
+          "end": 153.16,
+          "conf": 1.0
+        },
+        {
+          "w": "is",
+          "start": 153.16,
+          "end": 153.3,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 153.3,
+          "end": 153.4,
+          "conf": 1.0
+        },
+        {
+          "w": "worth?\"",
+          "start": 153.4,
+          "end": 153.641,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "text": "\"As much as we remember, love. Go to sleep.\"",
+      "start": 154.66,
+      "end": 156.664,
+      "words": [
+        {
+          "w": "\"As",
+          "start": 154.66,
+          "end": 154.768,
+          "conf": 0.85
+        },
+        {
+          "w": "much",
+          "start": 154.768,
+          "end": 154.943,
+          "conf": 1.0
+        },
+        {
+          "w": "as",
+          "start": 154.943,
+          "end": 155.1,
+          "conf": 1.0
+        },
+        {
+          "w": "we",
+          "start": 155.1,
+          "end": 155.26,
+          "conf": 1.0
+        },
+        {
+          "w": "remember,",
+          "start": 155.26,
+          "end": 155.611,
+          "conf": 1.0
+        },
+        {
+          "w": "love.",
+          "start": 155.611,
+          "end": 156.02,
+          "conf": 1.0
+        },
+        {
+          "w": "Go",
+          "start": 156.02,
+          "end": 156.16,
+          "conf": 1.0
+        },
+        {
+          "w": "to",
+          "start": 156.16,
+          "end": 156.26,
+          "conf": 1.0
+        },
+        {
+          "w": "sleep.\"",
+          "start": 156.26,
+          "end": 156.664,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "text": "Fast forward: a rider in the rain with your noodles in a bag,",
+      "start": 156.973,
+      "end": 160.54,
+      "words": [
+        {
+          "w": "Fast",
+          "start": 156.973,
+          "end": 157.662,
+          "conf": 0.85
+        },
+        {
+          "w": "forward:",
+          "start": 157.662,
+          "end": 158.18,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 158.18,
+          "end": 158.28,
+          "conf": 0.85
+        },
+        {
+          "w": "rider",
+          "start": 158.28,
+          "end": 158.6,
+          "conf": 0.99
+        },
+        {
+          "w": "in",
+          "start": 158.6,
+          "end": 158.7,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 158.7,
+          "end": 158.84,
+          "conf": 1.0
+        },
+        {
+          "w": "rain",
+          "start": 158.84,
+          "end": 159.12,
+          "conf": 1.0
+        },
+        {
+          "w": "with",
+          "start": 159.12,
+          "end": 159.26,
+          "conf": 1.0
+        },
+        {
+          "w": "your",
+          "start": 159.26,
+          "end": 159.42,
+          "conf": 0.9
+        },
+        {
+          "w": "noodles",
+          "start": 159.42,
+          "end": 159.76,
+          "conf": 1.0
+        },
+        {
+          "w": "in",
+          "start": 159.76,
+          "end": 159.88,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 159.88,
+          "end": 159.98,
+          "conf": 0.91
+        },
+        {
+          "w": "bag,",
+          "start": 159.98,
+          "end": 160.54,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "text": "that's a sale and a wage and a line on the chart, and the chart is glad;",
+      "start": 160.54,
+      "end": 163.768,
+      "words": [
+        {
+          "w": "that's",
+          "start": 160.54,
+          "end": 160.72,
+          "conf": 0.85
+        },
+        {
+          "w": "a",
+          "start": 160.72,
+          "end": 160.82,
+          "conf": 0.98
+        },
+        {
+          "w": "sale",
+          "start": 160.82,
+          "end": 161.04,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 161.04,
+          "end": 161.16,
+          "conf": 0.97
+        },
+        {
+          "w": "a",
+          "start": 161.16,
+          "end": 161.24,
+          "conf": 0.91
+        },
+        {
+          "w": "wage",
+          "start": 161.24,
+          "end": 161.46,
+          "conf": 0.98
+        },
+        {
+          "w": "and",
+          "start": 161.46,
+          "end": 161.58,
+          "conf": 0.94
+        },
+        {
+          "w": "a",
+          "start": 161.58,
+          "end": 161.68,
+          "conf": 0.98
+        },
+        {
+          "w": "line",
+          "start": 161.68,
+          "end": 161.9,
+          "conf": 1.0
+        },
+        {
+          "w": "on",
+          "start": 161.9,
+          "end": 161.98,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 161.98,
+          "end": 162.08,
+          "conf": 1.0
+        },
+        {
+          "w": "chart,",
+          "start": 162.08,
+          "end": 162.6,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 162.6,
+          "end": 162.82,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 162.82,
+          "end": 162.93,
+          "conf": 1.0
+        },
+        {
+          "w": "chart",
+          "start": 162.93,
+          "end": 163.3,
+          "conf": 1.0
+        },
+        {
+          "w": "is",
+          "start": 163.3,
+          "end": 163.4,
+          "conf": 1.0
+        },
+        {
+          "w": "glad;",
+          "start": 163.4,
+          "end": 163.768,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "text": "the same bowl cooked by a dad at the hob after a twelve-hour shift?",
+      "start": 164.1,
+      "end": 167.26,
+      "words": [
+        {
+          "w": "the",
+          "start": 164.1,
+          "end": 164.197,
+          "conf": 0.85
+        },
+        {
+          "w": "same",
+          "start": 164.197,
+          "end": 164.52,
+          "conf": 1.0
+        },
+        {
+          "w": "bowl",
+          "start": 164.52,
+          "end": 164.68,
+          "conf": 0.99
+        },
+        {
+          "w": "cooked",
+          "start": 164.68,
+          "end": 164.84,
+          "conf": 0.83
+        },
+        {
+          "w": "by",
+          "start": 164.84,
+          "end": 165.04,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 165.04,
+          "end": 165.12,
+          "conf": 0.97
+        },
+        {
+          "w": "dad",
+          "start": 165.12,
+          "end": 165.32,
+          "conf": 1.0
+        },
+        {
+          "w": "at",
+          "start": 165.32,
+          "end": 165.42,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 165.42,
+          "end": 165.519,
+          "conf": 1.0
+        },
+        {
+          "w": "hob",
+          "start": 165.519,
+          "end": 165.838,
+          "conf": 0.93
+        },
+        {
+          "w": "after",
+          "start": 166.02,
+          "end": 166.172,
+          "conf": 0.85
+        },
+        {
+          "w": "a",
+          "start": 166.172,
+          "end": 166.38,
+          "conf": 0.94
+        },
+        {
+          "w": "twelve-hour",
+          "start": 166.38,
+          "end": 166.921,
+          "conf": 0.92,
+          "syl": [
+            [
+              166.38,
+              166.676
+            ],
+            [
+              166.676,
+              166.921
+            ]
+          ]
+        },
+        {
+          "w": "shift?",
+          "start": 166.921,
+          "end": 167.26,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "text": "The chart doesn't flicker. It's love, and love's not a thing a chart can lift.",
+      "start": 167.54,
+      "end": 170.498,
+      "words": [
+        {
+          "w": "The",
+          "start": 167.54,
+          "end": 167.66,
+          "conf": 0.85
+        },
+        {
+          "w": "chart",
+          "start": 167.66,
+          "end": 167.888,
+          "conf": 1.0
+        },
+        {
+          "w": "doesn't",
+          "start": 167.888,
+          "end": 168.018,
+          "conf": 1.0
+        },
+        {
+          "w": "flicker.",
+          "start": 168.018,
+          "end": 168.302,
+          "conf": 1.0
+        },
+        {
+          "w": "It's",
+          "start": 168.302,
+          "end": 168.607,
+          "conf": 0.83
+        },
+        {
+          "w": "love,",
+          "start": 168.607,
+          "end": 168.86,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 168.86,
+          "end": 169.0,
+          "conf": 1.0
+        },
+        {
+          "w": "love's",
+          "start": 169.0,
+          "end": 169.28,
+          "conf": 0.97
+        },
+        {
+          "w": "not",
+          "start": 169.28,
+          "end": 169.46,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 169.46,
+          "end": 169.54,
+          "conf": 1.0
+        },
+        {
+          "w": "thing",
+          "start": 169.54,
+          "end": 169.74,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 169.74,
+          "end": 169.82,
+          "conf": 1.0
+        },
+        {
+          "w": "chart",
+          "start": 169.82,
+          "end": 170.1,
+          "conf": 1.0
+        },
+        {
+          "w": "can",
+          "start": 170.1,
+          "end": 170.173,
+          "conf": 1.0
+        },
+        {
+          "w": "lift.",
+          "start": 170.173,
+          "end": 170.498,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "text": "A daughter drives to a care home where her father forgets her name,",
+      "start": 170.657,
+      "end": 174.369,
+      "words": [
+        {
+          "w": "A",
+          "start": 170.657,
+          "end": 171.12,
+          "conf": 0.99
+        },
+        {
+          "w": "daughter",
+          "start": 171.12,
+          "end": 171.455,
+          "conf": 1.0
+        },
+        {
+          "w": "drives",
+          "start": 171.455,
+          "end": 171.869,
+          "conf": 1.0
+        },
+        {
+          "w": "to",
+          "start": 171.869,
+          "end": 172.024,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 172.024,
+          "end": 172.1,
+          "conf": 0.98
+        },
+        {
+          "w": "care",
+          "start": 172.1,
+          "end": 172.378,
+          "conf": 0.99
+        },
+        {
+          "w": "home",
+          "start": 172.378,
+          "end": 172.82,
+          "conf": 1.0
+        },
+        {
+          "w": "where",
+          "start": 172.82,
+          "end": 172.98,
+          "conf": 0.85
+        },
+        {
+          "w": "her",
+          "start": 172.98,
+          "end": 173.077,
+          "conf": 1.0
+        },
+        {
+          "w": "father",
+          "start": 173.077,
+          "end": 173.446,
+          "conf": 1.0
+        },
+        {
+          "w": "forgets",
+          "start": 173.446,
+          "end": 173.96,
+          "conf": 1.0
+        },
+        {
+          "w": "her",
+          "start": 173.96,
+          "end": 174.14,
+          "conf": 1.0
+        },
+        {
+          "w": "name,",
+          "start": 174.14,
+          "end": 174.369,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "text": "she plays him the songs he once taught her; he hums, and it's a win all the same;",
+      "start": 174.369,
+      "end": 177.88,
+      "words": [
+        {
+          "w": "she",
+          "start": 174.369,
+          "end": 174.52,
+          "conf": 1.0
+        },
+        {
+          "w": "plays",
+          "start": 174.52,
+          "end": 174.743,
+          "conf": 1.0
+        },
+        {
+          "w": "him",
+          "start": 174.743,
+          "end": 174.84,
+          "conf": 0.93
+        },
+        {
+          "w": "the",
+          "start": 174.84,
+          "end": 174.937,
+          "conf": 0.99
+        },
+        {
+          "w": "songs",
+          "start": 174.937,
+          "end": 175.42,
+          "conf": 1.0
+        },
+        {
+          "w": "he",
+          "start": 175.42,
+          "end": 175.62,
+          "conf": 1.0
+        },
+        {
+          "w": "once",
+          "start": 175.62,
+          "end": 175.82,
+          "conf": 1.0
+        },
+        {
+          "w": "taught",
+          "start": 175.82,
+          "end": 176.02,
+          "conf": 1.0
+        },
+        {
+          "w": "her;",
+          "start": 176.02,
+          "end": 176.14,
+          "conf": 1.0
+        },
+        {
+          "w": "he",
+          "start": 176.14,
+          "end": 176.28,
+          "conf": 0.9
+        },
+        {
+          "w": "hums,",
+          "start": 176.28,
+          "end": 176.6,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 176.6,
+          "end": 176.74,
+          "conf": 1.0
+        },
+        {
+          "w": "it's",
+          "start": 176.74,
+          "end": 176.88,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 176.88,
+          "end": 176.96,
+          "conf": 1.0
+        },
+        {
+          "w": "win",
+          "start": 176.96,
+          "end": 177.162,
+          "conf": 1.0
+        },
+        {
+          "w": "all",
+          "start": 177.162,
+          "end": 177.4,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 177.4,
+          "end": 177.497,
+          "conf": 1.0
+        },
+        {
+          "w": "same;",
+          "start": 177.497,
+          "end": 177.88,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "text": "a lifeboat crew heads into the storm and nobody pays them to go;",
+      "start": 177.88,
+      "end": 181.26,
+      "words": [
+        {
+          "w": "a",
+          "start": 177.88,
+          "end": 177.98,
+          "conf": 0.96
+        },
+        {
+          "w": "lifeboat",
+          "start": 177.98,
+          "end": 178.42,
+          "conf": 0.94
+        },
+        {
+          "w": "crew",
+          "start": 178.42,
+          "end": 178.68,
+          "conf": 1.0
+        },
+        {
+          "w": "heads",
+          "start": 178.68,
+          "end": 178.88,
+          "conf": 1.0
+        },
+        {
+          "w": "into",
+          "start": 178.88,
+          "end": 179.023,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 179.023,
+          "end": 179.178,
+          "conf": 1.0
+        },
+        {
+          "w": "storm",
+          "start": 179.178,
+          "end": 179.58,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 179.58,
+          "end": 179.7,
+          "conf": 1.0
+        },
+        {
+          "w": "nobody",
+          "start": 179.7,
+          "end": 180.141,
+          "conf": 1.0
+        },
+        {
+          "w": "pays",
+          "start": 180.141,
+          "end": 180.355,
+          "conf": 0.85
+        },
+        {
+          "w": "them",
+          "start": 180.355,
+          "end": 180.56,
+          "conf": 1.0
+        },
+        {
+          "w": "to",
+          "start": 180.56,
+          "end": 180.729,
+          "conf": 1.0
+        },
+        {
+          "w": "go;",
+          "start": 180.729,
+          "end": 181.26,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "text": "the code the internet stands on, kept up at midnight by someone you'll never know.",
+      "start": 181.26,
+      "end": 184.54,
+      "words": [
+        {
+          "w": "the",
+          "start": 181.26,
+          "end": 181.428,
+          "conf": 0.85
+        },
+        {
+          "w": "code",
+          "start": 181.428,
+          "end": 181.7,
+          "conf": 0.97
+        },
+        {
+          "w": "the",
+          "start": 181.7,
+          "end": 181.88,
+          "conf": 1.0
+        },
+        {
+          "w": "internet",
+          "start": 181.88,
+          "end": 182.201,
+          "conf": 1.0
+        },
+        {
+          "w": "stands",
+          "start": 182.201,
+          "end": 182.58,
+          "conf": 1.0
+        },
+        {
+          "w": "on,",
+          "start": 182.58,
+          "end": 182.68,
+          "conf": 1.0
+        },
+        {
+          "w": "kept",
+          "start": 182.68,
+          "end": 182.88,
+          "conf": 1.0
+        },
+        {
+          "w": "up",
+          "start": 182.88,
+          "end": 183.0,
+          "conf": 1.0
+        },
+        {
+          "w": "at",
+          "start": 183.0,
+          "end": 183.1,
+          "conf": 0.96
+        },
+        {
+          "w": "midnight",
+          "start": 183.1,
+          "end": 183.4,
+          "conf": 1.0
+        },
+        {
+          "w": "by",
+          "start": 183.4,
+          "end": 183.498,
+          "conf": 1.0
+        },
+        {
+          "w": "someone",
+          "start": 183.498,
+          "end": 183.82,
+          "conf": 1.0
+        },
+        {
+          "w": "you'll",
+          "start": 183.82,
+          "end": 184.027,
+          "conf": 1.0
+        },
+        {
+          "w": "never",
+          "start": 184.027,
+          "end": 184.161,
+          "conf": 1.0
+        },
+        {
+          "w": "know.",
+          "start": 184.161,
+          "end": 184.54,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "text": "Then you built a ledger on a million machines so that nobody has to trust:",
+      "start": 184.54,
+      "end": 188.16,
+      "words": [
+        {
+          "w": "Then",
+          "start": 184.54,
+          "end": 184.7,
+          "conf": 1.0
+        },
+        {
+          "w": "you",
+          "start": 184.7,
+          "end": 184.84,
+          "conf": 1.0
+        },
+        {
+          "w": "built",
+          "start": 184.84,
+          "end": 185.16,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 185.16,
+          "end": 185.26,
+          "conf": 0.85
+        },
+        {
+          "w": "ledger",
+          "start": 185.26,
+          "end": 185.6,
+          "conf": 0.99
+        },
+        {
+          "w": "on",
+          "start": 185.6,
+          "end": 185.76,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 185.76,
+          "end": 185.84,
+          "conf": 1.0
+        },
+        {
+          "w": "million",
+          "start": 185.84,
+          "end": 186.36,
+          "conf": 1.0
+        },
+        {
+          "w": "machines",
+          "start": 186.36,
+          "end": 186.795,
+          "conf": 0.85
+        },
+        {
+          "w": "so",
+          "start": 186.795,
+          "end": 186.98,
+          "conf": 1.0
+        },
+        {
+          "w": "that",
+          "start": 186.98,
+          "end": 187.12,
+          "conf": 1.0
+        },
+        {
+          "w": "nobody",
+          "start": 187.12,
+          "end": 187.424,
+          "conf": 1.0
+        },
+        {
+          "w": "has",
+          "start": 187.424,
+          "end": 187.728,
+          "conf": 1.0
+        },
+        {
+          "w": "to",
+          "start": 187.728,
+          "end": 187.82,
+          "conf": 1.0
+        },
+        {
+          "w": "trust:",
+          "start": 187.82,
+          "end": 188.16,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "text": "a stone at the bottom of a sea of code that works 'cause you all agree it must;",
+      "start": 188.16,
+      "end": 191.54,
+      "words": [
+        {
+          "w": "a",
+          "start": 188.16,
+          "end": 188.22,
+          "conf": 0.85
+        },
+        {
+          "w": "stone",
+          "start": 188.22,
+          "end": 188.46,
+          "conf": 1.0
+        },
+        {
+          "w": "at",
+          "start": 188.46,
+          "end": 188.54,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 188.54,
+          "end": 188.68,
+          "conf": 1.0
+        },
+        {
+          "w": "bottom",
+          "start": 188.68,
+          "end": 189.04,
+          "conf": 1.0
+        },
+        {
+          "w": "of",
+          "start": 189.04,
+          "end": 189.16,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 189.16,
+          "end": 189.24,
+          "conf": 0.98
+        },
+        {
+          "w": "sea",
+          "start": 189.24,
+          "end": 189.42,
+          "conf": 1.0
+        },
+        {
+          "w": "of",
+          "start": 189.42,
+          "end": 189.52,
+          "conf": 0.98
+        },
+        {
+          "w": "code",
+          "start": 189.52,
+          "end": 189.84,
+          "conf": 0.92
+        },
+        {
+          "w": "that",
+          "start": 189.84,
+          "end": 189.98,
+          "conf": 1.0
+        },
+        {
+          "w": "works",
+          "start": 189.98,
+          "end": 190.26,
+          "conf": 1.0
+        },
+        {
+          "w": "'cause",
+          "start": 190.26,
+          "end": 190.42,
+          "conf": 1.0
+        },
+        {
+          "w": "you",
+          "start": 190.42,
+          "end": 190.6,
+          "conf": 1.0
+        },
+        {
+          "w": "all",
+          "start": 190.6,
+          "end": 190.76,
+          "conf": 1.0
+        },
+        {
+          "w": "agree",
+          "start": 190.76,
+          "end": 191.14,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 191.14,
+          "end": 191.26,
+          "conf": 1.0
+        },
+        {
+          "w": "must;",
+          "start": 191.26,
+          "end": 191.54,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "text": "'cause money is memory, a record of who did what for whom,",
+      "start": 191.54,
+      "end": 194.922,
+      "words": [
+        {
+          "w": "'cause",
+          "start": 191.54,
+          "end": 191.7,
+          "conf": 1.0
+        },
+        {
+          "w": "money",
+          "start": 191.7,
+          "end": 191.879,
+          "conf": 1.0
+        },
+        {
+          "w": "is",
+          "start": 191.879,
+          "end": 192.12,
+          "conf": 1.0
+        },
+        {
+          "w": "memory,",
+          "start": 192.12,
+          "end": 192.6,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 192.6,
+          "end": 192.7,
+          "conf": 0.84
+        },
+        {
+          "w": "record",
+          "start": 192.7,
+          "end": 193.016,
+          "conf": 1.0
+        },
+        {
+          "w": "of",
+          "start": 193.016,
+          "end": 193.24,
+          "conf": 1.0
+        },
+        {
+          "w": "who",
+          "start": 193.24,
+          "end": 193.311,
+          "conf": 1.0
+        },
+        {
+          "w": "did",
+          "start": 193.311,
+          "end": 193.82,
+          "conf": 1.0
+        },
+        {
+          "w": "what",
+          "start": 193.82,
+          "end": 193.999,
+          "conf": 0.85
+        },
+        {
+          "w": "for",
+          "start": 193.999,
+          "end": 194.164,
+          "conf": 1.0
+        },
+        {
+          "w": "whom,",
+          "start": 194.164,
+          "end": 194.922,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "text": "so who keeps the record? And who got left out of the room?",
+      "start": 194.922,
+      "end": 198.055,
+      "words": [
+        {
+          "w": "so",
+          "start": 194.922,
+          "end": 195.12,
+          "conf": 0.85
+        },
+        {
+          "w": "who",
+          "start": 195.12,
+          "end": 195.24,
+          "conf": 1.0
+        },
+        {
+          "w": "keeps",
+          "start": 195.24,
+          "end": 195.42,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 195.42,
+          "end": 195.56,
+          "conf": 1.0
+        },
+        {
+          "w": "record?",
+          "start": 195.56,
+          "end": 195.845,
+          "conf": 1.0
+        },
+        {
+          "w": "And",
+          "start": 196.005,
+          "end": 196.42,
+          "conf": 0.85
+        },
+        {
+          "w": "who",
+          "start": 196.42,
+          "end": 196.58,
+          "conf": 1.0
+        },
+        {
+          "w": "got",
+          "start": 196.58,
+          "end": 196.84,
+          "conf": 1.0
+        },
+        {
+          "w": "left",
+          "start": 196.84,
+          "end": 197.147,
+          "conf": 1.0
+        },
+        {
+          "w": "out",
+          "start": 197.147,
+          "end": 197.46,
+          "conf": 0.92
+        },
+        {
+          "w": "of",
+          "start": 197.46,
+          "end": 197.581,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 197.581,
+          "end": 197.68,
+          "conf": 1.0
+        },
+        {
+          "w": "room?",
+          "start": 197.68,
+          "end": 198.055,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "text": "I'm the stone at the bottom of the sea,",
+      "start": 198.494,
+      "end": 201.113,
+      "words": [
+        {
+          "w": "I'm",
+          "start": 198.494,
+          "end": 198.8,
+          "conf": 0.75
+        },
+        {
+          "w": "the",
+          "start": 198.8,
+          "end": 198.898,
+          "conf": 0.95
+        },
+        {
+          "w": "stone",
+          "start": 198.898,
+          "end": 199.52,
+          "conf": 0.93
+        },
+        {
+          "w": "at",
+          "start": 199.52,
+          "end": 199.68,
+          "conf": 0.78
+        },
+        {
+          "w": "the",
+          "start": 199.68,
+          "end": 199.82,
+          "conf": 0.97
+        },
+        {
+          "w": "bottom",
+          "start": 199.82,
+          "end": 200.38,
+          "conf": 0.93
+        },
+        {
+          "w": "of",
+          "start": 200.38,
+          "end": 200.54,
+          "conf": 0.69
+        },
+        {
+          "w": "the",
+          "start": 200.54,
+          "end": 200.639,
+          "conf": 0.95
+        },
+        {
+          "w": "sea,",
+          "start": 200.639,
+          "end": 201.113,
+          "conf": 0.89
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "text": "nobody's seen me but everybody believes;",
+      "start": 201.56,
+      "end": 204.88,
+      "words": [
+        {
+          "w": "nobody's",
+          "start": 201.56,
+          "end": 202.136,
+          "conf": 0.85
+        },
+        {
+          "w": "seen",
+          "start": 202.136,
+          "end": 202.42,
+          "conf": 0.85
+        },
+        {
+          "w": "me",
+          "start": 202.42,
+          "end": 202.66,
+          "conf": 0.95
+        },
+        {
+          "w": "but",
+          "start": 202.66,
+          "end": 203.0,
+          "conf": 1.0
+        },
+        {
+          "w": "everybody",
+          "start": 203.0,
+          "end": 203.7,
+          "conf": 0.77
+        },
+        {
+          "w": "believes;",
+          "start": 203.7,
+          "end": 204.88,
+          "conf": 0.76
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "text": "if you can count a thing you can't even see,",
+      "start": 204.88,
+      "end": 207.898,
+      "words": [
+        {
+          "w": "if",
+          "start": 204.88,
+          "end": 205.0,
+          "conf": 0.85
+        },
+        {
+          "w": "you",
+          "start": 205.0,
+          "end": 205.22,
+          "conf": 1.0
+        },
+        {
+          "w": "can",
+          "start": 205.22,
+          "end": 205.428,
+          "conf": 1.0
+        },
+        {
+          "w": "count",
+          "start": 205.428,
+          "end": 205.74,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 205.74,
+          "end": 205.82,
+          "conf": 0.93
+        },
+        {
+          "w": "thing",
+          "start": 205.82,
+          "end": 206.28,
+          "conf": 0.95
+        },
+        {
+          "w": "you",
+          "start": 206.28,
+          "end": 206.7,
+          "conf": 0.85
+        },
+        {
+          "w": "can't",
+          "start": 206.7,
+          "end": 207.04,
+          "conf": 0.72
+        },
+        {
+          "w": "even",
+          "start": 207.04,
+          "end": 207.449,
+          "conf": 0.81
+        },
+        {
+          "w": "see,",
+          "start": 207.449,
+          "end": 207.898,
+          "conf": 0.76
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "text": "who else is waiting at the bottom of the sea?",
+      "start": 208.4,
+      "end": 211.33,
+      "words": [
+        {
+          "w": "who",
+          "start": 208.4,
+          "end": 208.74,
+          "conf": 0.85
+        },
+        {
+          "w": "else",
+          "start": 208.74,
+          "end": 208.94,
+          "conf": 0.65
+        },
+        {
+          "w": "is",
+          "start": 208.94,
+          "end": 209.08,
+          "conf": 0.95
+        },
+        {
+          "w": "waiting",
+          "start": 209.08,
+          "end": 209.84,
+          "conf": 0.9
+        },
+        {
+          "w": "at",
+          "start": 209.84,
+          "end": 209.96,
+          "conf": 0.77
+        },
+        {
+          "w": "the",
+          "start": 209.96,
+          "end": 210.12,
+          "conf": 1.0
+        },
+        {
+          "w": "bottom",
+          "start": 210.12,
+          "end": 210.66,
+          "conf": 0.9
+        },
+        {
+          "w": "of",
+          "start": 210.66,
+          "end": 210.82,
+          "conf": 0.78
+        },
+        {
+          "w": "the",
+          "start": 210.82,
+          "end": 210.916,
+          "conf": 0.95
+        },
+        {
+          "w": "sea?",
+          "start": 210.916,
+          "end": 211.33,
+          "conf": 0.87
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "text": "Some say count her, or she's never seen;",
+      "start": 212.168,
+      "end": 214.817,
+      "words": [
+        {
+          "w": "Some",
+          "start": 212.168,
+          "end": 212.467,
+          "conf": 0.85
+        },
+        {
+          "w": "say",
+          "start": 212.467,
+          "end": 212.577,
+          "conf": 1.0
+        },
+        {
+          "w": "count",
+          "start": 212.577,
+          "end": 213.066,
+          "conf": 1.0
+        },
+        {
+          "w": "her,",
+          "start": 213.066,
+          "end": 213.59,
+          "conf": 1.0
+        },
+        {
+          "w": "or",
+          "start": 213.59,
+          "end": 213.719,
+          "conf": 0.85
+        },
+        {
+          "w": "she's",
+          "start": 213.719,
+          "end": 214.0,
+          "conf": 1.0
+        },
+        {
+          "w": "never",
+          "start": 214.0,
+          "end": 214.308,
+          "conf": 1.0
+        },
+        {
+          "w": "seen;",
+          "start": 214.308,
+          "end": 214.817,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "text": "some say price it and you'll break what it means;",
+      "start": 215.605,
+      "end": 218.633,
+      "words": [
+        {
+          "w": "some",
+          "start": 215.605,
+          "end": 215.92,
+          "conf": 0.85
+        },
+        {
+          "w": "say",
+          "start": 215.92,
+          "end": 216.004,
+          "conf": 1.0
+        },
+        {
+          "w": "price",
+          "start": 216.004,
+          "end": 216.68,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 216.68,
+          "end": 216.86,
+          "conf": 0.7
+        },
+        {
+          "w": "and",
+          "start": 216.86,
+          "end": 216.98,
+          "conf": 1.0
+        },
+        {
+          "w": "you'll",
+          "start": 216.98,
+          "end": 217.24,
+          "conf": 1.0
+        },
+        {
+          "w": "break",
+          "start": 217.24,
+          "end": 217.46,
+          "conf": 1.0
+        },
+        {
+          "w": "what",
+          "start": 217.46,
+          "end": 217.74,
+          "conf": 0.89
+        },
+        {
+          "w": "it",
+          "start": 217.74,
+          "end": 217.84,
+          "conf": 0.85
+        },
+        {
+          "w": "means;",
+          "start": 217.84,
+          "end": 218.633,
+          "conf": 0.94
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "text": "some say keep your numbers out of my home;",
+      "start": 218.633,
+      "end": 221.696,
+      "words": [
+        {
+          "w": "some",
+          "start": 218.633,
+          "end": 218.912,
+          "conf": 0.85
+        },
+        {
+          "w": "say",
+          "start": 218.912,
+          "end": 219.147,
+          "conf": 1.0
+        },
+        {
+          "w": "keep",
+          "start": 219.147,
+          "end": 219.322,
+          "conf": 1.0
+        },
+        {
+          "w": "your",
+          "start": 219.4,
+          "end": 219.58,
+          "conf": 1.0
+        },
+        {
+          "w": "numbers",
+          "start": 219.58,
+          "end": 220.449,
+          "conf": 1.0
+        },
+        {
+          "w": "out",
+          "start": 220.449,
+          "end": 220.72,
+          "conf": 0.77
+        },
+        {
+          "w": "of",
+          "start": 220.72,
+          "end": 220.84,
+          "conf": 1.0
+        },
+        {
+          "w": "my",
+          "start": 220.84,
+          "end": 221.187,
+          "conf": 1.0
+        },
+        {
+          "w": "home;",
+          "start": 221.187,
+          "end": 221.696,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "text": "some say pay her, give her years of her own;",
+      "start": 221.796,
+      "end": 225.448,
+      "words": [
+        {
+          "w": "some",
+          "start": 221.796,
+          "end": 222.444,
+          "conf": 0.85
+        },
+        {
+          "w": "say",
+          "start": 222.444,
+          "end": 222.94,
+          "conf": 0.85
+        },
+        {
+          "w": "pay",
+          "start": 222.94,
+          "end": 223.118,
+          "conf": 0.85
+        },
+        {
+          "w": "her,",
+          "start": 223.118,
+          "end": 223.442,
+          "conf": 0.89
+        },
+        {
+          "w": "give",
+          "start": 223.442,
+          "end": 223.68,
+          "conf": 0.97
+        },
+        {
+          "w": "her",
+          "start": 223.68,
+          "end": 223.84,
+          "conf": 1.0
+        },
+        {
+          "w": "years",
+          "start": 223.84,
+          "end": 224.18,
+          "conf": 1.0
+        },
+        {
+          "w": "of",
+          "start": 224.18,
+          "end": 224.32,
+          "conf": 0.99
+        },
+        {
+          "w": "her",
+          "start": 224.32,
+          "end": 224.78,
+          "conf": 0.89
+        },
+        {
+          "w": "own;",
+          "start": 224.78,
+          "end": 225.448,
+          "conf": 0.92
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "text": "some say smash the scoreboard down,",
+      "start": 225.448,
+      "end": 228.855,
+      "words": [
+        {
+          "w": "some",
+          "start": 225.448,
+          "end": 225.877,
+          "conf": 0.85
+        },
+        {
+          "w": "say",
+          "start": 225.877,
+          "end": 226.231,
+          "conf": 1.0
+        },
+        {
+          "w": "smash",
+          "start": 226.231,
+          "end": 227.004,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 227.06,
+          "end": 227.159,
+          "conf": 0.85
+        },
+        {
+          "w": "scoreboard",
+          "start": 227.159,
+          "end": 228.057,
+          "conf": 1.0
+        },
+        {
+          "w": "down,",
+          "start": 228.12,
+          "end": 228.855,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "text": "and every one of them is carrying the stone.",
+      "start": 228.855,
+      "end": 233.774,
+      "words": [
+        {
+          "w": "and",
+          "start": 228.855,
+          "end": 229.034,
+          "conf": 0.78
+        },
+        {
+          "w": "every",
+          "start": 229.034,
+          "end": 229.294,
+          "conf": 0.78
+        },
+        {
+          "w": "one",
+          "start": 229.294,
+          "end": 229.74,
+          "conf": 0.92
+        },
+        {
+          "w": "of",
+          "start": 229.74,
+          "end": 229.84,
+          "conf": 1.0
+        },
+        {
+          "w": "them",
+          "start": 229.84,
+          "end": 230.227,
+          "conf": 1.0
+        },
+        {
+          "w": "is",
+          "start": 230.54,
+          "end": 230.706,
+          "conf": 0.85
+        },
+        {
+          "w": "carrying",
+          "start": 230.706,
+          "end": 231.34,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 231.34,
+          "end": 231.439,
+          "conf": 0.85
+        },
+        {
+          "w": "stone.",
+          "start": 231.439,
+          "end": 233.774,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "text": "One pole, every shoulder,",
+      "start": 233.774,
+      "end": 236.248,
+      "words": [
+        {
+          "w": "One",
+          "start": 233.774,
+          "end": 234.048,
+          "conf": 0.76
+        },
+        {
+          "w": "pole,",
+          "start": 234.1,
+          "end": 235.54,
+          "conf": 0.83
+        },
+        {
+          "w": "every",
+          "start": 235.54,
+          "end": 235.744,
+          "conf": 0.77
+        },
+        {
+          "w": "shoulder,",
+          "start": 235.744,
+          "end": 236.248,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "text": "nobody carries me alone;",
+      "start": 236.94,
+      "end": 238.777,
+      "words": [
+        {
+          "w": "nobody",
+          "start": 236.94,
+          "end": 237.52,
+          "conf": 0.85
+        },
+        {
+          "w": "carries",
+          "start": 237.52,
+          "end": 238.0,
+          "conf": 0.85
+        },
+        {
+          "w": "me",
+          "start": 238.0,
+          "end": 238.28,
+          "conf": 1.0
+        },
+        {
+          "w": "alone;",
+          "start": 238.28,
+          "end": 238.777,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "text": "one pole, every shoulder,",
+      "start": 240.603,
+      "end": 243.083,
+      "words": [
+        {
+          "w": "one",
+          "start": 240.603,
+          "end": 240.94,
+          "conf": 0.77
+        },
+        {
+          "w": "pole,",
+          "start": 240.94,
+          "end": 242.38,
+          "conf": 0.81
+        },
+        {
+          "w": "every",
+          "start": 242.38,
+          "end": 242.604,
+          "conf": 0.74
+        },
+        {
+          "w": "shoulder,",
+          "start": 242.604,
+          "end": 243.083,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "text": "lift it, lift it, bring it home.",
+      "start": 243.54,
+      "end": 246.58,
+      "words": [
+        {
+          "w": "lift",
+          "start": 243.54,
+          "end": 243.846,
+          "conf": 0.85
+        },
+        {
+          "w": "it,",
+          "start": 243.846,
+          "end": 243.98,
+          "conf": 0.81
+        },
+        {
+          "w": "lift",
+          "start": 244.4,
+          "end": 244.699,
+          "conf": 1.0
+        },
+        {
+          "w": "it,",
+          "start": 244.699,
+          "end": 244.829,
+          "conf": 0.81
+        },
+        {
+          "w": "bring",
+          "start": 245.24,
+          "end": 245.592,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 245.592,
+          "end": 245.801,
+          "conf": 0.75
+        },
+        {
+          "w": "home.",
+          "start": 246.051,
+          "end": 246.58,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "text": "No, I'm not here to torch the bank, or to say that prices are lies:",
+      "start": 246.58,
+      "end": 249.568,
+      "words": [
+        {
+          "w": "No,",
+          "start": 246.58,
+          "end": 246.84,
+          "conf": 0.84
+        },
+        {
+          "w": "I'm",
+          "start": 246.84,
+          "end": 247.024,
+          "conf": 1.0
+        },
+        {
+          "w": "not",
+          "start": 247.024,
+          "end": 247.14,
+          "conf": 1.0
+        },
+        {
+          "w": "here",
+          "start": 247.14,
+          "end": 247.303,
+          "conf": 1.0
+        },
+        {
+          "w": "to",
+          "start": 247.303,
+          "end": 247.423,
+          "conf": 0.99
+        },
+        {
+          "w": "torch",
+          "start": 247.423,
+          "end": 247.7,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 247.7,
+          "end": 247.82,
+          "conf": 1.0
+        },
+        {
+          "w": "bank,",
+          "start": 247.82,
+          "end": 248.156,
+          "conf": 1.0
+        },
+        {
+          "w": "or",
+          "start": 248.156,
+          "end": 248.28,
+          "conf": 1.0
+        },
+        {
+          "w": "to",
+          "start": 248.28,
+          "end": 248.38,
+          "conf": 0.98
+        },
+        {
+          "w": "say",
+          "start": 248.38,
+          "end": 248.46,
+          "conf": 1.0
+        },
+        {
+          "w": "that",
+          "start": 248.46,
+          "end": 248.68,
+          "conf": 1.0
+        },
+        {
+          "w": "prices",
+          "start": 248.68,
+          "end": 249.0,
+          "conf": 1.0
+        },
+        {
+          "w": "are",
+          "start": 249.0,
+          "end": 249.12,
+          "conf": 0.99
+        },
+        {
+          "w": "lies:",
+          "start": 249.12,
+          "end": 249.568,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "text": "a price is a promise between two strangers, a small miracle, right?",
+      "start": 249.882,
+      "end": 252.855,
+      "words": [
+        {
+          "w": "a",
+          "start": 249.882,
+          "end": 249.96,
+          "conf": 0.85
+        },
+        {
+          "w": "price",
+          "start": 249.96,
+          "end": 250.18,
+          "conf": 1.0
+        },
+        {
+          "w": "is",
+          "start": 250.18,
+          "end": 250.3,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 250.3,
+          "end": 250.4,
+          "conf": 1.0
+        },
+        {
+          "w": "promise",
+          "start": 250.4,
+          "end": 250.7,
+          "conf": 1.0
+        },
+        {
+          "w": "between",
+          "start": 250.7,
+          "end": 251.109,
+          "conf": 1.0
+        },
+        {
+          "w": "two",
+          "start": 251.109,
+          "end": 251.22,
+          "conf": 0.85
+        },
+        {
+          "w": "strangers,",
+          "start": 251.22,
+          "end": 251.72,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 251.72,
+          "end": 251.82,
+          "conf": 0.99
+        },
+        {
+          "w": "small",
+          "start": 251.82,
+          "end": 252.12,
+          "conf": 1.0
+        },
+        {
+          "w": "miracle,",
+          "start": 252.12,
+          "end": 252.56,
+          "conf": 1.0
+        },
+        {
+          "w": "right?",
+          "start": 252.56,
+          "end": 252.855,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "text": "But a miracle's a tool, not a judge, and a tool doesn't get to decide;",
+      "start": 253.14,
+      "end": 256.302,
+      "words": [
+        {
+          "w": "But",
+          "start": 253.14,
+          "end": 253.3,
+          "conf": 0.85
+        },
+        {
+          "w": "a",
+          "start": 253.3,
+          "end": 253.4,
+          "conf": 1.0
+        },
+        {
+          "w": "miracle's",
+          "start": 253.4,
+          "end": 253.88,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 253.88,
+          "end": 254.008,
+          "conf": 0.97
+        },
+        {
+          "w": "tool,",
+          "start": 254.008,
+          "end": 254.28,
+          "conf": 1.0
+        },
+        {
+          "w": "not",
+          "start": 254.28,
+          "end": 254.46,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 254.46,
+          "end": 254.54,
+          "conf": 1.0
+        },
+        {
+          "w": "judge,",
+          "start": 254.54,
+          "end": 254.861,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 254.861,
+          "end": 255.015,
+          "conf": 0.98
+        },
+        {
+          "w": "a",
+          "start": 255.015,
+          "end": 255.1,
+          "conf": 0.97
+        },
+        {
+          "w": "tool",
+          "start": 255.1,
+          "end": 255.26,
+          "conf": 1.0
+        },
+        {
+          "w": "doesn't",
+          "start": 255.26,
+          "end": 255.454,
+          "conf": 1.0
+        },
+        {
+          "w": "get",
+          "start": 255.454,
+          "end": 255.724,
+          "conf": 1.0
+        },
+        {
+          "w": "to",
+          "start": 255.724,
+          "end": 255.84,
+          "conf": 1.0
+        },
+        {
+          "w": "decide;",
+          "start": 255.84,
+          "end": 256.302,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "text": "the island never asked the stone its worth, they asked each other, eye to eye.",
+      "start": 256.68,
+      "end": 259.71,
+      "words": [
+        {
+          "w": "the",
+          "start": 256.68,
+          "end": 256.82,
+          "conf": 0.84
+        },
+        {
+          "w": "island",
+          "start": 256.82,
+          "end": 257.14,
+          "conf": 0.76
+        },
+        {
+          "w": "never",
+          "start": 257.14,
+          "end": 257.44,
+          "conf": 1.0
+        },
+        {
+          "w": "asked",
+          "start": 257.44,
+          "end": 257.56,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 257.56,
+          "end": 257.66,
+          "conf": 1.0
+        },
+        {
+          "w": "stone",
+          "start": 257.66,
+          "end": 258.0,
+          "conf": 1.0
+        },
+        {
+          "w": "its",
+          "start": 258.0,
+          "end": 258.14,
+          "conf": 1.0
+        },
+        {
+          "w": "worth,",
+          "start": 258.14,
+          "end": 258.338,
+          "conf": 1.0
+        },
+        {
+          "w": "they",
+          "start": 258.4,
+          "end": 258.58,
+          "conf": 1.0
+        },
+        {
+          "w": "asked",
+          "start": 258.58,
+          "end": 258.74,
+          "conf": 0.91
+        },
+        {
+          "w": "each",
+          "start": 258.74,
+          "end": 258.847,
+          "conf": 1.0
+        },
+        {
+          "w": "other,",
+          "start": 258.847,
+          "end": 259.18,
+          "conf": 1.0
+        },
+        {
+          "w": "eye",
+          "start": 259.18,
+          "end": 259.28,
+          "conf": 0.83
+        },
+        {
+          "w": "to",
+          "start": 259.28,
+          "end": 259.45,
+          "conf": 0.92
+        },
+        {
+          "w": "eye.",
+          "start": 259.45,
+          "end": 259.71,
+          "conf": 0.79
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "text": "So here's my offer: no fees, no catch, no small print in the deep:",
+      "start": 260.059,
+      "end": 263.7,
+      "words": [
+        {
+          "w": "So",
+          "start": 260.059,
+          "end": 260.26,
+          "conf": 0.85
+        },
+        {
+          "w": "here's",
+          "start": 260.26,
+          "end": 260.54,
+          "conf": 1.0
+        },
+        {
+          "w": "my",
+          "start": 260.54,
+          "end": 260.74,
+          "conf": 1.0
+        },
+        {
+          "w": "offer:",
+          "start": 260.74,
+          "end": 260.912,
+          "conf": 0.94
+        },
+        {
+          "w": "no",
+          "start": 260.912,
+          "end": 261.077,
+          "conf": 1.0
+        },
+        {
+          "w": "fees,",
+          "start": 261.077,
+          "end": 261.4,
+          "conf": 1.0
+        },
+        {
+          "w": "no",
+          "start": 261.4,
+          "end": 261.54,
+          "conf": 1.0
+        },
+        {
+          "w": "catch,",
+          "start": 261.54,
+          "end": 261.98,
+          "conf": 1.0
+        },
+        {
+          "w": "no",
+          "start": 261.98,
+          "end": 262.124,
+          "conf": 0.85
+        },
+        {
+          "w": "small",
+          "start": 262.124,
+          "end": 262.573,
+          "conf": 1.0
+        },
+        {
+          "w": "print",
+          "start": 262.64,
+          "end": 262.868,
+          "conf": 0.85
+        },
+        {
+          "w": "in",
+          "start": 262.868,
+          "end": 263.12,
+          "conf": 0.88
+        },
+        {
+          "w": "the",
+          "start": 263.12,
+          "end": 263.26,
+          "conf": 1.0
+        },
+        {
+          "w": "deep:",
+          "start": 263.26,
+          "end": 263.7,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "text": "look at the hands that held you up, and say out loud what they're worth to keep;",
+      "start": 263.7,
+      "end": 267.02,
+      "words": [
+        {
+          "w": "look",
+          "start": 263.7,
+          "end": 263.88,
+          "conf": 0.85
+        },
+        {
+          "w": "at",
+          "start": 263.88,
+          "end": 263.98,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 263.98,
+          "end": 264.12,
+          "conf": 1.0
+        },
+        {
+          "w": "hands",
+          "start": 264.12,
+          "end": 264.4,
+          "conf": 1.0
+        },
+        {
+          "w": "that",
+          "start": 264.4,
+          "end": 264.56,
+          "conf": 1.0
+        },
+        {
+          "w": "held",
+          "start": 264.56,
+          "end": 264.82,
+          "conf": 1.0
+        },
+        {
+          "w": "you",
+          "start": 264.82,
+          "end": 265.028,
+          "conf": 1.0
+        },
+        {
+          "w": "up,",
+          "start": 265.028,
+          "end": 265.177,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 265.28,
+          "end": 265.377,
+          "conf": 1.0
+        },
+        {
+          "w": "say",
+          "start": 265.377,
+          "end": 265.62,
+          "conf": 1.0
+        },
+        {
+          "w": "out",
+          "start": 265.62,
+          "end": 265.82,
+          "conf": 1.0
+        },
+        {
+          "w": "loud",
+          "start": 265.82,
+          "end": 266.0,
+          "conf": 1.0
+        },
+        {
+          "w": "what",
+          "start": 266.0,
+          "end": 266.12,
+          "conf": 1.0
+        },
+        {
+          "w": "they're",
+          "start": 266.12,
+          "end": 266.26,
+          "conf": 1.0
+        },
+        {
+          "w": "worth",
+          "start": 266.26,
+          "end": 266.54,
+          "conf": 1.0
+        },
+        {
+          "w": "to",
+          "start": 266.54,
+          "end": 266.68,
+          "conf": 1.0
+        },
+        {
+          "w": "keep;",
+          "start": 266.68,
+          "end": 267.02,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "text": "if a crowd can count a stone in the dark that nobody living has seen,",
+      "start": 267.02,
+      "end": 269.991,
+      "words": [
+        {
+          "w": "if",
+          "start": 267.02,
+          "end": 267.16,
+          "conf": 0.85
+        },
+        {
+          "w": "a",
+          "start": 267.16,
+          "end": 267.26,
+          "conf": 1.0
+        },
+        {
+          "w": "crowd",
+          "start": 267.26,
+          "end": 267.54,
+          "conf": 1.0
+        },
+        {
+          "w": "can",
+          "start": 267.54,
+          "end": 267.722,
+          "conf": 1.0
+        },
+        {
+          "w": "count",
+          "start": 267.722,
+          "end": 267.88,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 267.88,
+          "end": 267.94,
+          "conf": 1.0
+        },
+        {
+          "w": "stone",
+          "start": 267.94,
+          "end": 268.18,
+          "conf": 1.0
+        },
+        {
+          "w": "in",
+          "start": 268.18,
+          "end": 268.28,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 268.28,
+          "end": 268.42,
+          "conf": 1.0
+        },
+        {
+          "w": "dark",
+          "start": 268.42,
+          "end": 268.68,
+          "conf": 1.0
+        },
+        {
+          "w": "that",
+          "start": 268.68,
+          "end": 268.884,
+          "conf": 1.0
+        },
+        {
+          "w": "nobody",
+          "start": 268.884,
+          "end": 269.163,
+          "conf": 1.0
+        },
+        {
+          "w": "living",
+          "start": 269.163,
+          "end": 269.453,
+          "conf": 0.92
+        },
+        {
+          "w": "has",
+          "start": 269.453,
+          "end": 269.637,
+          "conf": 0.88
+        },
+        {
+          "w": "seen,",
+          "start": 269.637,
+          "end": 269.991,
+          "conf": 0.92
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "text": "you can count a lullaby, a lifeboat crew, and a lift to the doctor at three.",
+      "start": 270.26,
+      "end": 273.843,
+      "words": [
+        {
+          "w": "you",
+          "start": 270.26,
+          "end": 270.38,
+          "conf": 0.85
+        },
+        {
+          "w": "can",
+          "start": 270.38,
+          "end": 270.54,
+          "conf": 1.0
+        },
+        {
+          "w": "count",
+          "start": 270.54,
+          "end": 270.88,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 270.88,
+          "end": 270.98,
+          "conf": 1.0
+        },
+        {
+          "w": "lullaby,",
+          "start": 270.98,
+          "end": 271.46,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 271.46,
+          "end": 271.56,
+          "conf": 0.98
+        },
+        {
+          "w": "lifeboat",
+          "start": 271.56,
+          "end": 271.877,
+          "conf": 0.96
+        },
+        {
+          "w": "crew,",
+          "start": 271.877,
+          "end": 272.46,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 272.46,
+          "end": 272.58,
+          "conf": 0.85
+        },
+        {
+          "w": "a",
+          "start": 272.58,
+          "end": 272.68,
+          "conf": 0.96
+        },
+        {
+          "w": "lift",
+          "start": 272.68,
+          "end": 272.86,
+          "conf": 1.0
+        },
+        {
+          "w": "to",
+          "start": 272.86,
+          "end": 273.005,
+          "conf": 0.99
+        },
+        {
+          "w": "the",
+          "start": 273.005,
+          "end": 273.1,
+          "conf": 1.0
+        },
+        {
+          "w": "doctor",
+          "start": 273.1,
+          "end": 273.329,
+          "conf": 1.0
+        },
+        {
+          "w": "at",
+          "start": 273.329,
+          "end": 273.483,
+          "conf": 0.87
+        },
+        {
+          "w": "three.",
+          "start": 273.54,
+          "end": 273.843,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "text": "I'm the stone at the bottom of the sea,",
+      "start": 273.902,
+      "end": 276.497,
+      "words": [
+        {
+          "w": "I'm",
+          "start": 273.902,
+          "end": 274.22,
+          "conf": 0.62
+        },
+        {
+          "w": "the",
+          "start": 274.22,
+          "end": 274.317,
+          "conf": 0.96
+        },
+        {
+          "w": "stone",
+          "start": 274.317,
+          "end": 274.88,
+          "conf": 0.99
+        },
+        {
+          "w": "at",
+          "start": 274.88,
+          "end": 275.1,
+          "conf": 0.79
+        },
+        {
+          "w": "the",
+          "start": 275.1,
+          "end": 275.26,
+          "conf": 0.95
+        },
+        {
+          "w": "bottom",
+          "start": 275.26,
+          "end": 275.84,
+          "conf": 0.94
+        },
+        {
+          "w": "of",
+          "start": 275.84,
+          "end": 275.96,
+          "conf": 0.69
+        },
+        {
+          "w": "the",
+          "start": 275.96,
+          "end": 276.058,
+          "conf": 0.98
+        },
+        {
+          "w": "sea,",
+          "start": 276.058,
+          "end": 276.497,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "text": "and I'm worth what you say, so say it for her, and for me:",
+      "start": 276.766,
+      "end": 279.984,
+      "words": [
+        {
+          "w": "and",
+          "start": 276.766,
+          "end": 276.86,
+          "conf": 0.83
+        },
+        {
+          "w": "I'm",
+          "start": 276.86,
+          "end": 277.0,
+          "conf": 0.93
+        },
+        {
+          "w": "worth",
+          "start": 277.0,
+          "end": 277.26,
+          "conf": 0.96
+        },
+        {
+          "w": "what",
+          "start": 277.26,
+          "end": 277.42,
+          "conf": 0.97
+        },
+        {
+          "w": "you",
+          "start": 277.42,
+          "end": 277.554,
+          "conf": 0.93
+        },
+        {
+          "w": "say,",
+          "start": 277.554,
+          "end": 278.023,
+          "conf": 0.95
+        },
+        {
+          "w": "so",
+          "start": 278.023,
+          "end": 278.203,
+          "conf": 0.97
+        },
+        {
+          "w": "say",
+          "start": 278.203,
+          "end": 278.317,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 278.317,
+          "end": 278.54,
+          "conf": 0.9
+        },
+        {
+          "w": "for",
+          "start": 278.54,
+          "end": 278.7,
+          "conf": 0.91
+        },
+        {
+          "w": "her,",
+          "start": 278.7,
+          "end": 279.04,
+          "conf": 0.92
+        },
+        {
+          "w": "and",
+          "start": 279.04,
+          "end": 279.166,
+          "conf": 0.73
+        },
+        {
+          "w": "for",
+          "start": 279.166,
+          "end": 279.54,
+          "conf": 0.84
+        },
+        {
+          "w": "me:",
+          "start": 279.54,
+          "end": 279.984,
+          "conf": 0.81
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "text": "count the nights, count the meals, count the care, or don't count,",
+      "start": 279.984,
+      "end": 283.306,
+      "words": [
+        {
+          "w": "count",
+          "start": 279.984,
+          "end": 280.24,
+          "conf": 0.84
+        },
+        {
+          "w": "the",
+          "start": 280.24,
+          "end": 280.4,
+          "conf": 1.0
+        },
+        {
+          "w": "nights,",
+          "start": 280.4,
+          "end": 280.82,
+          "conf": 1.0
+        },
+        {
+          "w": "count",
+          "start": 280.82,
+          "end": 281.1,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 281.1,
+          "end": 281.24,
+          "conf": 1.0
+        },
+        {
+          "w": "meals,",
+          "start": 281.24,
+          "end": 281.68,
+          "conf": 0.99
+        },
+        {
+          "w": "count",
+          "start": 281.68,
+          "end": 281.96,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 281.96,
+          "end": 282.129,
+          "conf": 1.0
+        },
+        {
+          "w": "care,",
+          "start": 282.129,
+          "end": 282.48,
+          "conf": 0.86
+        },
+        {
+          "w": "or",
+          "start": 282.48,
+          "end": 282.54,
+          "conf": 0.66
+        },
+        {
+          "w": "don't",
+          "start": 282.54,
+          "end": 282.96,
+          "conf": 0.79
+        },
+        {
+          "w": "count,",
+          "start": 282.96,
+          "end": 283.306,
+          "conf": 0.95
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "text": "but agree that it's real, 'cause that's what money's about.",
+      "start": 283.4,
+      "end": 287.018,
+      "words": [
+        {
+          "w": "but",
+          "start": 283.4,
+          "end": 283.74,
+          "conf": 0.8
+        },
+        {
+          "w": "agree",
+          "start": 283.74,
+          "end": 284.12,
+          "conf": 0.85
+        },
+        {
+          "w": "that",
+          "start": 284.12,
+          "end": 284.34,
+          "conf": 0.85
+        },
+        {
+          "w": "it's",
+          "start": 284.34,
+          "end": 284.54,
+          "conf": 0.95
+        },
+        {
+          "w": "real,",
+          "start": 284.54,
+          "end": 284.96,
+          "conf": 0.97
+        },
+        {
+          "w": "'cause",
+          "start": 284.96,
+          "end": 285.12,
+          "conf": 0.74
+        },
+        {
+          "w": "that's",
+          "start": 285.12,
+          "end": 285.38,
+          "conf": 0.94
+        },
+        {
+          "w": "what",
+          "start": 285.38,
+          "end": 285.54,
+          "conf": 0.85
+        },
+        {
+          "w": "money's",
+          "start": 285.54,
+          "end": 286.03,
+          "conf": 0.93
+        },
+        {
+          "w": "about.",
+          "start": 286.03,
+          "end": 287.018,
+          "conf": 0.96
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "text": "I'm the stone at the bottom of the sea,",
+      "start": 287.671,
+      "end": 290.23,
+      "words": [
+        {
+          "w": "I'm",
+          "start": 287.671,
+          "end": 287.94,
+          "conf": 0.51
+        },
+        {
+          "w": "the",
+          "start": 287.94,
+          "end": 288.035,
+          "conf": 1.0
+        },
+        {
+          "w": "stone",
+          "start": 288.035,
+          "end": 288.62,
+          "conf": 1.0
+        },
+        {
+          "w": "at",
+          "start": 288.62,
+          "end": 288.82,
+          "conf": 0.7
+        },
+        {
+          "w": "the",
+          "start": 288.82,
+          "end": 288.98,
+          "conf": 1.0
+        },
+        {
+          "w": "bottom",
+          "start": 288.98,
+          "end": 289.58,
+          "conf": 1.0
+        },
+        {
+          "w": "of",
+          "start": 289.58,
+          "end": 289.68,
+          "conf": 0.77
+        },
+        {
+          "w": "the",
+          "start": 289.68,
+          "end": 289.776,
+          "conf": 1.0
+        },
+        {
+          "w": "sea,",
+          "start": 289.776,
+          "end": 290.23,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "text": "you lifted me up with a word you agreed;",
+      "start": 290.52,
+      "end": 293.603,
+      "words": [
+        {
+          "w": "you",
+          "start": 290.52,
+          "end": 290.72,
+          "conf": 0.85
+        },
+        {
+          "w": "lifted",
+          "start": 290.72,
+          "end": 291.14,
+          "conf": 0.93
+        },
+        {
+          "w": "me",
+          "start": 291.14,
+          "end": 291.44,
+          "conf": 1.0
+        },
+        {
+          "w": "up",
+          "start": 291.44,
+          "end": 291.707,
+          "conf": 0.63
+        },
+        {
+          "w": "with",
+          "start": 291.96,
+          "end": 292.28,
+          "conf": 0.85
+        },
+        {
+          "w": "a",
+          "start": 292.28,
+          "end": 292.38,
+          "conf": 0.69
+        },
+        {
+          "w": "word",
+          "start": 292.38,
+          "end": 292.7,
+          "conf": 0.93
+        },
+        {
+          "w": "you",
+          "start": 292.7,
+          "end": 292.92,
+          "conf": 0.85
+        },
+        {
+          "w": "agreed;",
+          "start": 292.92,
+          "end": 293.603,
+          "conf": 0.84
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "text": "so choose what you honour, and honour it loud.",
+      "start": 293.882,
+      "end": 297.095,
+      "words": [
+        {
+          "w": "so",
+          "start": 293.882,
+          "end": 294.012,
+          "conf": 0.85
+        },
+        {
+          "w": "choose",
+          "start": 294.012,
+          "end": 294.54,
+          "conf": 1.0
+        },
+        {
+          "w": "what",
+          "start": 294.54,
+          "end": 294.82,
+          "conf": 1.0
+        },
+        {
+          "w": "you",
+          "start": 294.82,
+          "end": 295.04,
+          "conf": 1.0
+        },
+        {
+          "w": "honour,",
+          "start": 295.04,
+          "end": 295.74,
+          "conf": 0.94
+        },
+        {
+          "w": "and",
+          "start": 295.74,
+          "end": 295.92,
+          "conf": 0.84
+        },
+        {
+          "w": "honour",
+          "start": 295.92,
+          "end": 296.34,
+          "conf": 0.82
+        },
+        {
+          "w": "it",
+          "start": 296.34,
+          "end": 296.52,
+          "conf": 0.92
+        },
+        {
+          "w": "loud.",
+          "start": 296.52,
+          "end": 297.095,
+          "conf": 0.9
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "text": "I'm the stone at the bottom of the sea.",
+      "start": 298.02,
+      "end": 300.507,
+      "words": [
+        {
+          "w": "I'm",
+          "start": 298.02,
+          "end": 298.22,
+          "conf": 0.44
+        },
+        {
+          "w": "the",
+          "start": 298.22,
+          "end": 298.317,
+          "conf": 1.0
+        },
+        {
+          "w": "stone",
+          "start": 298.317,
+          "end": 298.881,
+          "conf": 1.0
+        },
+        {
+          "w": "at",
+          "start": 298.881,
+          "end": 299.035,
+          "conf": 0.77
+        },
+        {
+          "w": "the",
+          "start": 299.1,
+          "end": 299.29,
+          "conf": 1.0
+        },
+        {
+          "w": "bottom",
+          "start": 299.29,
+          "end": 299.84,
+          "conf": 1.0
+        },
+        {
+          "w": "of",
+          "start": 299.84,
+          "end": 299.96,
+          "conf": 0.77
+        },
+        {
+          "w": "the",
+          "start": 299.96,
+          "end": 300.058,
+          "conf": 1.0
+        },
+        {
+          "w": "sea.",
+          "start": 300.058,
+          "end": 300.507,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "text": "On Yap they still bring the stones to weddings.",
+      "start": 302.54,
+      "end": 306.109,
+      "words": [
+        {
+          "w": "On",
+          "start": 302.54,
+          "end": 302.72,
+          "conf": 0.85
+        },
+        {
+          "w": "Yap",
+          "start": 302.72,
+          "end": 302.976,
+          "conf": 0.98
+        },
+        {
+          "w": "they",
+          "start": 304.36,
+          "end": 304.473,
+          "conf": 0.85
+        },
+        {
+          "w": "still",
+          "start": 304.473,
+          "end": 304.76,
+          "conf": 1.0
+        },
+        {
+          "w": "bring",
+          "start": 304.76,
+          "end": 304.94,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 304.94,
+          "end": 305.037,
+          "conf": 1.0
+        },
+        {
+          "w": "stones",
+          "start": 305.037,
+          "end": 305.46,
+          "conf": 1.0
+        },
+        {
+          "w": "to",
+          "start": 305.46,
+          "end": 305.58,
+          "conf": 1.0
+        },
+        {
+          "w": "weddings.",
+          "start": 305.58,
+          "end": 306.109,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "text": "Not because they're heavy.",
+      "start": 307.62,
+      "end": 308.649,
+      "words": [
+        {
+          "w": "Not",
+          "start": 307.62,
+          "end": 307.8,
+          "conf": 0.85
+        },
+        {
+          "w": "because",
+          "start": 307.8,
+          "end": 308.08,
+          "conf": 1.0
+        },
+        {
+          "w": "they're",
+          "start": 308.08,
+          "end": 308.3,
+          "conf": 1.0
+        },
+        {
+          "w": "heavy.",
+          "start": 308.3,
+          "end": 308.649,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "text": "Because everybody remembers.",
+      "start": 310.68,
+      "end": 312.106,
+      "words": [
+        {
+          "w": "Because",
+          "start": 310.68,
+          "end": 310.973,
+          "conf": 0.85
+        },
+        {
+          "w": "everybody",
+          "start": 310.973,
+          "end": 311.48,
+          "conf": 1.0
+        },
+        {
+          "w": "remembers.",
+          "start": 311.48,
+          "end": 312.106,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "text": "So remember.",
+      "start": 313.293,
+      "end": 313.976,
+      "words": [
+        {
+          "w": "So",
+          "start": 313.293,
+          "end": 313.458,
+          "conf": 0.85
+        },
+        {
+          "w": "remember.",
+          "start": 313.458,
+          "end": 313.976,
+          "conf": 1.0
+        }
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "start": 8.1,
+      "end": 13.87,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 211.43,
+      "end": 212.06,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 238.88,
+      "end": 240.41,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 297.19,
+      "end": 297.87,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    }
+  ],
+  "notes": "Timeline = the take's master WAV (prologue + song + outro). Method (pdoom-video's, MIT): CTC emissions of the Demucs (htdemucs_ft) vocal stem from torchaudio MMS_FA and wav2vec2-large-lv60k-960h, on the mono sum and the left and right channels, fused; one global constrained Viterbi alignment of every line with a garbage star token between lines (Suno's ad-lib repeats); signal refinement of starts and ends on the vocal stem; cross-check against mlx-whisper; QA plots per line."
+}

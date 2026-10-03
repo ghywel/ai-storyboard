@@ -1,0 +1,5 @@
+{
+  "line_windows": {"2": [12.6, 17.2]},
+  "fix": {"2,0": {"start": 13.46, "end": 13.62}},
+  "notes": "The take's 'na-na-na' vocalise (7.8-13.0 s, heard by whisper) is not in the lyrics and pulled verse 1's first word 'They' back to 7.9 s. All three CTC models put it at 13.46 (QA plot line_02)."
+}

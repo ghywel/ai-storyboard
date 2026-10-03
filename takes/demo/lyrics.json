@@ -1,0 +1,94 @@
+{
+ "lines": [
+  {
+   "i": 0,
+   "text": "Every frame is drawn in code,",
+   "start": 2.0,
+   "end": 4.95,
+   "words": [
+    {
+     "w": "Every",
+     "start": 2.0,
+     "end": 2.45,
+     "conf": 1.0
+    },
+    {
+     "w": "frame",
+     "start": 2.5,
+     "end": 2.95,
+     "conf": 1.0
+    },
+    {
+     "w": "is",
+     "start": 3.0,
+     "end": 3.45,
+     "conf": 1.0
+    },
+    {
+     "w": "drawn",
+     "start": 3.5,
+     "end": 3.95,
+     "conf": 1.0
+    },
+    {
+     "w": "in",
+     "start": 4.0,
+     "end": 4.45,
+     "conf": 1.0
+    },
+    {
+     "w": "code,",
+     "start": 4.5,
+     "end": 4.95,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "text": "every cut lands on the beat.",
+   "start": 8.0,
+   "end": 10.95,
+   "words": [
+    {
+     "w": "every",
+     "start": 8.0,
+     "end": 8.45,
+     "conf": 1.0
+    },
+    {
+     "w": "cut",
+     "start": 8.5,
+     "end": 8.95,
+     "conf": 1.0
+    },
+    {
+     "w": "lands",
+     "start": 9.0,
+     "end": 9.45,
+     "conf": 1.0
+    },
+    {
+     "w": "on",
+     "start": 9.5,
+     "end": 9.95,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 10.0,
+     "end": 10.45,
+     "conf": 1.0
+    },
+    {
+     "w": "beat.",
+     "start": 10.5,
+     "end": 10.95,
+     "conf": 1.0
+    }
+   ]
+  }
+ ],
+ "extras": [],
+ "notes": "Synthetic demo lyrics."
+}

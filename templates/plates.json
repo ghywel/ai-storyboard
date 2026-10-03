@@ -1,0 +1,8 @@
+{
+  "plates": [
+    { "id": "intro",   "scene": "myfilm/intro",  "at": 0 },
+    { "id": "verse1",  "scene": "myfilm/verse1", "at": "first words of verse one" },
+    { "id": "chorus1", "scene": "myfilm/chorus", "at": "first words of the chorus", "nth": 0, "params": { "n": 1 } },
+    { "id": "chorus2", "scene": "myfilm/chorus", "at": "first words of the chorus", "nth": 1, "params": { "n": 2 } }
+  ]
+}
