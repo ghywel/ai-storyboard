@@ -48,7 +48,10 @@ async function openPage(url: string) {
   const browser = await chromium.launch({
     channel: process.env.FILM_CHANNEL || undefined,   // Playwright's own Chromium unless FILM_CHANNEL=chrome
     headless: !flag('headed'),
-    args: ['--use-angle=metal', '--enable-gpu-rasterization', '--ignore-gpu-blocklist', '--disable-background-timer-throttling', '--disable-renderer-backgrounding', '--disable-backgrounding-occluded-windows'],
+    // FILM_CHROME_ARGS adds switches (space-separated), e.g. a GPU choice: on a Mac with two GPUs headless Chromium
+    // took the integrated one (`render.ts gpu` prints which), whatever WebGL's powerPreference asked for
+    args: ['--use-angle=metal', '--enable-gpu-rasterization', '--ignore-gpu-blocklist', '--disable-background-timer-throttling', '--disable-renderer-backgrounding', '--disable-backgrounding-occluded-windows',
+      ...(process.env.FILM_CHROME_ARGS ?? '').split(/\s+/).filter(Boolean)],
   });
   const page = await browser.newPage({ viewport: { width: 1920, height: 1080 }, deviceScaleFactor: 1 });
   const logs: string[] = [];
@@ -223,6 +226,12 @@ async function video(page: Page, from: number, to: number, fps: number, out: str
 
 const { url, stop } = await ensureServer();
 const { browser, page, logs } = await openPage(url);
+/** Times past the take's end render black with no error (no plate is active there): refuse them. */
+async function inTake(times: number[]) {
+  const dur: number = await page.evaluate(() => (window as any).__pdoom.duration);
+  const bad = times.filter((t) => !(t >= 0 && t < dur));
+  if (bad.length) throw new Error(`time(s) ${bad.join(', ')} outside take '${TAKE}' (0 to ${dur.toFixed(2)} s): they would render black`);
+}
 try {
   if (mode === 'timeline') {
     // the edit's entries (id, start, end) as JSON, for segmenting renders by the plates each segment needs
@@ -248,6 +257,7 @@ try {
     }));
   } else if (mode === 'stills') {
     const times = (opt('t') ?? '0').split(',').map(Number);
+    await inTake(times);
     const files = await stills(page, times, opt('out', path.join(ROOT, 'out/stills'))!);
     console.log(files.join('\n'));
   } else if (mode === 'sheet') {
@@ -259,6 +269,7 @@ try {
       const tl: { id: string; start: number }[] = await page.evaluate(() => (window as any).__pdoom.timeline);
       times = tl.slice(1).flatMap((e) => [e.start - 0.1, e.start - 1 / 60, e.start + 1 / 60, e.start + 0.1]);
     }
+    await inTake(times);
     const out = opt('out', path.join(ROOT, `out/sheets/sheet_${from}-${to}.png`))!;
     await sheet(page, times, +opt('cols', '4')!, out);
     console.log(out);
@@ -280,6 +291,7 @@ try {
     }
   } else if (mode === 'perf') {
     const from = +opt('from', '0')!, to = +opt('to', '5')!;
+    await inTake([from, to - 1e-3]);
     const r = await page.evaluate(async ({ from, to, samples, shutter }) => {
       const P = (window as any).__pdoom;
       const ms: number[] = [];
