@@ -72,6 +72,10 @@ cands = sorted({round(refine(b0 * r), 2) for r in (0.5, 2 / 3, 3 / 4, 1, 4 / 3, 
 scored = sorted(((fold(b)[0] + fold(2 * b)[0], b) for b in ([c for c in cands if 90 <= c <= 180] or cands)), reverse=True)
 bpm = scored[0][1]
 hint = opt("--bpm-hint")
+# the candidates, always: the metrical level is a choice the film makes (a 70 bpm half-time feel counts as 140), and
+# a generator's style prompt is not a measurement (asked for 80, Suno sang 70/140, 2026-10-05)
+print("tempo candidates (beat + eighths fold):", ", ".join(f"{b:.1f} ({sc:.2f})" for sc, b in scored),
+      "| outside 90-180:", ", ".join(f"{b:.1f}" for b in cands if not 90 <= b <= 180) or "none")
 if len(scored) > 1 and scored[1][0] > 0.97 * scored[0][0]:
     tied = [b for s, b in scored if s > 0.97 * scored[0][0]]
     bpm = min(tied, key=lambda b: abs(b - float(hint))) if hint else max(tied)
