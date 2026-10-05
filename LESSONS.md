@@ -112,6 +112,16 @@ marked **(Agnosto Theo)** come from the second film, made on a 16 GB Intel i9 Ma
 - **The storyboard gate pays for itself.** The director's notes on the first boards (real environments, an acting
   character, silhouettes that emote, the compositor's touch) changed every plate. They came before the polish, so no
   finished work was thrown away.
+- **The gate caught a register the brief never asked about (Agnosto Theo).** The phase-0 question about the face
+  offered "restrained, mythic acting" inside one option, and the treatment inherited "restrained". The director's
+  storyboard note reversed it: "The emotionality needs to be tuned to the max." Ask the register as its own question.
+- **The gate's notes needed a kit pass (Agnosto Theo).** Kneeling with arms thrown to the sky, prostration, weeping,
+  a crowd going down in a wave: none of it was in the frozen kit. A kit pass between the gate and the polish (two
+  agents, the rig and the cast, in parallel with the orchestrator's own fixes) took about 35 minutes; the six authors
+  were then resumed by message for the polish.
+- **Authors' workarounds are the kit's to-do list (Agnosto Theo).** Six storyboard reports named 20 gaps (a camera on
+  both layers, one lyric picker, a sun rising early, chips floating off the altar, banding rays); three authors wrote
+  the same helpers. Logged in `KIT-FIXES.md` as they arrived, they became one kit pass.
 - **"Perfect, no notes" is a direction.** The approved film's rules became the next films' rules. Their concepts were
   then made deliberately different.
 - **One film's taste is not the method (Agnosto Theo).** The method's pages stated the Stone films' anime acting,

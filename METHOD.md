@@ -160,7 +160,11 @@ before the work starts, in the guide's continuity table.
     `tools/boards.py <take> boards.json boards.html` renders the keyframes the authors report and writes one
     self-contained page to send.
   - Then polish.
-  - The director's notes become the guide's DIRECTION section, which overrides anything below it.
+  - The director's notes become the guide's DIRECTION section, verbatim, which overrides anything below it.
+  - **Then a kit pass, before the polish.** Notes often ask for what the kit cannot yet draw (a new register of
+    acting, a crowd that kneels, a face fixed). Extend the kit for them, fold in the gaps the authors reported (keep a
+    `KIT-FIXES.md` while they build: each report's "what I needed but could not touch" goes there), look-test,
+    refreeze, and only then resume the authors (by message: they keep their context) for the polish.
 - **The preview gate.** A 1080p render with the music.
 - **When the director says "I trust you"**, the gates become milestones: send the boards and the preview, and do not
   wait.
