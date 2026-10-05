@@ -58,6 +58,8 @@ def key_of(a, b):
     best = max(((np.corrcoef(ch, np.roll(p, k))[0, 1], names[k] + (" maj" if p is major else " min")) for p in (major, minor) for k in range(12)))
     return best[1], best[0]
 
+# a generator can tag two sections at one instant (Suno put "[Instrumental]" and "[Final Chorus]" at the same time,
+# 2026-10-05): a zero-length section is reported, not measured
 bounds = [s["t"] for s in secs] + [dur]
 rows = []
 print(f"{'section':22s} {'start':>6s} {'dur':>5s} {'LUFS-S':>7s} {'max':>6s} {'bright':>7s} {'on/s':>5s}  key")
@@ -69,7 +71,7 @@ for i, s in enumerate(secs):
     on = ((pt >= a) & (pt < b)).sum() / max(b - a, 1e-6)
     k, r = key_of(a, b)
     row = dict(name=s["name"], start=round(a, 2), dur=round(b - a, 2), lufs=round(float(np.median(lu)), 1) if len(lu) else None,
-               lufs_max=round(float(lu.max()), 1) if len(lu) else None, bright=round(float(np.median(c))), onsets=round(on, 2), key=k, key_r=round(float(r), 2))
+               lufs_max=round(float(lu.max()), 1) if len(lu) else None, bright=round(float(np.median(c))) if len(c) else 0, onsets=round(on, 2), key=k, key_r=round(float(r), 2))
     rows.append(row)
     print(f"{s['name'][:22]:22s} {a:6.1f} {b - a:5.1f} {row['lufs'] or 0:7.1f} {row['lufs_max'] or 0:6.1f} {row['bright']:7d} {on:5.2f}  {k} ({r:.2f})")
 
