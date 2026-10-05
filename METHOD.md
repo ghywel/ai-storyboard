@@ -157,6 +157,8 @@ before the work starts, in the guide's continuity table.
 - **The storyboard gate.**
   - Every shot is blocked in at storyboard depth: readable and on the beat.
   - The director reviews one keyframe, its line and a one-sentence idea per shot, and pushes back.
+    `tools/boards.py <take> boards.json boards.html` renders the keyframes the authors report and writes one
+    self-contained page to send.
   - Then polish.
   - The director's notes become the guide's DIRECTION section, which overrides anything below it.
 - **The preview gate.** A 1080p render with the music.
