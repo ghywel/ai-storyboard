@@ -19,6 +19,9 @@ for (const wt of [400, 600]) {
   DEFS.push({ family: `Cormorant-${wt}`, file: `Cormorant-${wt}.ttf`, features: '"lnum" 1' });
   DEFS.push({ family: `CormorantItalic-${wt}`, file: `CormorantItalic-${wt}.ttf`, features: '"lnum" 1' });
 }
+// EB Garamond: the serif with Greek (polytonic too) and Cyrillic, for lyrics and inscriptions beyond Latin
+for (const wt of [400, 500, 600, 700]) DEFS.push({ family: `EBGaramond-${wt}`, file: `EBGaramond-${wt}.ttf`, features: '"lnum" 1' });
+for (const wt of [400, 600]) DEFS.push({ family: `EBGaramondItalic-${wt}`, file: `EBGaramondItalic-${wt}.ttf`, features: '"lnum" 1' });
 for (const [n, f] of [['300', 'Light'], ['400', 'Regular'], ['500', 'Medium'], ['600', 'SemiBold'], ['700', 'Bold']] as const)
   DEFS.push({ family: `Plex-${n}`, file: `src/IBMPlexMono-${f}.ttf` });
 DEFS.push({ family: 'PlexItalic-400', file: 'src/IBMPlexMono-Italic.ttf' });
@@ -37,6 +40,10 @@ export const F = {
   serif(weight = 400, italic = false): string {
     return `${italic ? 'CormorantItalic' : 'Cormorant'}-${weight < 500 ? 400 : 600}`;
   },
+  /** EB Garamond, 400..700 (italic 400 or 600): the face for Greek and Cyrillic text. */
+  garamond(weight = 500, italic = false): string {
+    return italic ? `EBGaramondItalic-${weight < 500 ? 400 : 600}` : `EBGaramond-${nearest([400, 500, 600, 700], weight)}`;
+  },
   mono(weight = 400, italic = false): string {
     if (italic) return 'PlexItalic-400';
     return `Plex-${nearest([300, 400, 500, 600, 700], weight)}`;
@@ -47,6 +54,23 @@ function nearest(list: number[], v: number) {
   let best = list[0]!;
   for (const x of list) if (Math.abs(x - v) < Math.abs(best - v)) best = x;
   return best;
+}
+
+/**
+ * Characters of `text` that `family` has no glyph for. Canvas2D silently draws them in some system font instead (a
+ * lyric line in Greek once came out half in the wrong face), so the lyric presenters call this and warn once per
+ * missing character (the render prints the warning). Spaces and line breaks are ignored.
+ */
+const warned = new Set<string>();
+export function missingGlyphs(text: string, family: string): string[] {
+  const f = bufCache.has(family) ? ot(family) : null;
+  if (!f) return [];
+  const miss = Array.from(new Set(Array.from(text))).filter((ch) => ch.trim() && f.charToGlyphIndex(ch) === 0);
+  for (const ch of miss) {
+    const k = `${family}:${ch}`;
+    if (!warned.has(k)) { warned.add(k); console.warn(`font ${family} has no glyph for "${ch}" (U+${ch.codePointAt(0)!.toString(16).toUpperCase().padStart(4, '0')}): it will be drawn in a fallback face`); }
+  }
+  return miss;
 }
 
 /** CSS font string for Canvas2D. */

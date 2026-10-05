@@ -81,5 +81,6 @@ Read `METHOD.md`, then `DIRECTION.md`, then `examples/stone/README.md`. The shor
   Magnanini (MIT; `engine/LICENSE-pdoom-video.txt`, `analysis/LICENSE-pdoom-video.txt`). That repository had already
   solved the hard parts: offline rendering with motion blur, word-level forced alignment for sung vocals, and a scene
   API built for music.
-- **Fonts:** Archivo, Cormorant Garamond and IBM Plex Mono, under the SIL Open Font License (`engine/public/fonts/FONTS.md`).
+- **Fonts:** Archivo, Cormorant Garamond, IBM Plex Mono and EB Garamond, under the SIL Open Font License
+  (`engine/public/fonts/FONTS.md`).
 - **Made by** Knight Commander Gareth (direction) and Claude (Anthropic): words, analysis, design and code.

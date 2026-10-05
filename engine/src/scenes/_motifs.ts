@@ -4,7 +4,7 @@
 // A few are from the worked example (examples/stone): stone() and ledger() are that film's motifs, kept as samples.
 import { W, H } from '../engine/gl';
 import { HEX } from '../engine/palette';
-import { F, font } from '../engine/type';
+import { F, font, missingGlyphs } from '../engine/type';
 import { Lyrics, type Line, type Word } from '../engine/lyrics';
 import { clamp, ease } from '../engine/util';
 import { h01 } from './_hash';
@@ -133,6 +133,7 @@ export function slam(c: C2, text: string, x: number, y: number, size: number, t:
   if (t < t0 - 0.02) return;
   { // shrink to fit (the slams ran off the frame): by default the title-safe width, 96 px each side
     c.font = font(o.fam ?? FAM.hook(), size);
+    missingGlyphs(text, o.fam ?? FAM.hook());
     const w = c.measureText(text).width, maxW = o.maxW ?? W - 192;
     if (w > maxW) size *= maxW / w;
   }
@@ -173,6 +174,7 @@ export function karaoke(c: C2, line: Line, t: number, x: number, y: number, size
   c.save();
   c.globalAlpha *= clamp((t - (first - lead)) / 0.12) * fade;
   c.font = font(o.fam ?? FAM.bold(), size);
+  missingGlyphs(line.text, o.fam ?? FAM.bold());
   c.textBaseline = 'alphabetic';
   c.textAlign = 'left';
   const sp = c.measureText(' ').width;
@@ -222,6 +224,7 @@ export function kinetic(c: C2, line: Line, t: number, x: number, y: number, size
   if (t < line.words[0]!.start - 0.02 || t > until + 0.15) return;
   const fade = 1 - clamp((t - until) / 0.15);
   const fam = o.fam ?? FAM.bold(), maxW = o.maxW ?? W - 2 * x, lh = (o.lineH ?? 1.08) * size;
+  missingGlyphs(line.text, fam);
   c.save();
   c.globalAlpha *= fade;
   c.textBaseline = 'alphabetic';
