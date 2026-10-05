@@ -21,7 +21,7 @@ BUNDLES = {"mms": torchaudio.pipelines.MMS_FA, "lv60k": torchaudio.pipelines.WAV
 def load(name, device=None):
     bundle = BUNDLES[name]
     model = bundle.get_model(with_star=False) if name == "mms" else bundle.get_model()
-    device = device or ("mps" if torch.backends.mps.is_available() else "cpu")
+    device = device or common.device()
     return model.to(device).eval(), device
 
 
@@ -68,5 +68,5 @@ if __name__ == "__main__":
             compute(n, source=src, model=model)
         del model
         gc.collect()
-        if torch.backends.mps.is_available():
+        if common.device() == "mps":
             torch.mps.empty_cache()

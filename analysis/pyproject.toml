@@ -2,18 +2,52 @@
 name = "analysis"
 version = "0.1.0"
 requires-python = ">=3.12"
+# Two platform families, resolved into one lockfile:
+#   - Apple silicon, Linux and Windows: current torch, numpy 2, and mlx-whisper on Apple silicon.
+#   - Intel Macs: PyTorch's last x86_64 macOS wheels are 2.2.2 (Python 3.12 at most, built against numpy 1.x), and
+#     mlx-whisper needs Apple silicon, so these get torch 2.2.2, numpy < 2 and openai-whisper (whisper_run.py picks
+#     whichever is installed). Measured 2026-10-05 on an Intel i9 MacBook Pro: the old pins could not install at all.
 dependencies = [
-    "audio-separator>=0.47.0",
     "audioread>=3.1.0",
     "demucs>=4.0.1",
     "fonttools>=4.66.0",
-    "librosa>=1.0.0",
-    "matplotlib>=3.11.2",
-    "mlx-whisper>=0.4.3",
-    "numpy>=2.5.3",
-    "onnxruntime>=1.30.0",
-    "scipy>=1.18.1",
-    "soundfile>=0.14.0",
-    "torch>=2.14.0",
-    "torchaudio>=2.11.0",
+    "librosa>=0.10.2",
+    "matplotlib>=3.8",
+    "numba>=0.59; sys_platform != 'darwin' or platform_machine != 'x86_64'",
+    "numba>=0.59,<=0.62.1; sys_platform == 'darwin' and platform_machine == 'x86_64'",   # the last Intel-Mac wheels
+    "scipy>=1.11",
+    "soundfile>=0.12",
+    "soxr>=0.3",
+    "numpy>=2.5.3; sys_platform != 'darwin' or platform_machine != 'x86_64'",
+    "numpy>=1.26,<2; sys_platform == 'darwin' and platform_machine == 'x86_64'",
+    "torch>=2.14.0; sys_platform != 'darwin' or platform_machine != 'x86_64'",
+    "torch==2.2.2; sys_platform == 'darwin' and platform_machine == 'x86_64'",
+    "torchaudio>=2.11.0; sys_platform != 'darwin' or platform_machine != 'x86_64'",
+    "torchaudio==2.2.2; sys_platform == 'darwin' and platform_machine == 'x86_64'",
+    "mlx-whisper>=0.4.3; sys_platform == 'darwin' and platform_machine == 'arm64'",
+    "openai-whisper>=20250625; sys_platform != 'darwin' or platform_machine != 'arm64'",
+]
+
+[project.optional-dependencies]
+# A karaoke lead-vocal stem (mel-band roformer) for common.load_lead(); no step of run-take.sh uses it.
+# onnxruntime has no Intel-Mac wheels, so it is opt-in (`uv sync --extra karaoke`) and not offered there.
+karaoke = [
+    "audio-separator>=0.47.0; sys_platform != 'darwin' or platform_machine != 'x86_64'",
+    "onnxruntime>=1.30.0; sys_platform != 'darwin' or platform_machine != 'x86_64'",
+]
+
+[tool.uv]
+# Intel Macs stop at Python 3.12 (torch 2.2.2's last wheels); everything else resolves for any Python >= 3.12.
+environments = [
+    "sys_platform == 'darwin' and platform_machine == 'x86_64' and python_full_version < '3.13'",
+    "sys_platform != 'darwin' or platform_machine != 'x86_64'",
+]
+# Compiled packages come as wheels or not at all: when a platform's newest release has no wheel, the resolver picks the
+# newest one that has (numba 0.67's llvmlite has no Intel-Mac wheel, and building it from source failed, 2026-10-05).
+no-build-package = ["llvmlite", "numba", "numpy", "scipy", "soxr", "tiktoken", "torch", "torchaudio", "contourpy", "kiwisolver", "pillow", "matplotlib", "cffi", "regex"]
+# The lockfile must install on each of these (uv checks at lock time instead of failing on the user's machine).
+required-environments = [
+    "sys_platform == 'darwin' and platform_machine == 'arm64'",
+    "sys_platform == 'darwin' and platform_machine == 'x86_64' and python_full_version < '3.13'",
+    "sys_platform == 'linux' and platform_machine == 'x86_64'",
 ]

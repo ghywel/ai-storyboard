@@ -29,6 +29,19 @@ QA.mkdir(parents=True, exist_ok=True)
 WORK.mkdir(parents=True, exist_ok=True)
 
 
+def device():
+    """Where the models run: ANALYSIS_DEVICE if set (cpu, mps, cuda), else MPS on Apple silicon, CUDA when present, else
+    CPU. Intel Macs default to CPU: torch 2.2's MPS on their AMD GPUs is not something this pipeline has measured."""
+    d = os.environ.get("ANALYSIS_DEVICE")
+    if d:
+        return d
+    import platform
+    import torch
+    if platform.system() == "Darwin" and platform.machine() == "arm64" and torch.backends.mps.is_available():
+        return "mps"
+    return "cuda" if torch.cuda.is_available() else "cpu"
+
+
 def load_lyrics_src():
     """lyrics.src.json -> list of (start, end, text)."""
     import json

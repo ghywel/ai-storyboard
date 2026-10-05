@@ -316,15 +316,23 @@ def main(plots=False):
         d = downbeats[max(i, 0)]
         return float(downbeats[i + 1]) if i + 1 < len(downbeats) and (f - d) >= 2 * P - 0.05 else float(d)
     sections = []
-    for g in tags:
+    for k, g in enumerate(tags):
+        nxt = tags[k + 1]["t"] if k + 1 < len(tags) else duration
         if g["t"] < SONG_START or g["t"] >= SONG_END:
             start = g["t"]
         else:
             f = first_word(g["t"])
-            start = snap(f) if f is not None else g["t"]
+            # a section with no words of its own (an instrumental) keeps its own time, on the downbeat at or before it:
+            # its "first word" would be the next section's, and the two would collapse into one (2026-10-05)
+            if f is None or f >= nxt - 0.5:
+                i = int(np.searchsorted(downbeats, g["t"] + 0.05)) - 1
+                start = float(downbeats[max(i, 0)]) if g["t"] > 0 else 0.0
+            else:
+                start = snap(f)
         sections.append(dict(name=g["name"], start=round(start, 3)))
     for i, x in enumerate(sections):
         x["end"] = sections[i + 1]["start"] if i + 1 < len(sections) else round(duration, 3)
+    assert all(x["end"] > x["start"] for x in sections), f"empty section: {[x for x in sections if x['end'] <= x['start']]}"
 
     doc = dict(
         duration=round(duration, 3),

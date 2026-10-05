@@ -134,7 +134,10 @@ def refine(words, f, fix=None):
             rs = [(a, b) for a, b in runs(sil[i0:i1]) if (b - a) * hop >= 0.05]
             if rs:
                 onset = (i0 + rs[-1][1]) * hop
-                if s - onset > 0.04:
+                # capped: a choir's hum or a vocalise before a verse is "voice" too, and once pulled verse 1's first
+                # word 5.5 s ahead of all three acoustic models (Agnosto Theo, 2026-10-05). A real rest-onset is
+                # within a beat or so of the CTC start.
+                if 0.04 < s - onset <= 0.6:
                     u["s"], u["rule"] = onset, "rest-onset"
                 done = True
         # 2. onset snap
@@ -253,7 +256,9 @@ def median_filter_1d(x, n):
 
 
 def whisper_words():
-    W = json.loads((common.WORK / "whisper_turbo_prompt.json").read_text())
+    # the prompted run when the take has a whisper-prompt.txt, else the plain one (whisper_run.py writes both or one)
+    f = common.WORK / "whisper_turbo_prompt.json"
+    W = json.loads((f if f.exists() else common.WORK / "whisper_turbo.json").read_text())
     return [(w["word"].strip(), w["start"], w["end"]) for s in W["segments"] for w in s.get("words", [])]
 
 
@@ -354,8 +359,7 @@ def make_plots(words, alt, L):
             ("fused-ctc", [(w["w"], w["ctc_start"], w["ctc_end"]) for w in words]),
             ("subwords", [(" ".join(pron(w["w"])).split()[i] if len(w["subs"]) > 1 else "", a, b)
                           for w in words for i, (a, b) in enumerate(w["subs"])]),
-            ("mms", [(w["w"], w["start"], w["end"]) for w in alt["mms"]]),
-            ("lv60k", [(w["w"], w["start"], w["end"]) for w in alt["lv60k"]]),
+            *[(m, [(w["w"], w["start"], w["end"]) for w in alt[m]]) for m in ("mms", "lv60k") if m in alt],   # ALIGN_MODELS
             ("whisper", ww),
         ]
         plot(t0, t1, tracks, common.QA / f"line_{li:02d}.png", title=f"L{li}: {text}")
