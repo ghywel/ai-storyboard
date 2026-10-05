@@ -7,7 +7,8 @@ Copy the files into a project's memory directory and keep this index in its MEMO
 - [Script first](feedback-script-first.md): treatment and shot-by-shot script written and committed before building
 - [Measure the take](feedback-measure-the-take.md): master WAV, forced alignment, drum-decided beats; generator timings are drafts
 - [Environments and clues](feedback-environments-and-clues.md): real places, a named clue per shot, paid off later
-- [One face acts](feedback-one-face-acts.md): anime acting, faces follow words, chibi pops, lines of force
+- [One face acts](feedback-one-face-acts.md): one face acts every line in the film's register; a rig and reel first
+- [Craft vs taste](feedback-craft-vs-taste.md): one film's taste carries to its takes, not to a new song unless asked
 - [Silhouettes emote](feedback-silhouettes-emote.md): faceless people with body language and one accessory each
 - [Lyric readable](feedback-lyric-readable.md): per word, never ahead, never covered, inside the concept
 - [Compositor restraint](feedback-compositor-restraint.md): capped shakes on real hits; the silent beat gets nothing

@@ -1,7 +1,15 @@
 # Direction: how to establish and hold an artistic direction
 
-These are the craft rules for the picture. Each comes from a director's note or a failure that was seen and fixed.
+These are the rules for the picture. Each comes from a director's note or a failure that was seen and fixed.
 **Example** lines point to `examples/stone/`; they illustrate a rule and are not part of it.
+
+**Two kinds of rule.** Most of this page is *craft*: it holds for any film (measure the look, colour as tokens, a
+readable lyric, real places with clues, silhouettes that emote, restraint in the compositor, gates). Some of it is
+*taste*: one director's notes for one film, marked **Taste (the Stone films)** below: anime acting, chibi pops, manga
+marks, lines of force, neon, slammed words, a protagonist who is never hurt. Taste carries to that film's other takes
+("perfect, no notes" is a direction). It does not carry to a new song by itself: at phase 0 the director says which of
+it, if any, the new film keeps. (*Agnosto Theo*, 2026-10-05, kept the craft and none of the taste: an epic,
+reverent film with a restrained, cinematic face.)
 
 ## 1. Measure the look you admire
 
@@ -16,25 +24,35 @@ These are the craft rules for the picture. Each comes from a director's note or 
 **Example.** The measured reference palette became twelve named tokens: an indigo-black ground for about half of
 every frame, then pink, yellow, lime, orange, violet, coral, periwinkle, cyan, a limestone white and gold.
 
-## 2. Colour has meanings and weights
+## 2. Colour has meanings and weights (craft; the neon is taste)
 
 - **Define colours as tokens** and give each a job. If the same colour means the same thing everywhere, the audience
   learns the code without being told.
 - **Weight the palette per film.** Two films can share the tokens and look different: one a night studio of
   spotlights, one a day turning through dusk, night and dawn.
-- **Neon blooms, type stays crisp.** Glow belongs on a separate additive layer, and that layer is cleared under the
+- **Light blooms, type stays crisp.** Glow belongs on a separate additive layer, and that layer is cleared under the
   lyric (it composites over everything).
+- **The glow layer is not occluded.** Anything on it shows through every shape drawn after it: a star's halo shone
+  through a hill (2026-10-05). Put distant lights on the main layer (additively, `'lighter'`) so the foreground covers
+  them, and keep the glow layer for near lights.
+- **Wide, faint glows band.** The glow layer is 8-bit and the compositor amplifies it: a wide linear radial gradient
+  shows rings and a hard edge. Use a falloff with many stops (exponential-like), keep halos small, and keep the
+  glow tint modest (1.4 rather than 2).
 
 **Example.** Pink meant care, lime meant paid money and gold meant value. A zero for unpaid care was always pink.
 Each chorus owned one sunburst colour, and the last had all of them.
 
 ## 3. Type has roles
 
-Give three or four faces a job each, and never mix the jobs:
+Give three or four faces a job each, and never mix the jobs. For example (the Stone films):
 - a heavy wide face for slammed words;
 - a bold face for the karaoke;
 - a serif italic for spoken parts only;
 - a monospace for machines, ledgers and captions.
+
+A film may use one family in several roles (*Agnosto Theo*: EB Garamond for the lyric, the carved Greek and the
+credits). **Check the faces cover the lyric's script**: Canvas2D draws a missing glyph in a system font without a word;
+`missingGlyphs()` in `engine/src/engine/type.ts` warns once per missing character, and the lyric presenters call it.
 
 Avoid outlined or haloed type and use typographic punctuation.
 
@@ -71,24 +89,28 @@ verse 2, was hugged by a neighbour in chorus 2, and stood packed for the morning
 
 ## 6. One face, and it acts
 
+Craft:
 - **Give the face to one character.** Everyone else is a faceless silhouette.
-- **The character acts every line.** For each line, choose:
-  - a face;
-  - an arm pose;
-  - body motion (a hop, squash and stretch, a lean, a tilt);
-  - and when the line asks for it, a manga mark (vein, sweat drop, gloom lines, sparkles, hearts, steam, !, ?).
-- **Faces follow the words.** Cross when cross, sassy when sassy; cheeky, sad, joyous, silly or serious as the line
-  says.
-- **Use chibi (super-deformed) pops for the comic beats**: a sudden switch to a small, round body for under a second,
-  with a puff of smoke at the switch. Use a few per scene, never constantly.
-- **Lines of force for impact**: focus lines and speed lines that flash with the hit and fade within half a second.
-  Never leave them on as wallpaper.
-- **Tone rule: the protagonist is never hurt.** The worst that happens is comic. A prop through the heart gets an
-  "ow" and a deadpan look to camera, and a fall through a trapdoor bounces back up dizzy.
+- **The character acts every line.** For each line, choose a face, an arm pose and body motion (a lean, a tilt, a
+  step, a breath), and a register that suits the film.
+- **Faces follow the words.** Cross when cross, tender when tender, awed when awed: as the line says.
+- **Build the rig before the plates**, with an acting reel the director sees first: about fifteen to twenty faces
+  blended by parameters (brows, lids, pupils, mouth), about a dozen arm poses blended by two-bone IK, body poses,
+  anchors it returns (head, heart, hands) for props and effects, a prop in either hand, and lighting it can take from
+  the scene (a key, a rim, an ambient). Check it from a wide shot (a silhouette with a lamp) to a close-up.
 
-The rig needs about twenty faces, about a dozen arm poses blended by two-bone IK, squash, hop, shake and tilt, a
-chibi body, marks placed from anchors it returns (head, heart, hands), and a prop in either hand. See
-`examples/stone/scenes/_rai.ts` and the acting reel scene `acting.ts`.
+**Taste (the Stone films):** a comic register.
+- Anime acting with manga marks (vein, sweat drop, gloom lines, sparkles, hearts, steam, !, ?).
+- Chibi (super-deformed) pops for the comic beats: a small, round body for under a second, with a puff of smoke at
+  the switch; a few per scene, never constantly.
+- Lines of force for impact: focus and speed lines that flash with the hit and fade within half a second.
+- The protagonist is never hurt; the worst that happens is comic. A prop through the heart gets an "ow" and a deadpan
+  look to camera.
+- The rig: `examples/stone/scenes/_rai.ts` and its reel `acting.ts`.
+
+**Another register (Agnosto Theo, 2026-10-05):** restrained and cinematic. Damaris acts through eyes, brows, mouth,
+head and hands, her mantle in the wind; sixteen faces from longing to tears of joy; poses from carrying a lamp to the
+kneeling orans. No marks, no chibi, no comedy beats.
 
 **Example.** The first board's protagonist smiled through everything. The director's note asked for
 anime-style acting, "a sudden change to a chibi is hilarious and delightful", and Team Rocket-style poses. The rig

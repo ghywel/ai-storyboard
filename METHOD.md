@@ -38,6 +38,16 @@ Two rules hold the roles together:
   - how it was made. Is it all code, or code plus generated art? A reference's look often comes from a cheaper
     technique than it seems.
 - Take the style, never the content: the words, characters and story are new.
+- **When the brief is thin, ask before writing anything.** Some decisions are only the director's, and each changes
+  every plate. Ask them together, each with two or three concrete options and a recommendation:
+  - the look (described options, or references to measure);
+  - who has the face, and the register they act in (comic, tender, reverent...);
+  - the payoff: how the film ends, and anything theological, political or personal it shows or refuses to show;
+  - which of an earlier film's standing taste carries over (`DIRECTION.md`: craft carries, taste is asked);
+  - how to run the gates (stop at the boards, or trust).
+- Read the generator's own write-up of the song (its notes on where the shiver lands), and plant the film's payoff in
+  the words themselves where you can: *Agnosto Theo*'s ending came from its Greek (ἀγνώστῳ, "unknown", loses its
+  alpha and becomes γνωστῷ, "known").
 
 **Example.** Two references set the style: one gave the song form (semi-rapped verses, sung hooks, about 140 bpm),
 and one gave the palette and energy (neon on indigo-black, slammed words, sunbursts). The second turned out to be
@@ -187,6 +197,18 @@ The 1080p checks ran at about 180 fps.
 
 Commit after every reviewed step, with messages that say what was measured. Keep a project memory (`memory/`) of
 the director's decisions and the lessons, so a new session continues instead of re-deriving.
+
+## Starting a new film: the layout
+
+A film lives in a checkout of this repository, on its own branch:
+- `films/<film>/`: the treatment, the scene guide, the director's notes;
+- `takes/<take>/`: the master (ignored by git) and the timing truth, and `plates.json`, the edit;
+- `engine/src/scenes/<film>/`: the film's kit (`_*.ts`, frozen before the plates), its look tests and reels, and one
+  file per plate.
+
+Keep the toolchain's `main` in a separate worktree (`git worktree add ../<repo>-main main`). A fix to the method found
+while making the film is committed on its own (method files only) and cherry-picked into `main`; the film's branch
+never has to be switched while parallel authors are reading and writing its files.
 
 ## What a session needs to know first
 

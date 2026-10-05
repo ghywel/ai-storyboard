@@ -1,16 +1,18 @@
 ---
 name: feedback-one-face-acts
-description: "One character has the only face and acts every line anime-style: faces follow words, chibi pops on comic beats, lines of force on hits"
+description: "One character has the only face and acts every line in the film's register; faces follow the words"
 metadata:
   type: feedback
 ---
 
-For every line the face character performs: a face, an arm pose, body motion (hop, squash, lean, tilt), manga marks
-when the line asks (vein, sweat, gloom, sparkles, hearts, steam, !, ?). Chibi (super-deformed) pops with a puff at the
-switch for comic beats, a few per scene. Lines of force flash with a hit and fade within half a second.
+For every line the face character is in, they perform: a face, an arm pose, body motion (a lean, a tilt, a step, a
+breath). Faces follow the words. The register is the film's: the Stone films were comic anime (manga marks, chibi pops
+with a puff, lines of force on hits, "big exaggerated cartoon emotions"); Agnosto Theo was restrained and cinematic
+(eyes, brows, mouth, hands, a mantle in the wind; no marks, no chibi).
 
-**Why:** the director's note: "big exaggerated cartoon emotions", "a sudden change to a chibi is hilarious and
-delightful", "cross when she is cross, sas when she is sassy". The protagonist is never hurt: the worst is comic.
+**Why:** the Stone director's note ("cross when she is cross, sas when she is sassy") made the character carry the
+film; but its comic register is that film's taste, not a rule. See [[feedback-craft-vs-taste]].
 
-**How to apply:** build the rig before the plates (about twenty faces, a dozen IK arm poses, squash/hop/shake, a chibi
-body, anchors for marks and props) and an acting reel to check it. See [[feedback-silhouettes-emote]].
+**How to apply:** at phase 0 ask the register; build the rig before the plates (fifteen to twenty faces as blendable
+parameters, a dozen IK arm poses, body poses, anchors for props and effects, scene lighting: key, rim, ambient) and an
+acting reel the director sees first. See [[feedback-silhouettes-emote]].
