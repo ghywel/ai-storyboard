@@ -96,8 +96,9 @@ marked **(Agnosto Theo)** come from the second film, made on a 16 GB Intel i9 Ma
 - **A face without the lyric's script falls back silently (Agnosto Theo).** No bundled font had Greek; ΑΓΝΩΣΤΩ ΘΕΩ
   would have been drawn in some system face. Fix: EB Garamond, and `missingGlyphs()` warns.
 - **The glow layer is not occluded, and wide glows band (Agnosto Theo).** A star's halo shone through a hill drawn
-  after it, and linear radial glows showed rings and a rim once bloomed. Fix: distant lights on the main layer
-  (`'lighter'`), an exponential falloff, the glow tint at 1.4.
+  after it, and faint glows showed rings once bloomed. A softer falloff did not cure the rings: the rig's author
+  traced them to the upload, which un-premultiplies each of the few alpha levels a faint tail is stored in. Fix:
+  distant lights on the main layer; glows drawn as opaque colour scaled by the falloff, added with `'lighter'`.
 - **Read characters at thumbnail size.** First drafts read as the wrong thing at a distance:
   - a disc with a hole read as an eyeball;
   - a canoe as a table;

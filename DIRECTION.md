@@ -35,9 +35,10 @@ every frame, then pink, yellow, lime, orange, violet, coral, periwinkle, cyan, a
 - **The glow layer is not occluded.** Anything on it shows through every shape drawn after it: a star's halo shone
   through a hill (2026-10-05). Put distant lights on the main layer (additively, `'lighter'`) so the foreground covers
   them, and keep the glow layer for near lights.
-- **Wide, faint glows band.** The glow layer is 8-bit and the compositor amplifies it: a wide linear radial gradient
-  shows rings and a hard edge. Use a falloff with many stops (exponential-like), keep halos small, and keep the
-  glow tint modest (1.4 rather than 2).
+- **Wide, faint glows band.** A translucent tail on the 8-bit glow layer is stored in a few alpha levels, and the
+  texture upload un-premultiplies each level back to full colour: every level shows as a ring. Draw glows as *opaque*
+  colour scaled by the falloff, added with `'lighter'` (as Agnosto Theo's kit does),
+  use an exponential-like falloff, and keep the glow tint modest (1.4 rather than 2).
 
 **Example.** Pink meant care, lime meant paid money and gold meant value. A zero for unpaid care was always pink.
 Each chorus owned one sunburst colour, and the last had all of them.
