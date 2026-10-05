@@ -25,7 +25,7 @@ It was built for one brief and is written down here so the next film starts furt
 | `templates/` | A treatment, a variants plan, a scene guide, a brief for a plate author, and `plates.json` |
 | `engine/` | The renderer: TypeScript scenes on Canvas2D and three.js, rendered offline in headless Chromium and encoded in the page with WebCodecs. It includes the shared kit (`src/scenes/_motifs.ts`, `_manga.ts`, `_post.ts`) and a demo scene. |
 | `analysis/` | The timing pipeline: Demucs stems, CTC forced alignment, a whisper cross-check, the beat grid, bars and sections |
-| `tools/` | Measuring tools (`palette.py`, `song-analyze.py`, `dynamics.py`, `srt-lines.py`, `srt-check.py`), `soundtrack.py`, `make-demo-take.py`, the final render (`render-final.sh`) and its memory guard (`memwatch.py`) |
+| `tools/` | Measuring tools (`palette.py`, `song-analyze.py`, `dynamics.py`, `srt-lines.py`, `srt-check.py`), `soundtrack.py`, `make-demo-take.py`, the storyboard page (`boards.py`), the final render (`render-final.sh`) and its memory guard (`memwatch.py`) |
 | `takes/` | One folder per take: the master WAV and its analysis. `takes/demo/` is made by `tools/make-demo-take.py`. |
 | `examples/stone/` | The worked example: one brief, three films, every treatment, guide, timeline and scene file |
 
@@ -66,14 +66,24 @@ Read `METHOD.md`, then `DIRECTION.md`, then `examples/stone/README.md`. The shor
 ## Requirements and platform
 
 - **Engine:** bun, Playwright's Chromium (WebCodecs H.264 with hardware encoding) and FFmpeg.
-- **Analysis:** Python 3.12+ with [uv](https://docs.astral.sh/uv/), and a GPU for Demucs and the acoustic models.
+- **Analysis:** Python 3.12+ with [uv](https://docs.astral.sh/uv/); a GPU helps but is not required.
   - **The alignment fuses two acoustic models.** MMS_FA's weights are licensed **CC-BY-NC 4.0 (non-commercial)**;
     wav2vec2 LV60K is MIT. For commercial work, set `ALIGN_MODELS=lv60k` to use the MIT model alone. On one take this
     put 560 of 571 words within 0.1 s of the two-model result; the worst word was off by 0.74 s.
-  - `whisper_run.py` uses mlx-whisper, which runs on Apple silicon; swap in another whisper elsewhere.
-  - `run-take.sh` asks Demucs for `-d mps`; change it to `cuda` or `cpu` as needed.
-- **Platform:** developed and measured on a 16 GB Apple-silicon laptop running macOS. `tools/memwatch.py` reads macOS
-  memory statistics (`vm_stat`, `sysctl`, `top`).
+  - The models run where `common.device()` says (MPS on Apple silicon, CUDA when present, else the CPU); set
+    `ANALYSIS_DEVICE` to choose.
+  - The whisper cross-check uses mlx-whisper on Apple silicon and openai-whisper everywhere else; `uv sync` installs
+    the right one.
+- **Platform:** developed on a 16 GB Apple-silicon laptop running macOS, and run end to end on a 16 GB Intel MacBook
+  Pro (macOS 15) on 2026-10-05:
+  - **Intel Macs** install PyTorch 2.2.2 (its last x86_64 macOS wheels), numpy 1.26 and Python 3.12; `uv sync` picks
+    these by itself. On an i9-9880H the CPU took 13 min for Demucs on a 5:20 take.
+  - **Homebrew has no Intel bottles** for ffmpeg, bun or uv now (it builds them from source and upgrades its Python).
+    Static builds work: ffmpeg from evermeet.cx (linked from ffmpeg.org), bun's release zip, uv's installer.
+  - **Two GPUs:** headless Chromium may take the integrated one. `bun scripts/render.ts gpu` prints which; on a Mac set
+    `FILM_CHROME_ARGS=--force_high_performance_gpu` (it moved an Intel UHD 630 to an RX 6600 eGPU and halved the frame
+    time).
+  - `tools/memwatch.py` reads macOS memory statistics (`vm_stat`, `sysctl`, `top`).
 
 ## Credits
 
