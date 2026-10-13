@@ -1,0 +1,57 @@
+{
+ "line_windows": {
+  "11": [
+   109.0,
+   123.0
+  ],
+  "12": [
+   124.9,
+   127.6
+  ],
+  "13": [
+   128.7,
+   130.3
+  ],
+  "14": [
+   132.5,
+   134.7
+  ],
+  "15": [
+   136.3,
+   137.8
+  ],
+  "18": [
+   163.6,
+   166.9
+  ],
+  "29": [
+   235.3,
+   236.9
+  ],
+  "30": [
+   239.2,
+   241.0
+  ],
+  "31": [
+   243.0,
+   244.9
+  ],
+  "32": [
+   246.95,
+   248.8
+  ],
+  "33": [
+   251.3,
+   258.3
+  ],
+  "34": [
+   259.0,
+   265.5
+  ],
+  "35": [
+   265.8,
+   269.4
+  ]
+ },
+ "notes": "Windows from the vocal stem's phrases (10 ms level frames), 2026-10-13. Without them the global alignment pulls the repeated lines out of place: build 1's third line 6.2 s early into the second, drop 1's four calls and echoes 3.8-4.3 s early, verse 2's third line 2 s early, and the drop 2 and outro repeats up to 12 s late. Lines 0-based, as in lyrics.src.json. Lines 18 and 32 then still started in silence or bleed before the voice (0.26 s and 0.65 s early by the stem's level); their windows start at the voice's onset."
+}

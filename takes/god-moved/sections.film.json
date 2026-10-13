@@ -1,0 +1,58 @@
+[
+ {
+  "name": "Intro",
+  "t": 0.0
+ },
+ {
+  "name": "Spoken word",
+  "t": 9.16
+ },
+ {
+  "name": "Groove in",
+  "t": 34.48
+ },
+ {
+  "name": "Verse 1",
+  "t": 49.01
+ },
+ {
+  "name": "Pre-chorus 1",
+  "t": 79.67
+ },
+ {
+  "name": "Build 1",
+  "t": 93.95
+ },
+ {
+  "name": "Drop 1",
+  "t": 125.14
+ },
+ {
+  "name": "Verse 2",
+  "t": 156.09
+ },
+ {
+  "name": "Pre-chorus 2",
+  "t": 171.32
+ },
+ {
+  "name": "Breakdown",
+  "t": 186.83
+ },
+ {
+  "name": "Build 2",
+  "t": 204.33
+ },
+ {
+  "name": "Drop 2",
+  "t": 235.57
+ },
+ {
+  "name": "Outro",
+  "t": 251.48
+ },
+ {
+  "name": "Last chord",
+  "t": 266.06
+ }
+]

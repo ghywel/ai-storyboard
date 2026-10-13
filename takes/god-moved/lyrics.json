@@ -1,0 +1,1183 @@
+{
+  "lines": [
+    {
+      "i": 0,
+      "text": "In the beginning.",
+      "start": 9.154,
+      "end": 11.1,
+      "words": [
+        {
+          "w": "In",
+          "start": 9.154,
+          "end": 9.32,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 9.32,
+          "end": 9.44,
+          "conf": 1.0
+        },
+        {
+          "w": "beginning.",
+          "start": 9.44,
+          "end": 11.1,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "text": "Before the light. Before the land.",
+      "start": 14.08,
+      "end": 18.992,
+      "words": [
+        {
+          "w": "Before",
+          "start": 14.08,
+          "end": 14.337,
+          "conf": 0.92
+        },
+        {
+          "w": "the",
+          "start": 14.337,
+          "end": 14.6,
+          "conf": 1.0
+        },
+        {
+          "w": "light.",
+          "start": 14.6,
+          "end": 15.435,
+          "conf": 1.0
+        },
+        {
+          "w": "Before",
+          "start": 17.94,
+          "end": 18.204,
+          "conf": 0.92
+        },
+        {
+          "w": "the",
+          "start": 18.204,
+          "end": 18.46,
+          "conf": 1.0
+        },
+        {
+          "w": "land.",
+          "start": 18.46,
+          "end": 18.992,
+          "conf": 0.99
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "text": "There was only the deep.",
+      "start": 23.82,
+      "end": 27.428,
+      "words": [
+        {
+          "w": "There",
+          "start": 23.82,
+          "end": 23.921,
+          "conf": 0.92
+        },
+        {
+          "w": "was",
+          "start": 23.921,
+          "end": 24.215,
+          "conf": 1.0
+        },
+        {
+          "w": "only",
+          "start": 24.215,
+          "end": 25.048,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 26.48,
+          "end": 26.629,
+          "conf": 0.92
+        },
+        {
+          "w": "deep.",
+          "start": 26.72,
+          "end": 27.428,
+          "conf": 0.97
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "text": "No shape, no form, no sound",
+      "start": 48.999,
+      "end": 53.987,
+      "words": [
+        {
+          "w": "No",
+          "start": 48.999,
+          "end": 49.478,
+          "conf": 0.83
+        },
+        {
+          "w": "shape,",
+          "start": 49.478,
+          "end": 50.944,
+          "conf": 0.84
+        },
+        {
+          "w": "no",
+          "start": 50.944,
+          "end": 51.154,
+          "conf": 0.85
+        },
+        {
+          "w": "form,",
+          "start": 51.154,
+          "end": 52.78,
+          "conf": 0.91
+        },
+        {
+          "w": "no",
+          "start": 52.78,
+          "end": 53.029,
+          "conf": 0.76
+        },
+        {
+          "w": "sound",
+          "start": 53.029,
+          "end": 53.987,
+          "conf": 0.88
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "text": "Darkness on the deep",
+      "start": 57.32,
+      "end": 61.899,
+      "words": [
+        {
+          "w": "Darkness",
+          "start": 57.32,
+          "end": 58.971,
+          "conf": 0.81
+        },
+        {
+          "w": "on",
+          "start": 59.779,
+          "end": 60.4,
+          "conf": 0.74
+        },
+        {
+          "w": "the",
+          "start": 60.4,
+          "end": 60.492,
+          "conf": 0.99
+        },
+        {
+          "w": "deep",
+          "start": 60.492,
+          "end": 61.899,
+          "conf": 0.87
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "text": "Waters with no shore",
+      "start": 64.758,
+      "end": 69.527,
+      "words": [
+        {
+          "w": "Waters",
+          "start": 64.758,
+          "end": 67.54,
+          "conf": 0.78
+        },
+        {
+          "w": "with",
+          "start": 67.54,
+          "end": 67.896,
+          "conf": 0.73
+        },
+        {
+          "w": "no",
+          "start": 67.896,
+          "end": 68.28,
+          "conf": 0.71
+        },
+        {
+          "w": "shore",
+          "start": 68.28,
+          "end": 69.527,
+          "conf": 0.91
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "text": "The world was still asleep",
+      "start": 72.3,
+      "end": 77.683,
+      "words": [
+        {
+          "w": "The",
+          "start": 72.3,
+          "end": 72.52,
+          "conf": 0.85
+        },
+        {
+          "w": "world",
+          "start": 72.52,
+          "end": 73.428,
+          "conf": 0.93
+        },
+        {
+          "w": "was",
+          "start": 73.98,
+          "end": 74.196,
+          "conf": 0.82
+        },
+        {
+          "w": "still",
+          "start": 74.196,
+          "end": 75.379,
+          "conf": 0.98
+        },
+        {
+          "w": "asleep",
+          "start": 75.88,
+          "end": 77.683,
+          "conf": 0.76
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "text": "But something stirred above the sea",
+      "start": 79.68,
+      "end": 84.967,
+      "words": [
+        {
+          "w": "But",
+          "start": 79.68,
+          "end": 79.993,
+          "conf": 0.66
+        },
+        {
+          "w": "something",
+          "start": 79.993,
+          "end": 81.295,
+          "conf": 0.72
+        },
+        {
+          "w": "stirred",
+          "start": 81.295,
+          "end": 82.62,
+          "conf": 0.82
+        },
+        {
+          "w": "above",
+          "start": 82.62,
+          "end": 83.26,
+          "conf": 0.56
+        },
+        {
+          "w": "the",
+          "start": 83.26,
+          "end": 83.635,
+          "conf": 0.73
+        },
+        {
+          "w": "sea",
+          "start": 83.635,
+          "end": 84.967,
+          "conf": 0.84
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "text": "Something breathing, something free",
+      "start": 87.526,
+      "end": 92.809,
+      "words": [
+        {
+          "w": "Something",
+          "start": 87.526,
+          "end": 89.18,
+          "conf": 0.71
+        },
+        {
+          "w": "breathing,",
+          "start": 89.18,
+          "end": 90.484,
+          "conf": 0.69
+        },
+        {
+          "w": "something",
+          "start": 90.484,
+          "end": 91.552,
+          "conf": 0.73
+        },
+        {
+          "w": "free",
+          "start": 91.816,
+          "end": 92.809,
+          "conf": 0.67
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "text": "And the Spirit moved",
+      "start": 93.941,
+      "end": 100.911,
+      "words": [
+        {
+          "w": "And",
+          "start": 93.941,
+          "end": 94.14,
+          "conf": 0.74
+        },
+        {
+          "w": "the",
+          "start": 94.14,
+          "end": 94.236,
+          "conf": 0.79
+        },
+        {
+          "w": "Spirit",
+          "start": 94.236,
+          "end": 95.16,
+          "conf": 0.79
+        },
+        {
+          "w": "moved",
+          "start": 95.16,
+          "end": 100.911,
+          "conf": 0.51
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "text": "And the Spirit moved",
+      "start": 101.649,
+      "end": 109.072,
+      "words": [
+        {
+          "w": "And",
+          "start": 101.649,
+          "end": 101.8,
+          "conf": 0.72
+        },
+        {
+          "w": "the",
+          "start": 101.8,
+          "end": 101.898,
+          "conf": 0.82
+        },
+        {
+          "w": "Spirit",
+          "start": 101.898,
+          "end": 102.66,
+          "conf": 0.77
+        },
+        {
+          "w": "moved",
+          "start": 102.66,
+          "end": 109.072,
+          "conf": 0.51
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "text": "And the Spirit moved upon the waters",
+      "start": 109.212,
+      "end": 121.933,
+      "words": [
+        {
+          "w": "And",
+          "start": 109.212,
+          "end": 109.4,
+          "conf": 0.53
+        },
+        {
+          "w": "the",
+          "start": 109.4,
+          "end": 109.496,
+          "conf": 0.65
+        },
+        {
+          "w": "Spirit",
+          "start": 109.496,
+          "end": 110.44,
+          "conf": 0.68
+        },
+        {
+          "w": "moved",
+          "start": 110.44,
+          "end": 111.641,
+          "conf": 0.58
+        },
+        {
+          "w": "upon",
+          "start": 111.641,
+          "end": 115.463,
+          "conf": 0.6
+        },
+        {
+          "w": "the",
+          "start": 115.463,
+          "end": 115.9,
+          "conf": 0.59
+        },
+        {
+          "w": "waters",
+          "start": 115.9,
+          "end": 121.933,
+          "conf": 0.51
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "text": "God moved",
+      "start": 125.14,
+      "end": 125.959,
+      "words": [
+        {
+          "w": "God",
+          "start": 125.14,
+          "end": 125.565,
+          "conf": 0.83
+        },
+        {
+          "w": "moved",
+          "start": 125.565,
+          "end": 125.959,
+          "conf": 0.83
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "text": "(God moved)",
+      "start": 128.96,
+      "end": 130.493,
+      "words": [
+        {
+          "w": "(God",
+          "start": 128.96,
+          "end": 129.4,
+          "conf": 0.75
+        },
+        {
+          "w": "moved)",
+          "start": 129.4,
+          "end": 130.493,
+          "conf": 0.58
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "text": "God moved",
+      "start": 132.76,
+      "end": 133.985,
+      "words": [
+        {
+          "w": "God",
+          "start": 132.76,
+          "end": 133.187,
+          "conf": 0.91
+        },
+        {
+          "w": "moved",
+          "start": 133.187,
+          "end": 133.985,
+          "conf": 0.67
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "text": "(God moved)",
+      "start": 136.56,
+      "end": 138.236,
+      "words": [
+        {
+          "w": "(God",
+          "start": 136.56,
+          "end": 136.909,
+          "conf": 0.85
+        },
+        {
+          "w": "moved)",
+          "start": 136.909,
+          "end": 138.236,
+          "conf": 0.65
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "text": "The Greeks would call it Chaos",
+      "start": 156.1,
+      "end": 158.53,
+      "words": [
+        {
+          "w": "The",
+          "start": 156.1,
+          "end": 156.26,
+          "conf": 0.85
+        },
+        {
+          "w": "Greeks",
+          "start": 156.26,
+          "end": 156.948,
+          "conf": 1.0
+        },
+        {
+          "w": "would",
+          "start": 157.0,
+          "end": 157.24,
+          "conf": 0.85
+        },
+        {
+          "w": "call",
+          "start": 157.24,
+          "end": 157.437,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 157.437,
+          "end": 157.637,
+          "conf": 0.99
+        },
+        {
+          "w": "Chaos",
+          "start": 157.74,
+          "end": 158.53,
+          "conf": 0.99
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "text": "The Norse the yawning gap",
+      "start": 159.9,
+      "end": 161.832,
+      "words": [
+        {
+          "w": "The",
+          "start": 159.9,
+          "end": 160.12,
+          "conf": 0.85
+        },
+        {
+          "w": "Norse",
+          "start": 160.12,
+          "end": 160.889,
+          "conf": 0.99
+        },
+        {
+          "w": "the",
+          "start": 160.889,
+          "end": 160.944,
+          "conf": 1.0
+        },
+        {
+          "w": "yawning",
+          "start": 160.944,
+          "end": 161.488,
+          "conf": 1.0
+        },
+        {
+          "w": "gap",
+          "start": 161.488,
+          "end": 161.832,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "text": "But the void was not forgotten",
+      "start": 163.62,
+      "end": 165.683,
+      "words": [
+        {
+          "w": "But",
+          "start": 163.62,
+          "end": 163.7,
+          "conf": 0.73
+        },
+        {
+          "w": "the",
+          "start": 163.7,
+          "end": 163.86,
+          "conf": 0.85
+        },
+        {
+          "w": "void",
+          "start": 163.86,
+          "end": 164.471,
+          "conf": 0.96
+        },
+        {
+          "w": "was",
+          "start": 164.581,
+          "end": 164.925,
+          "conf": 0.85
+        },
+        {
+          "w": "not",
+          "start": 164.925,
+          "end": 165.055,
+          "conf": 1.0
+        },
+        {
+          "w": "forgotten",
+          "start": 165.055,
+          "end": 165.683,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "text": "It was waiting on His lap",
+      "start": 167.035,
+      "end": 169.37,
+      "words": [
+        {
+          "w": "It",
+          "start": 167.035,
+          "end": 167.24,
+          "conf": 0.85
+        },
+        {
+          "w": "was",
+          "start": 167.24,
+          "end": 167.48,
+          "conf": 1.0
+        },
+        {
+          "w": "waiting",
+          "start": 167.48,
+          "end": 168.003,
+          "conf": 1.0
+        },
+        {
+          "w": "on",
+          "start": 168.717,
+          "end": 168.9,
+          "conf": 0.85
+        },
+        {
+          "w": "His",
+          "start": 168.9,
+          "end": 169.08,
+          "conf": 1.0
+        },
+        {
+          "w": "lap",
+          "start": 169.08,
+          "end": 169.37,
+          "conf": 0.99
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "text": "Something stirred above the sea",
+      "start": 171.311,
+      "end": 175.91,
+      "words": [
+        {
+          "w": "Something",
+          "start": 171.311,
+          "end": 172.698,
+          "conf": 1.0
+        },
+        {
+          "w": "stirred",
+          "start": 172.698,
+          "end": 173.795,
+          "conf": 0.76
+        },
+        {
+          "w": "above",
+          "start": 173.795,
+          "end": 174.7,
+          "conf": 0.53
+        },
+        {
+          "w": "the",
+          "start": 174.7,
+          "end": 174.848,
+          "conf": 0.6
+        },
+        {
+          "w": "sea",
+          "start": 174.848,
+          "end": 175.91,
+          "conf": 0.91
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "text": "Something breathing over me",
+      "start": 178.948,
+      "end": 184.665,
+      "words": [
+        {
+          "w": "Something",
+          "start": 178.948,
+          "end": 180.6,
+          "conf": 0.98
+        },
+        {
+          "w": "breathing",
+          "start": 180.6,
+          "end": 182.141,
+          "conf": 0.77
+        },
+        {
+          "w": "over",
+          "start": 182.141,
+          "end": 183.44,
+          "conf": 0.44
+        },
+        {
+          "w": "me",
+          "start": 183.44,
+          "end": 184.665,
+          "conf": 0.82
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "text": "The same Spirit",
+      "start": 189.64,
+      "end": 190.677,
+      "words": [
+        {
+          "w": "The",
+          "start": 189.64,
+          "end": 189.749,
+          "conf": 0.85
+        },
+        {
+          "w": "same",
+          "start": 189.749,
+          "end": 190.148,
+          "conf": 1.0
+        },
+        {
+          "w": "Spirit",
+          "start": 190.148,
+          "end": 190.677,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "text": "Over the same deep",
+      "start": 193.43,
+      "end": 194.747,
+      "words": [
+        {
+          "w": "Over",
+          "start": 193.43,
+          "end": 193.72,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 193.72,
+          "end": 193.82,
+          "conf": 0.98
+        },
+        {
+          "w": "same",
+          "start": 193.82,
+          "end": 194.363,
+          "conf": 1.0
+        },
+        {
+          "w": "deep",
+          "start": 194.4,
+          "end": 194.747,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "text": "In the dark place in me",
+      "start": 197.92,
+      "end": 199.392,
+      "words": [
+        {
+          "w": "In",
+          "start": 197.92,
+          "end": 198.05,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 198.05,
+          "end": 198.229,
+          "conf": 1.0
+        },
+        {
+          "w": "dark",
+          "start": 198.229,
+          "end": 198.509,
+          "conf": 1.0
+        },
+        {
+          "w": "place",
+          "start": 198.6,
+          "end": 199.0,
+          "conf": 1.0
+        },
+        {
+          "w": "in",
+          "start": 199.0,
+          "end": 199.16,
+          "conf": 1.0
+        },
+        {
+          "w": "me",
+          "start": 199.16,
+          "end": 199.392,
+          "conf": 0.99
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "text": "That nobody sees",
+      "start": 200.84,
+      "end": 202.575,
+      "words": [
+        {
+          "w": "That",
+          "start": 200.84,
+          "end": 201.023,
+          "conf": 0.75
+        },
+        {
+          "w": "nobody",
+          "start": 201.023,
+          "end": 201.627,
+          "conf": 1.0
+        },
+        {
+          "w": "sees",
+          "start": 201.627,
+          "end": 202.575,
+          "conf": 0.95
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "text": "And the Spirit moves",
+      "start": 204.4,
+      "end": 210.995,
+      "words": [
+        {
+          "w": "And",
+          "start": 204.4,
+          "end": 204.48,
+          "conf": 0.51
+        },
+        {
+          "w": "the",
+          "start": 204.48,
+          "end": 204.69,
+          "conf": 0.76
+        },
+        {
+          "w": "Spirit",
+          "start": 204.69,
+          "end": 205.767,
+          "conf": 0.85
+        },
+        {
+          "w": "moves",
+          "start": 205.767,
+          "end": 210.995,
+          "conf": 0.51
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "text": "And the Spirit moves",
+      "start": 212.008,
+      "end": 219.54,
+      "words": [
+        {
+          "w": "And",
+          "start": 212.008,
+          "end": 212.22,
+          "conf": 0.68
+        },
+        {
+          "w": "the",
+          "start": 212.22,
+          "end": 212.34,
+          "conf": 0.58
+        },
+        {
+          "w": "Spirit",
+          "start": 212.34,
+          "end": 213.26,
+          "conf": 0.89
+        },
+        {
+          "w": "moves",
+          "start": 213.26,
+          "end": 219.54,
+          "conf": 0.74
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "text": "And the Spirit moves upon my waters",
+      "start": 219.54,
+      "end": 225.971,
+      "words": [
+        {
+          "w": "And",
+          "start": 219.54,
+          "end": 219.686,
+          "conf": 0.5
+        },
+        {
+          "w": "the",
+          "start": 219.686,
+          "end": 219.96,
+          "conf": 0.6
+        },
+        {
+          "w": "Spirit",
+          "start": 219.96,
+          "end": 220.82,
+          "conf": 0.87
+        },
+        {
+          "w": "moves",
+          "start": 220.82,
+          "end": 222.115,
+          "conf": 0.52
+        },
+        {
+          "w": "upon",
+          "start": 222.115,
+          "end": 223.94,
+          "conf": 0.79
+        },
+        {
+          "w": "my",
+          "start": 223.94,
+          "end": 224.42,
+          "conf": 0.62
+        },
+        {
+          "w": "waters",
+          "start": 224.42,
+          "end": 225.971,
+          "conf": 0.78
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "text": "God moves",
+      "start": 235.56,
+      "end": 236.438,
+      "words": [
+        {
+          "w": "God",
+          "start": 235.56,
+          "end": 236.06,
+          "conf": 0.81
+        },
+        {
+          "w": "moves",
+          "start": 236.06,
+          "end": 236.438,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "text": "(God moves)",
+      "start": 239.32,
+      "end": 240.608,
+      "words": [
+        {
+          "w": "(God",
+          "start": 239.32,
+          "end": 239.426,
+          "conf": 0.43
+        },
+        {
+          "w": "moves)",
+          "start": 239.426,
+          "end": 240.608,
+          "conf": 0.43
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "text": "God moves",
+      "start": 243.18,
+      "end": 244.295,
+      "words": [
+        {
+          "w": "God",
+          "start": 243.18,
+          "end": 243.666,
+          "conf": 0.77
+        },
+        {
+          "w": "moves",
+          "start": 243.666,
+          "end": 244.295,
+          "conf": 0.69
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "text": "(God moves)",
+      "start": 246.96,
+      "end": 247.478,
+      "words": [
+        {
+          "w": "(God",
+          "start": 246.96,
+          "end": 247.02,
+          "conf": 0.65
+        },
+        {
+          "w": "moves)",
+          "start": 247.02,
+          "end": 247.478,
+          "conf": 0.65
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "text": "God moved",
+      "start": 251.56,
+      "end": 256.692,
+      "words": [
+        {
+          "w": "God",
+          "start": 251.56,
+          "end": 252.06,
+          "conf": 0.73
+        },
+        {
+          "w": "moved",
+          "start": 252.06,
+          "end": 256.692,
+          "conf": 0.59
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "text": "God moves",
+      "start": 259.18,
+      "end": 264.399,
+      "words": [
+        {
+          "w": "God",
+          "start": 259.18,
+          "end": 261.58,
+          "conf": 0.51
+        },
+        {
+          "w": "moves",
+          "start": 261.58,
+          "end": 264.399,
+          "conf": 0.51
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "text": "God moves",
+      "start": 266.06,
+      "end": 267.307,
+      "words": [
+        {
+          "w": "God",
+          "start": 266.06,
+          "end": 266.529,
+          "conf": 0.74
+        },
+        {
+          "w": "moves",
+          "start": 266.529,
+          "end": 267.307,
+          "conf": 0.79
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "text": "God moves",
+      "start": 281.24,
+      "end": 282.882,
+      "words": [
+        {
+          "w": "God",
+          "start": 281.24,
+          "end": 281.76,
+          "conf": 0.78
+        },
+        {
+          "w": "moves",
+          "start": 281.76,
+          "end": 282.882,
+          "conf": 0.79
+        }
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "start": 25.15,
+      "end": 25.89,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 27.57,
+      "end": 28.24,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    }
+  ],
+  "notes": "Timeline = the take's master WAV. Method (pdoom-video's, MIT): CTC emissions of the Demucs (htdemucs_ft) vocal stem from torchaudio MMS_FA and wav2vec2-large-lv60k-960h, on the mono sum and the left and right channels, fused; one global constrained Viterbi alignment of every line with a garbage star token between lines (the singer's ad-lib repeats); signal refinement of starts and ends on the vocal stem; cross-check against mlx-whisper; QA plots per line."
+}
