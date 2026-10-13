@@ -4,7 +4,7 @@
 Moved*.
 
 Written by Claude for Gareth (artist and director) and Codex (storyboard, image generation, edit and production) ·
-13 October 2026 · first draft for Gareth's review.
+13 October 2026 · second draft, with Gareth's decisions on the first (section 7.1).
 
 This manuscript answers Codex's handover of 13 October 2026. It writes the whole film, from the first sound to the
 final silence, on the land-and-stars method Gareth approved in `aurelia-land-v2`, with the deer encounter as its
@@ -40,7 +40,8 @@ Appendix: how the timing was measured.
 - **Other edges are flexible** by about a bar either way, and they are where Codex and Gareth should conform the film
   by ear. Within a band, the order of events matters more than the exact beat.
 - **Lyric times** come from the vocal stem and are good to about a tenth of a second (section 2 and the appendix).
-  They are given as cues, not as frame-exact sync.
+  They are cues for the edit, not frame-exact sync. **No lyrics appear on screen**: the film carries its meaning in
+  picture and sound alone (Gareth, 13 October 2026).
 - **A state** is one held illustration of one or two beats. The two-beat ceiling applies everywhere, including the
   breakdown and the coda: spaciousness comes from restraint and small changes, never from a long hold.
 - *Lines in italics headed "Her thought" are direction for the face and body, never a voice in the soundtrack.*
@@ -67,7 +68,8 @@ pieces. That is the dark place in her that nobody sees.
 There the song turns "moved" into "moves". Her tear falls on the ice, and the light that answered her in the meadow
 rises from *underneath*: it runs into every crack until her broken reflection is outlined in gold. The cracks do not
 close. They are lit. She climbs out into the first dawn, torn, scraped and shining, and her people are coming across
-the meadow to meet her. The ring of figures in the sky is a ring of hands in the grass, and it has kept a place for her
+the meadow to meet her: everyone she loves, human still, made perfect as God's kingdom makes them, the same light that
+filled her cracks shining out of them. The ring of figures in the sky is a ring of hands in the grass, and it has kept a place for her
 exactly as she is. The film ends on the shore she rose out of, with Aurelia offering us the same open palm she
 offered the doe. On the song's last word, a whispered "God moves", the light in her hand comes to us.
 
@@ -737,16 +739,23 @@ hand: the doe pushes its forehead into her chest and she wraps her arms around i
 #### S35 · The circle
 `4:03.96–4:11.58 · bars 129–132 · 16 beats · ≈10 states` · *"God moves"* (4:03.20) · *"(God moves)"* (4:07.03)
 
-People are coming across the meadow. From every direction, out of the dawn light and the grass, figures walking
-toward her: an old woman with a stick, laughing; a man with a small child on his shoulders; two friends arm in arm; a
-woman who breaks into a run. Original, unnamed, many ages, each with the cyan-gold lights moving around them. They are
-her people. She does not have to be told.
+People are coming across the meadow. From every direction, out of the dawn light and the grass, figures walk
+toward her, and they are the perfected people of God's kingdom: human, every one of them, and whole. No age on them is
+frailty and no mark on them is pain. An elder, silver-haired and upright, laughing; a man with a small child on his
+shoulders; two friends arm in arm; a woman who breaks into a run. Their skin is warm and real, and light lives in it
+and in their simple pale clothes: the same cyan and gold that answered Aurelia's touch all night, now shining out of
+them from within. They are angelic in their light, not in wings. They are everyone she loves, as the kingdom makes
+them. She does not have to be told.
+
+The film's quiet paradox must be seen here: they are perfect, and she is not. Her hem is torn, her palm is scraped and
+her face is wet, and nothing in their faces asks her to be otherwise. The light that shines from them is the light that
+filled her cracks in the dark. What makes them radiant is already in her seams.
 
 The first to arrive takes her face in both hands. Then everyone. Embraces, foreheads pressed together, laughter
 through tears.
 
 They draw her toward the forked stone, where the others have already joined hands around it in a ring. There is
-one place in the ring with no one in it, between the old woman and the child, and both of them are holding out a
+one place in the ring with no one in it, between the elder and the child, and both of them are holding out a
 hand toward her. She steps into it. Their hands close on hers.
 
 Above them, in the ring of figures in the sky, the missing star ignites, and the circle is whole. The eagle comes down
@@ -767,12 +776,12 @@ held notes and the last chord. The final pictures fade with the sound.
 `4:11.58–4:19.19 · bars 133–136 · 16 beats · ≈10 states` · *"God moved"* (4:11.48, a long held note) · *the bass gone, the kick walking*
 
 The kick walks, and so do they. All of them go together down the cliff path she climbed alone at the start, the same
-rocks, the same turns: the old woman on someone's arm; the child running ahead with the fox kit; the doe at Aurelia's
+rocks, the same turns: the elder arm in arm with Aurelia; the child running ahead with the fox kit; the doe at her other
 shoulder; the wolf loping along the edge of the group; the eagle above. "God moved": we look back at the beginning
 with her, down the path she came up.
 
 **Coverage:** the descent of the group in three bearings (from above, from the path's turn, from the shore looking
-up); details of company (the old woman's hand on an arm, the child and the kit, the wolf's flank, the doe's head);
+up); details of company (the elder's arm through Aurelia's, the child and the kit, the wolf's flank, the doe's head);
 Aurelia's bare feet on the last rocks before the stones of the shore.
 
 #### S37 · The waterline
@@ -793,7 +802,8 @@ dawn; the turn begun in profile (Key sequence F picks up from bar 140).
 #### S38 · The invitation
 `4:26.81–4:40.14 · bars 141–147 · 28 beats · ≈18 states` · ◆ *the last chord at 4:26.81, "God moves" sung onto it*
 
-She turns from the sea to us. The doe is at her side, her people behind her on the shore, the dawn behind them all.
+She turns from the sea to us. The doe is at her side, her people behind her on the shore, radiant, the dawn behind them
+all.
 She looks into the lens the way she looked at the doe across the grass: openly, unhurried, wanting nothing from us
 except that we come.
 
@@ -801,7 +811,7 @@ On the chord she lifts her hand and opens it, palm up, toward us. It is the same
 not an unmarked hand: the scrape from the climb is there across the palm. One small cyan-gold light rests in it.
 
 She does not reach all the way. She waits, as she waited for the doe, and the world waits with her: the doe's ear turns
-toward us, the child leans out from behind the old woman, the light in her palm brightens a little, her smile grows.
+toward us, the child leans out from behind the elder, the light in her palm brightens a little, her smile grows.
 The choice is ours.
 
 **Coverage:** see Key sequence F (section 5.6).
@@ -909,10 +919,10 @@ same bands are in `films/god-moved/scene-bands.json` for Codex's conform tools.
 | **S32** | Lays the scraped palm flat on the ice; weeps, and her tears shine. | Light rises to meet her palm; gold veins climb the walls; her tears fill with light; the wolf's eyes on the ledge; the eagle above. | Palm close; her tears close; walls wide from the floor; the ledge; the slit with the eagle. | Out: she lifts her palm, light clinging to it. | Scraped palm on the ice (rhymes S16, pays off S38). |
 | **S33** | Rises; looks straight up; breathes in. | Lights rise from the pool and her face; the ring's gap hangs directly overhead. | Lights rising; her rising; the slit and the ring; single-beat alternations; the held top shot. | Out: held two-beat top shot on the riser's peak. | The ring overhead. |
 | **S34** | Climbs out torn, scraped and shining; holds the doe. | The rift blazes; dawn on the horizon; the wolf rises with her; the doe runs to her. | Ridge wide; climbing side-on; over the rim against the sky; the doe's run; the embrace. | Out: people on the meadow. | Torn hem, scrape and tear tracks kept; dawn begins. |
-| **S35** | Is held; steps into the ring between the old woman and the child. | Her people arrive; the ring closes on her hands; the missing star ignites; the eagle lands on the tree. | Wide arrivals; three faces; embraces; ring from behind; hands; the sky and the tree. | Out: toward the cliff path. | The completed ring; the eagle on the tree. |
+| **S35** | Is held, torn and scraped as she is; steps into the ring between the elder and the child. | Her people arrive, perfected and radiant, human still; the ring closes on her hands; the missing star ignites; the eagle lands on the tree. | Wide arrivals; three faces; embraces; ring from behind; hands; the sky and the tree. | Out: toward the cliff path. | The completed ring; the eagle on the tree. |
 | **S36** | Walks down with everyone. | Everyone's footsteps on the kick. | The group from above, from the path's turn, from the shore looking up; details of company. | Out: onto the shore. | Footsteps on the kick (rhymes S05). |
 | **S37** | Walks into the foam and looks out at the deep she came from; turns on "God moves". | Waves break on the shore; the kit chases foam; the wolf lies down by the doe; the eagle on its crag. | Her feet in foam; her back to us facing the sea; the company on the shore; the turn in profile. | Out: her face coming round to the lens. | The shore of S05, now with company. |
-| **S38** | Faces the lens; offers the scraped palm with one light in it; waits. | The doe at her side; her people looking at us. | Medium, then palm close, face close; a wide of the company; small changes, never a frozen tableau. | Out: the light lifts. | The open palm (from S16), the scrape (from S25), the light (from S01). |
+| **S38** | Faces the lens; offers the scraped palm with one light in it; waits. | The doe at her side; her people, radiant, looking at us. | Medium, then palm close, face close; a wide of the company; small changes, never a frozen tableau. | Out: the light lifts. | The open palm (from S16), the scrape (from S25), the light (from S01). |
 | **S39** | Her eyes follow the light to us. | On the whisper the light comes to the lens; then the morning star over a gold horizon. | The light lifting from her palm; its approach and bloom at the lens; the first frame's composition, fading. | Out: to black with the sound. | The first frame's composition, matched; the opening whisper's voice. |
 
 ## 5. Key sequences in picture states
@@ -1103,16 +1113,16 @@ The rules these follow:
 | 47 | S34 | 127.3 | 4:01.10 | 2 | Side, low: the doe running to her, grass flying. |
 | 48 | S34 | 128.1 | 4:02.06 | 2 | Two-shot: the doe pushes its forehead into her chest. No hand was offered. |
 | 49 | S34 | 128.3 | 4:03.01 | 2 | Close: her arms round its neck, her face in its fur. |
-| 50 | S35 | 129.1 | 4:03.96 | 2 | Wide: figures coming across the meadow from every direction, lights moving around them, the dawn behind. |
-| 51 | S35 | 129.3 | 4:04.91 | 1 | An old woman with a stick, laughing. |
+| 50 | S35 | 129.1 | 4:03.96 | 2 | Wide: the perfected people of the kingdom coming across the meadow from every direction, light shining from within them, the dawn behind. |
+| 51 | S35 | 129.3 | 4:04.91 | 1 | The elder, silver-haired and upright, laughing; light lives in her skin. |
 | 52 | S35 | 129.4 | 4:05.39 | 1 | A woman breaking into a run. |
 | 53 | S35 | 130.1 | 4:05.86 | 2 | Close two-shot: the first to arrive takes Aurelia's face in both hands (the friend's face half turned from camera). |
 | 54 | S35 | 130.3 | 4:06.82 | 2 | Medium: a knot of people round her; her face visible through them, tears and laughter. |
 | 55 | S35 | 131.1 | 4:07.77 | 2 | Rear wide: the ring of joined hands around the forked stone, with one open place. |
-| 56 | S35 | 131.3 | 4:08.72 | 1 | The old woman's hand, held out to her. |
+| 56 | S35 | 131.3 | 4:08.72 | 1 | The elder's hand, held out to her. |
 | 57 | S35 | 131.4 | 4:09.20 | 1 | The child's hand, held out to her. |
 | 58 | S35 | 132.1 | 4:09.67 | 1 | Low: her bare feet stepping into the ring. |
-| 59 | S35 | 132.2 | 4:10.15 | 1 | Close: their hands close on hers; the scraped palm in the old woman's hand. |
+| 59 | S35 | 132.2 | 4:10.15 | 1 | Close: their hands close on hers; her scraped palm held in the elder's unmarked hand. |
 | 60 | S35 | 132.3 | 4:10.62 | 2 | Up past the circle: the missing star ignites and the ring in the sky is whole; on the rise, the eagle lands on the windswept tree, wings open over them all. |
 
 *60 states; ends at 4:11.58.*
@@ -1134,7 +1144,7 @@ The rules these follow:
 | 9 | S38 | 143.2 | 4:31.10 | 1 | Her eyes. |
 | 10 | S38 | 143.3 | 4:31.57 | 2 | Wide: the whole company on the shore looking toward us: the doe, the wolf lying down beside it, the child and the kit; the eagle on its crag. |
 | 11 | S38 | 144.1 | 4:32.52 | 2 | The palm, closer; the light brightens a little. |
-| 12 | S38 | 144.3 | 4:33.48 | 2 | Medium: the child leaning out from behind the old woman to see us. |
+| 12 | S38 | 144.3 | 4:33.48 | 2 | Medium: the child leaning out from behind the elder to see us. |
 | 13 | S38 | 145.1 | 4:34.43 | 2 | Her face: the smile grows. |
 | 14 | S38 | 145.3 | 4:35.38 | 2 | Profile two-shot: Aurelia and the doe, both looking toward us (the S16 profile, turned to the audience). |
 | 15 | S38 | 146.1 | 4:36.33 | 2 | Low, from the foam: her offered hand above us, the dawn sky beyond it. |
@@ -1215,6 +1225,22 @@ Each animal has one dramatic purpose. None is a God figure; each is a creature w
 | **The wolf** | large, grey with a dark saddle, pale eyes | **Courage and tenderness at the edge**: the feared thing that wants comfort, then a guide who waits | on the rim of the gap (S19) · approaches (S20) · **head in her lap (S21)** · leads her down the path (S24) · waits on the ledge and does not follow her to the bottom (S26) · its eyes on the ledge, lit: it never left (S32) · comes up out of the gap with her (S34) · walks the edge of the group to the shore (S36); lies down beside the doe (S37) | The wolf lying down with the doe on the shore is the film's quiet harmony, never pointed at. |
 | **The eagle** (and its eaglet) | a great sea eagle, dark with a pale head and tail; one downy eaglet | **The hovering** (the Hebrew of "moved"): first watched, then felt | asleep on the crag (S09) · **hovers over its eaglet (S10)** · launches and climbs (S14) · across the stars (S15) · flies inland (S22) · **hovers over Aurelia (S23)** · drops into the gap (S24) · hangs over the gap's slit of sky (S32) · rises with the light (S34) · perches on the windswept tree, wings open over the gathering (S35) · above the path (S36) · settles over its eaglet on the crag (S37) | Pre-chorus 1 shows it over its young ("something free"); pre-chorus 2 puts it over her ("over me"); the end spreads it over everyone. |
 
+### The perfected people (Gareth: "angelic forms of the personified perfect of God's kingdom. Still human, just perfect.")
+
+- **Who:** everyone Aurelia loves, as the kingdom makes them. Original and unnamed (no real people, none of Gareth's
+  relatives). About a dozen. Three have readable faces and recur: **the elder** (silver-haired, upright, laughing; she
+  stands to Aurelia's right in the ring), **the child** (to her left in the ring; the fox kit's playmate) and **the
+  friend** (the first to arrive, who takes Aurelia's face in her hands). The rest are seen at a distance and in groups.
+- **How perfection looks:** wholeness and light, not smoothness. Real skin, real age on the elder, real laughter; no
+  frailty, no wounds, no wings. Light lives in their skin and in their plain, pale, flowing clothes (ivory, warm
+  white, soft gold, each person's distinct), and the cyan-gold lights move around them. Angelic in their light, human
+  in their bodies.
+- **Against Aurelia:** she keeps her charcoal-blue dress, torn hem, scraped palm and wet face. She does not change
+  clothes and does not become radiant like them. The only rhyme between her and them is the gold in her tear tracks:
+  the same light. That contrast is the film's statement of belonging, so it must never be resolved by "fixing" her.
+- **Appearances:** they arrive and form the ring (S35); walk down to the sea (S36); stand on the shore (S37); stand
+  behind her, looking at us, as she offers her palm (S38).
+
 ### Gestures: the hand's journey
 
 | Scene | Gesture | Meaning |
@@ -1228,7 +1254,7 @@ Each animal has one dramatic purpose. None is a God figure; each is a creature w
 | S20–S21 | a hand closing in fear, then opening on the wolf's head | becoming the comfort she needs |
 | S28–S29 | fingers on her own cheek in the broken reflection; face in her hands | the dark place |
 | S32 | **the scraped palm laid flat on the ice; the light rises to meet it** | the answer from within |
-| S35 | her hands taken by the old woman and the child | belonging |
+| S35 | her scraped hands taken by the elder and the child, whose hands are unmarked | belonging |
 | S38 | **the scraped palm offered to the lens, one light resting in it** | the invitation |
 | S39 | the light leaves her hand and comes to us on the whispered "God moves" | the gift |
 
@@ -1247,7 +1273,7 @@ below are suggested values for Codex to tune against the approved frames; the me
 | answering light | cyan `#5fe8ff` with gold `#ffd27a` | the cyan-gold lights: the world's answer to touch; later, the answer from within |
 | ice-blue | `#9fc8e8` | the gap's ice wall, the cold acts |
 | ember | `#b8432a` | the gap's far rim, very sparing |
-| seam-gold | `#ffcf5a` | the lit cracks (S31 onward): gold that keeps the break visible |
+| seam-gold | `#ffcf5a` | the lit cracks (S31 onward): gold that keeps the break visible; and the light the perfected people shine with (S35 onward), the same gold |
 | dawn | rose `#e89aa8` to gold `#ffc46b` | the horizon in drop 2 and the epilogue only |
 
 **The evolution, by act.**
@@ -1321,6 +1347,14 @@ below are suggested values for Codex to tune against the approved frames; the me
 - The moved→moves revelation is protected: the breakdown deepens and transforms the story.
 - A 4K60 delivery with the original song.
 
+**Gareth's decisions on the first draft (13 October 2026):**
+
+- **No lyrics on screen.** "This one carries its meaning in the visual/audio only."
+- **Keep the dawn** in drop 2 and the epilogue, with the stars still out.
+- **The loved ones are "angelic forms of the personified perfect of God's kingdom. Still human, just perfect."**
+  Written into S35–S38 and the ledger (section 6) as perfected, radiant people without wings.
+- **Keep the wolf.** ("Wolves are cool.")
+
 ### 7.2 What this manuscript proposes (Claude's, for Gareth to accept or refuse)
 
 Each proposal has a fallback that keeps the scene's feeling if it is refused.
@@ -1334,22 +1368,17 @@ Each proposal has a fallback that keeps the scene's feeling if it is refused.
    and the seams fill with light rather than closing. *Fallback:* a dry, crazed mud-flat or a cracked slab of slate
    at the bottom of the gap, the light rising through its cracks; the reflection is then lost, so keep the matched
    S02/S27 close with her face lit from below instead.
-4. **The wolf** (S19–S37): fear turned to tenderness, then a guide who waits. *Fallback:* a fox in place of the wolf
-   (smaller, gentler, easier to generate in a lap), the kit's parent, which ties the families together.
-5. **The eagle and the Hebrew hovering** (S10, S23, S35). *Fallback:* drop the eagle and carry the hovering in wind and
+4. **The eagle and the Hebrew hovering** (S10, S23, S35). *Fallback:* drop the eagle and carry the hovering in wind and
    light alone (grass swells, the hair lift, the light hovering under the ice).
-6. **The dawn in drop 2 and the epilogue**, with the stars still out. It answers "before the light" without spending a
-   sunrise. *Fallback:* stay in full night; the aurora's greatest crest and the gold light from the gap do the work of
-   the major-key lift, and the morning star becomes a bright star near the horizon.
-7. **The epilogue on the shore**, everyone walking down to the sea on the outro's kick, the invitation with the sea
+5. **The epilogue on the shore**, everyone walking down to the sea on the outro's kick, the invitation with the sea
    behind her. *Fallback:* the invitation in the meadow at the forked stone, the circle behind her.
-8. **The final invitation to the lens**, with the scraped palm and one light resting in it (S38), and the light
+6. **The final invitation to the lens**, with the scraped palm and one light resting in it (S38), and the light
    coming to us on the whispered "God moves" (S39). This is the recommendation most worth keeping: it makes the last
    "God moves" happen to the person watching, and it is the deer encounter turned toward the audience.
-9. **A matched first and last picture**: one point of light above water, first in nothing, last over a gold horizon.
-10. **Bare feet, a torn hem and a scraped palm** as the visible, unmended marks of her journey.
-11. **Footsteps on the kick** (S05 and S36), and the drop's one-bar dip (S16) and the build's bass-out bar (S33) as the
-    held breaths before contact and before "God moves".
+7. **A matched first and last picture**: one point of light above water, first in nothing, last over a gold horizon.
+8. **Bare feet, a torn hem and a scraped palm** as the visible, unmended marks of her journey.
+9. **Footsteps on the kick** (S05 and S36), and the drop's one-bar dip (S16) and the build's bass-out bar (S33) as the
+   held breaths before contact and before "God moves".
 
 ### 7.3 Difficult shots and alternates
 
@@ -1362,25 +1391,21 @@ Each proposal has a fallback that keeps the scene's feeling if it is refused.
 | The eagle hovering low over her (S23) | Wings over a person can look like an attack. | Keep the bird higher, its spread wings filling the sky above her face, and sell the closeness with the downdraught in her hair and dress. |
 | Light filling cracks in ice (S30–S31) | The crack pattern must stay the same across states. | Generate the cracked-ice plate once and grade the light into it per state, so only the light changes; this is also the most economical coverage in the film. |
 | Climbing down and out of the gap (S25, S34) | Dark, busy rock can be illegible. | Use hands and feet in close-up for the effort, and wide silhouettes against the slit of stars or the lit seams for the geography. |
-| The loved ones (S35) | Many faces to keep consistent, and Aurelia must remain the face that acts. | Backlight them against the dawn; give only two or three of them readable faces (the old woman, the child, the friend who takes her face in her hands) and keep each one's costume plain and distinct. |
+| The perfected people (S35–S38) | "Perfect" people can come out airbrushed, plastic or like a stock crowd; many faces must stay consistent; Aurelia must remain the face that acts. | Show perfection as wholeness and light, not smoothness: real skin, real age on the elder, light from within. Backlight them against the dawn; give only three readable faces (the elder, the child, the friend) and keep each one's pale clothes plain and distinct. |
 | The scraped palm offered to the lens (S38) | Hands have been the hardest part of every method so far. | Use the approved open-palm pose from the deer touch, turned toward camera; if the frontal palm fails, show the palm in profile with the light on it, then her eyes in the lens. |
 | Dawn and full stars together (S34–S39) | Can wash out the star field. | Keep the glow below the lowest tenth of the sky; the stars stay dense above. |
 
 ### 7.4 Questions for Gareth
 
-1. **Lyrics on screen.** The song carries the words. The ai-storyboard method usually puts every sung word on
-   screen; this film may be better with none, or with only the turn ("moved" → "moves") set quietly once. Which?
-2. **The dawn.** Keep it (my recommendation), or stay in full night to the end?
-3. **The loved ones.** Real, unnamed people of many ages, warmly lit and partly in silhouette (my recommendation), or
-   luminous figures?
-4. **The wolf.** Keep it, or use the fox fallback?
-5. **Dissolves in the coda.** The last 22 seconds (S38–S39) are one sustained chord with waves and a whisper. The
+1. **No wings?** I have read "angelic forms… still human" as radiant people without wings: angelic in their light,
+   human in their bodies. Say if you want wings, or a suggestion of them in the light behind them.
+2. **Dissolves in the coda.** The last 22 seconds (S38–S39) are one sustained chord with waves and a whisper. The
    manuscript keeps the two-beat ceiling there and advances small changes. Would you like to test slow cross-dissolves
    between those states instead? That is untested, so it is a question rather than a direction.
-6. **Faster holds in the builds.** Bars 65–66 and 121–124 could use half-beat holds if a test shows they read. Test
+3. **Faster holds in the builds.** Bars 65–66 and 121–124 could use half-beat holds if a test shows they read. Test
    them?
-7. **The title card.** None is written. If you want one, its natural place is the bass entry at 0:34.48, over the
-   first footstep, or after the morning star.
+4. **The title card.** None is written. With no lyrics on screen, a title may be the only text in the film; if you
+   want one, its natural place is the bass entry at 0:34.48, over the first footstep, or after the morning star.
 
 ### 7.5 Picture count and economy
 
