@@ -42,13 +42,16 @@ Appendix: how the timing was measured.
 - **Lyric times** come from the vocal stem and are good to about a tenth of a second (section 2 and the appendix).
   They are cues for the edit, not frame-exact sync. **No lyrics appear on screen**: the film carries its meaning in
   picture and sound alone (Gareth, 13 October 2026).
-- **A state** is one held illustration of one or two beats. The two-beat ceiling applies everywhere, including the
-  breakdown and the coda: spaciousness comes from restraint and small changes, never from a long hold.
+- **A state** is one held illustration of one or two beats, or of half a beat on the two risers that Gareth asked to
+  test (bars 65–66 and 123–124). The two-beat ceiling applies everywhere, including the breakdown and the coda:
+  spaciousness comes from restraint and small changes, never from a long hold. There are no dissolves: every change is
+  a cut between held pictures, and the film's end steps down to black in held states with the sound.
 - *Lines in italics headed "Her thought" are direction for the face and body, never a voice in the soundtrack.*
 
 ## 1. Title and premise
 
-**God Moved: *The Same Deep*.** The subtitle is the breakdown's line, "over the same deep", because the film's
+**God Moved: *The Same Deep*.** The title is metadata, useful but invisible: it names the film for the edit, the
+upload and the album, and never appears on screen (Gareth, 13 October 2026). The subtitle is the breakdown's line, "over the same deep", because the film's
 revelation is in it: the deep that the Spirit hovered over at the beginning of the world is the same deep that is
 in her.
 
@@ -346,7 +349,8 @@ opening on a downbeat); the eagle asleep on the crag (far, small, a silhouette a
 
 **Cadence.** The pre-chorus climbs with the arpeggio: two-one-one patterns. Its two bass-out bars (49–50) are a held
 breath, near-still states with one small change each. The build starts at two-beat holds and compresses as the low end
-thins and the riser climbs, to single beats by bars 63–66, then one two-beat picture on the riser's peak.
+thins and the riser climbs: single beats in bars 63–64, then half-beat states through bar 65 and the first half of bar
+66 (Gareth's test), then one two-beat picture on the riser's peak.
 
 #### S10 · Above the sea
 `1:20.19–1:27.80 · bars 43–46 · 16 beats · ≈10 states` · *"But something stirred above the sea"* (1:19.67)
@@ -419,9 +423,10 @@ music drops away to the riser's peak, and so does the picture: Aurelia, arms sti
 at each other across ten paces of grass. She breathes in.
 
 **Coverage:** the ring of bowed grass from above; arms spreading (profile, front, rear); the eagle launching and
-climbing (two states); lights rising in a wide; the doe's three steps. For bars 65–66 the holds may drop to single
-beats or (if tested) half-beats: alternate Aurelia's face, the doe's face, her hand, its ear. The last picture before
-the drop is the two of them facing each other, wide, and it is held for two beats exactly.
+climbing (two states); lights rising in a wide; the doe's three steps. From bar 65 the pictures change every half-beat
+(Gareth's test), alternating Aurelia and the doe: her face, its ear, her hand, its eye. The last picture before the drop
+is the two of them facing each other, wide, held for two beats exactly. Key sequence G (section 5.7) gives bars 63–66
+state by state.
 
 ---
 
@@ -650,7 +655,8 @@ in two states (leaving her jaw; in the air above the ice). The tear does not lan
 in the last four bars. The present tense arrives. Bars 108–124.*
 
 **Cadence.** The voice sings one long phrase every four bars (108, 112, 116); let each phrase reveal one stage of the
-light. Two-beat holds while she discovers it; then, over the riser (121–124), compress to single beats and end on one
+light. Two-beat holds while she discovers it; then, over the riser (121–124), compress to half-beat states in bar 123
+and the first half of bar 124 (Gareth's test) and end on one
 two-beat picture at the peak.
 
 #### S30 · Moves (i): the tear lands
@@ -898,7 +904,7 @@ same bands are in `films/god-moved/scene-bands.json` for Codex's conform tools.
 | **S11** | Hair lifts; eyes close; breathes in; opens her eyes on the stillness. | Grass swells toward her; lights lift; the doe raises its head; then stillness. | Grass toward camera; doe; her profile; then near-still states with one change each. | Out: she opens her eyes; the wind comes. | The doe awake. |
 | **S12** | Feels it, then turns to face the sea. | A front of wind-light runs across the sea; the aurora's first green breath. | Sea wides on three bearings (never the same wave twice); her turn. | Out: the wind reaches the land. | The aurora begins. |
 | **S13** | Stands with palms forward, letting it pass through her fingers. | Bands of wind roll through the grass; the aurora unfurls; the kit bats at a light; the doe stands. | High wide across the meadow; aurora; kit; doe; her palms (front, then rear). | Out: the wind arrives at her. | Kit and doe awake. |
-| **S14** | Spreads her arms into the wind, laughing; sees the doe; breathes in. | Grass bows in a ring; the eagle launches; the doe takes three steps and stops. | From above (the ring); profile, front, rear; eagle; doe. Bars 65–66: single-beat holds alternating her and the doe. | Out: held two-beat wide of the two facing each other. | Eagle aloft. |
+| **S14** | Spreads her arms into the wind, laughing; sees the doe; breathes in. | Grass bows in a ring; the eagle launches; the doe takes three steps and stops. | From above (the ring); profile, front, rear; eagle; doe. From bar 65: half-beat states alternating her and the doe (Gareth's test; section 5.7). | Out: held two-beat wide of the two facing each other. | Eagle aloft. |
 | **S15** | Spins with arms out, hair flying; stops, laughing, facing the doe. | Stars blaze; aurora crests; lights spin with her; the eagle crosses the stars. | The big wide; eagle; the spin from three bearings; a two-shot across the grass. | Out: the doe comes nearer. | Full palette established. |
 | **S16** | Kneels; offers an open palm, not reaching all the way; laughs and cries; strokes its face; stands with it. | The doe hesitates, chooses, touches; lights rise from the contact and the grass. | Approved: rear clearing, deer side, approach two-shot, touch. Plus her face, the doe's eye, from behind the doe. | Out: side by side facing the meadow. | The open-palm gesture (pays off S34, S38); grass on her knees. |
 | **S17** | Runs with the doe; trips on the kit; falls back in the grass; touches a star; laughs. | The kit tangles in her hem; the doe lies beside her; a doe draws itself in the stars. | Low running views; from above as she falls; the fingertip and star; two does in one frame. | Out: she touches another star. | The star touch (rhymes S18). |
@@ -917,7 +923,7 @@ same bands are in `films/god-moved/scene-bands.json` for Codex's conform tools.
 | **S30** | Lowers her hands; finds the light. | A point of cyan-gold light wakes under the ice and hovers beneath her. | Macro of the tear; under the ice; her lit hands; her eyes. | Out: the light moves into the cracks. | The answering light, now from beneath. |
 | **S31** | Stares; touches her wet cheek; laughs and sobs. | Light fills every crack; her broken reflection is outlined in gold. | From above in three states (one plate, graded); her face; her hand. | Out: her palm goes to the ice. | Seam-gold (pays off in her tear tracks, S34–S39). |
 | **S32** | Lays the scraped palm flat on the ice; weeps, and her tears shine. | Light rises to meet her palm; gold veins climb the walls; her tears fill with light; the wolf's eyes on the ledge; the eagle above. | Palm close; her tears close; walls wide from the floor; the ledge; the slit with the eagle. | Out: she lifts her palm, light clinging to it. | Scraped palm on the ice (rhymes S16, pays off S38). |
-| **S33** | Rises; looks straight up; breathes in. | Lights rise from the pool and her face; the ring's gap hangs directly overhead. | Lights rising; her rising; the slit and the ring; single-beat alternations; the held top shot. | Out: held two-beat top shot on the riser's peak. | The ring overhead. |
+| **S33** | Rises; looks straight up; breathes in. | Lights rise from the pool and her face; the ring's gap hangs directly overhead. | Lights rising; her rising; the slit and the ring; half-beat alternations in bars 123–124 (Gareth's test); the held top shot. | Out: held two-beat top shot on the riser's peak. | The ring overhead. |
 | **S34** | Climbs out torn, scraped and shining; holds the doe. | The rift blazes; dawn on the horizon; the wolf rises with her; the doe runs to her. | Ridge wide; climbing side-on; over the rim against the sky; the doe's run; the embrace. | Out: people on the meadow. | Torn hem, scrape and tear tracks kept; dawn begins. |
 | **S35** | Is held, torn and scraped as she is; steps into the ring between the elder and the child. | Her people arrive, perfected and radiant, human still; the ring closes on her hands; the missing star ignites; the eagle lands on the tree. | Wide arrivals; three faces; embraces; ring from behind; hands; the sky and the tree. | Out: toward the cliff path. | The completed ring; the eagle on the tree. |
 | **S36** | Walks down with everyone. | Everyone's footsteps on the kick. | The group from above, from the path's turn, from the shore looking up; details of company. | Out: onto the shore. | Footsteps on the kick (rhymes S05). |
@@ -927,7 +933,7 @@ same bands are in `films/god-moved/scene-bands.json` for Codex's conform tools.
 
 ## 5. Key sequences in picture states
 
-Six sequences, written state by state so Codex can see how an action develops in one- and two-beat pictures without
+Seven sequences, written state by state so Codex can see how an action develops in one- and two-beat pictures without
 becoming a string of unrelated illustrations. The start times come from the beat grid. Each sequence's states fill its
 scenes' beats exactly (the script that renders these tables checks it). Everywhere else, the manuscript's coverage
 notes give the progression for Codex to expand at the same density.
@@ -937,6 +943,9 @@ The rules these follow:
   in a row from the same bearing must differ in action.
 - **Contacts, reveals and releases land on the ◆ anchors**, or on the downbeat of a bar when there is none.
 - **Two-beat states for faces and for anything we must read; one-beat states for detail and momentum.**
+- **Half-beat states only on the two risers** (sequences E and G), as Gareth's test of a faster cadence. Each has a
+  single-beat fallback if half a beat (0.238 s) proves too short to read. Half-beats work best as alternations between
+  two subjects (her face, the doe's eye), so the eye reads the rhythm rather than new content each time.
 - **The approved land frames are the seed of the doe sequence**, not its whole: the encounter grows new beats
   (the hesitation, the kneel, the dip-bar offer, the push for more, the stroke, the standing together).
 
@@ -1096,36 +1105,42 @@ The rules these follow:
 | 30 | S33 | 121.3 | 3:49.68 | 2 | Low, rear three-quarter: she rises to her feet. |
 | 31 | S33 | 122.1 | 3:50.63 | 2 | Close: her chin lifts; she looks straight up. |
 | 32 | S33 | 122.3 | 3:51.58 | 2 | Her eyeline: through the slit, framed by the two walls, the ring of figures, its gap directly overhead. |
-| 33 | S33 | 123.1 | 3:52.53 | 1 | Her face. |
-| 34 | S33 | 123.2 | 3:53.01 | 1 | The gap in the ring. |
-| 35 | S33 | 123.3 | 3:53.49 | 1 | Her hand lifting a little, open. |
-| 36 | S33 | 123.4 | 3:53.96 | 1 | The gold walls. |
-| 37 | S33 | 124.1 | 3:54.44 | 1 | Her face, closer. |
-| 38 | S33 | 124.2 | 3:54.91 | 1 | The eagle, wings wide. |
-| 39 | S33 | 124.3 | 3:55.39 | 2 | Held on the riser's peak: from directly above, Aurelia at the bottom of the lit gap, face upturned, every seam converging on her. |
-| 40 | S34 | 125.1 | 3:56.34 | 2 | ◆ *Drop 2.* Wide from the ridge: the rift blazes end to end; light pours up out of it into the sky. |
-| 41 | S34 | 125.3 | 3:57.29 | 1 | Side: Aurelia climbing the path, lit from below. |
-| 42 | S34 | 125.4 | 3:57.77 | 1 | The wolf rising from its ledge to go with her. |
-| 43 | S34 | 126.1 | 3:58.25 | 2 | Low, against the sky: she comes over the rim into the open, the wolf behind her. |
-| 44 | S34 | 126.3 | 3:59.20 | 2 | Wide: the meadow lit again, and along the horizon, under the stars, the first rose and gold of dawn. |
-| 45 | S34 | 127.1 | 4:00.15 | 1 | Her face: torn, scraped, wet, shining. |
-| 46 | S34 | 127.2 | 4:00.63 | 1 | Far off by the stone, the doe lifts its head. |
-| 47 | S34 | 127.3 | 4:01.10 | 2 | Side, low: the doe running to her, grass flying. |
-| 48 | S34 | 128.1 | 4:02.06 | 2 | Two-shot: the doe pushes its forehead into her chest. No hand was offered. |
-| 49 | S34 | 128.3 | 4:03.01 | 2 | Close: her arms round its neck, her face in its fur. |
-| 50 | S35 | 129.1 | 4:03.96 | 2 | Wide: the perfected people of the kingdom coming across the meadow from every direction, light shining from within them, the dawn behind. |
-| 51 | S35 | 129.3 | 4:04.91 | 1 | The elder, silver-haired and upright, laughing; light lives in her skin. |
-| 52 | S35 | 129.4 | 4:05.39 | 1 | A woman breaking into a run. |
-| 53 | S35 | 130.1 | 4:05.86 | 2 | Close two-shot: the first to arrive takes Aurelia's face in both hands (the friend's face half turned from camera). |
-| 54 | S35 | 130.3 | 4:06.82 | 2 | Medium: a knot of people round her; her face visible through them, tears and laughter. |
-| 55 | S35 | 131.1 | 4:07.77 | 2 | Rear wide: the ring of joined hands around the forked stone, with one open place. |
-| 56 | S35 | 131.3 | 4:08.72 | 1 | The elder's hand, held out to her. |
-| 57 | S35 | 131.4 | 4:09.20 | 1 | The child's hand, held out to her. |
-| 58 | S35 | 132.1 | 4:09.67 | 1 | Low: her bare feet stepping into the ring. |
-| 59 | S35 | 132.2 | 4:10.15 | 1 | Close: their hands close on hers; her scraped palm held in the elder's unmarked hand. |
-| 60 | S35 | 132.3 | 4:10.62 | 2 | Up past the circle: the missing star ignites and the ring in the sky is whole; on the rise, the eagle lands on the windswept tree, wings open over them all. |
+| 33 | S33 | 123.1 | 3:52.53 | ½ | *Half-beat test begins (bar 123).* Her face. |
+| 34 | S33 | 123.1½ | 3:52.77 | ½ | The gap in the ring. |
+| 35 | S33 | 123.2 | 3:53.01 | ½ | Her hand lifting a little, open. |
+| 36 | S33 | 123.2½ | 3:53.25 | ½ | The gold walls. |
+| 37 | S33 | 123.3 | 3:53.49 | ½ | Her face, closer. |
+| 38 | S33 | 123.3½ | 3:53.72 | ½ | The eagle, wings wide. |
+| 39 | S33 | 123.4 | 3:53.96 | ½ | The ring, its gap. |
+| 40 | S33 | 123.4½ | 3:54.20 | ½ | Her eyes. |
+| 41 | S33 | 124.1 | 3:54.44 | ½ | The gap. |
+| 42 | S33 | 124.1½ | 3:54.68 | ½ | Her face. |
+| 43 | S33 | 124.2 | 3:54.91 | ½ | The seams, blazing. |
+| 44 | S33 | 124.2½ | 3:55.15 | ½ | Her face. *(The test's fallback: bars 123–124 in six single-beat states, as the first draft had them.)* |
+| 45 | S33 | 124.3 | 3:55.39 | 2 | Held on the riser's peak: from directly above, Aurelia at the bottom of the lit gap, face upturned, every seam converging on her. |
+| 46 | S34 | 125.1 | 3:56.34 | 2 | ◆ *Drop 2.* Wide from the ridge: the rift blazes end to end; light pours up out of it into the sky. |
+| 47 | S34 | 125.3 | 3:57.29 | 1 | Side: Aurelia climbing the path, lit from below. |
+| 48 | S34 | 125.4 | 3:57.77 | 1 | The wolf rising from its ledge to go with her. |
+| 49 | S34 | 126.1 | 3:58.25 | 2 | Low, against the sky: she comes over the rim into the open, the wolf behind her. |
+| 50 | S34 | 126.3 | 3:59.20 | 2 | Wide: the meadow lit again, and along the horizon, under the stars, the first rose and gold of dawn. |
+| 51 | S34 | 127.1 | 4:00.15 | 1 | Her face: torn, scraped, wet, shining. |
+| 52 | S34 | 127.2 | 4:00.63 | 1 | Far off by the stone, the doe lifts its head. |
+| 53 | S34 | 127.3 | 4:01.10 | 2 | Side, low: the doe running to her, grass flying. |
+| 54 | S34 | 128.1 | 4:02.06 | 2 | Two-shot: the doe pushes its forehead into her chest. No hand was offered. |
+| 55 | S34 | 128.3 | 4:03.01 | 2 | Close: her arms round its neck, her face in its fur. |
+| 56 | S35 | 129.1 | 4:03.96 | 2 | Wide: the perfected people of the kingdom coming across the meadow from every direction, light shining from within them, the dawn behind. |
+| 57 | S35 | 129.3 | 4:04.91 | 1 | The elder, silver-haired and upright, laughing; light lives in her skin. |
+| 58 | S35 | 129.4 | 4:05.39 | 1 | A woman breaking into a run. |
+| 59 | S35 | 130.1 | 4:05.86 | 2 | Close two-shot: the first to arrive takes Aurelia's face in both hands (the friend's face half turned from camera). |
+| 60 | S35 | 130.3 | 4:06.82 | 2 | Medium: a knot of people round her; her face visible through them, tears and laughter. |
+| 61 | S35 | 131.1 | 4:07.77 | 2 | Rear wide: the ring of joined hands around the forked stone, with one open place. |
+| 62 | S35 | 131.3 | 4:08.72 | 1 | The elder's hand, held out to her. |
+| 63 | S35 | 131.4 | 4:09.20 | 1 | The child's hand, held out to her. |
+| 64 | S35 | 132.1 | 4:09.67 | 1 | Low: her bare feet stepping into the ring. |
+| 65 | S35 | 132.2 | 4:10.15 | 1 | Close: their hands close on hers; her scraped palm held in the elder's unmarked hand. |
+| 66 | S35 | 132.3 | 4:10.62 | 2 | Up past the circle: the missing star ignites and the ring in the sky is whole; on the rise, the eagle lands on the windswept tree, wings open over them all. |
 
-*60 states; ends at 4:11.58.*
+*66 states; ends at 4:11.58.*
 
 ### 5.6 F · The invitation
 
@@ -1162,6 +1177,36 @@ The rules these follow:
 | 27 | S39 | 152.1 | 4:47.76 | 2 | Black, as the last of the sound goes (the audio fades out between about 4:45.5 and 4:48.8). |
 
 *27 states; ends at 4:48.71.*
+
+### 5.7 G · The first riser, at half-beat (Gareth's test)
+
+*S14's last four bars. Starts at bar 63 (1:58.27).*
+
+| # | Scene | Bar.beat | Starts | Beats | The picture |
+|---|---|---|---|---|---|
+| 1 | S14 | 63.1 | 1:58.27 | 1 | The eagle launching from the crag. |
+| 2 | S14 | 63.2 | 1:58.75 | 1 | The eagle climbing the wind. |
+| 3 | S14 | 63.3 | 1:59.22 | 1 | Wide: lights rising out of the meadow in thousands. |
+| 4 | S14 | 63.4 | 1:59.70 | 1 | From above: the grass bowed in a ring around her. |
+| 5 | S14 | 64.1 | 2:00.18 | 1 | Profile: her arms spreading wide. |
+| 6 | S14 | 64.2 | 2:00.65 | 1 | Front: her face tipped up into the wind, laughing. |
+| 7 | S14 | 64.3 | 2:01.13 | 1 | The doe's first step toward her. |
+| 8 | S14 | 64.4 | 2:01.61 | 1 | The doe's second step. |
+| 9 | S14 | 65.1 | 2:02.08 | ½ | *Half-beat test begins (bar 65).* The doe's third step; it stops. |
+| 10 | S14 | 65.1½ | 2:02.32 | ½ | Her face: she has seen it. |
+| 11 | S14 | 65.2 | 2:02.56 | ½ | The doe's ear, turned to her. |
+| 12 | S14 | 65.2½ | 2:02.80 | ½ | Her open hand. |
+| 13 | S14 | 65.3 | 2:03.03 | ½ | The doe's eye. |
+| 14 | S14 | 65.3½ | 2:03.27 | ½ | Her eyes. |
+| 15 | S14 | 65.4 | 2:03.51 | ½ | The lights hanging still between them. |
+| 16 | S14 | 65.4½ | 2:03.75 | ½ | Her lips parting: a breath in. |
+| 17 | S14 | 66.1 | 2:03.99 | ½ | The doe's head lifting. |
+| 18 | S14 | 66.1½ | 2:04.22 | ½ | Her face. |
+| 19 | S14 | 66.2 | 2:04.46 | ½ | The doe's face. |
+| 20 | S14 | 66.2½ | 2:04.70 | ½ | Her face. *(The test's fallback: bar 65 and the first half of bar 66 in six single-beat states.)* |
+| 21 | S14 | 66.3 | 2:04.94 | 2 | Held on the riser's peak, the last picture before the drop: a wide two-shot, the two of them facing each other across ten paces of grass. (Bar 66 is where the approved land test's audio begins.) |
+
+*21 states; ends at 2:05.89.*
 
 ## 6. Continuity and motif ledger
 
@@ -1355,6 +1400,14 @@ below are suggested values for Codex to tune against the approved frames; the me
   Written into S35–S38 and the ledger (section 6) as perfected, radiant people without wings.
 - **Keep the wolf.** ("Wolves are cool.")
 
+**Gareth's decisions on the open questions (13 October 2026):**
+
+- **No wings.** The perfected people are angelic in their light, human in their bodies.
+- **Keep the held pictures** in the coda: no cross-dissolves. The film cuts between held states to the end.
+- **Test the faster pictures**: half-beat states on the two risers (bars 65–66 and 123–124, sequences G and E), "it
+  gives the visual rhythmic cadence an extra dimension." Each keeps a single-beat fallback.
+- **No title card.** The title is metadata, useful but invisible.
+
 ### 7.2 What this manuscript proposes (Claude's, for Gareth to accept or refuse)
 
 Each proposal has a fallback that keeps the scene's feeling if it is refused.
@@ -1393,24 +1446,23 @@ Each proposal has a fallback that keeps the scene's feeling if it is refused.
 | Climbing down and out of the gap (S25, S34) | Dark, busy rock can be illegible. | Use hands and feet in close-up for the effort, and wide silhouettes against the slit of stars or the lit seams for the geography. |
 | The perfected people (S35–S38) | "Perfect" people can come out airbrushed, plastic or like a stock crowd; many faces must stay consistent; Aurelia must remain the face that acts. | Show perfection as wholeness and light, not smoothness: real skin, real age on the elder, light from within. Backlight them against the dawn; give only three readable faces (the elder, the child, the friend) and keep each one's pale clothes plain and distinct. |
 | The scraped palm offered to the lens (S38) | Hands have been the hardest part of every method so far. | Use the approved open-palm pose from the deer touch, turned toward camera; if the frontal palm fails, show the palm in profile with the light on it, then her eyes in the lens. |
+| Half-beat states (S14, S33) | At 0.238 s a picture may flash past unread. | Alternate between two subjects so the eye reads rhythm, not new content; fall back to single beats (sequences E and G note where). |
 | Dawn and full stars together (S34–S39) | Can wash out the star field. | Keep the glow below the lowest tenth of the sky; the stars stay dense above. |
 
-### 7.4 Questions for Gareth
+### 7.4 What to test first
 
-1. **No wings?** I have read "angelic forms… still human" as radiant people without wings: angelic in their light,
-   human in their bodies. Say if you want wings, or a suggestion of them in the light behind them.
-2. **Dissolves in the coda.** The last 22 seconds (S38–S39) are one sustained chord with waves and a whisper. The
-   manuscript keeps the two-beat ceiling there and advances small changes. Would you like to test slow cross-dissolves
-   between those states instead? That is untested, so it is a question rather than a direction.
-3. **Faster holds in the builds.** Bars 65–66 and 121–124 could use half-beat holds if a test shows they read. Test
-   them?
-4. **The title card.** None is written. With no lyrics on screen, a title may be the only text in the film; if you
-   want one, its natural place is the bass entry at 0:34.48, over the first footstep, or after the morning star.
+No questions are open. These four tests would settle the riskiest pictures before the bulk of the generation:
+
+1. **The half-beat risers** (sequences G and E): cut both at half-beat and at single beats, and choose by eye.
+2. **The cracked-ice plate** (S28–S32): one plate, with the light graded into its seams across six states.
+3. **The perfected people** (S35): the elder, the child and the friend, radiant but with real skin, beside the
+   torn Aurelia in one frame.
+4. **The offered palm** (S38): the scrape and the light, frontal to the lens.
 
 ### 7.5 Picture count and economy
 
 At an average hold of 1.6 beats, the whole film needs about **380 picture states** (607 beats; section 4 adds them up
-scene by scene). Many states are cheap
+scene by scene), plus about a dozen more for the two half-beat risers. Many states are cheap
 variations of a plate, which makes them economical to generate:
 
 - **Graded states of one plate:** the light filling the cracks (S30–S32), the dawn brightening over the sea (S39),
