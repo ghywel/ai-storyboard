@@ -1,0 +1,3582 @@
+{
+ "sections": [
+  {
+   "name": "Intro - metronome kick drum, one chiming delay guitar, a girl humming far away",
+   "t": 16.676
+  },
+  {
+   "name": "Verse 1 - male British voice, sing-spoken, close to the mic",
+   "t": 16.676
+  },
+  {
+   "name": "Verse 2 - male, sing-spoken",
+   "t": 57.287
+  },
+  {
+   "name": "Pre-Chorus - building, guitar climbing",
+   "t": 84.734
+  },
+  {
+   "name": "Chorus - soaring, full voice",
+   "t": 97.899
+  },
+  {
+   "name": "Verse 3 - male, warmer, the drums begin to move",
+   "t": 127.979
+  },
+  {
+   "name": "Spoken - soft young girl's voice, reading her letter",
+   "t": 162.048
+  },
+  {
+   "name": "Chorus - soaring, full voice",
+   "t": 174.814
+  },
+  {
+   "name": "Bridge - building, drums driving, choir rising",
+   "t": 201.303
+  },
+  {
+   "name": "Final Chorus - key lift, full band, the whole congregation",
+   "t": 253.484
+  },
+  {
+   "name": "Outro - the band falls away, metronome kick, one guitar",
+   "t": 291.782
+  },
+  {
+   "name": "Spoken - male, almost a whisper",
+   "t": 312.606
+  },
+  {
+   "name": "End",
+   "t": 312.846
+  }
+ ],
+ "lines": [
+  {
+   "t0": 16.676,
+   "t1": 22.66,
+   "text": "Five in the morning, before the cockerel,",
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t0": 22.66,
+   "t1": 27.926,
+   "text": "She's on the road with a yellow can.",
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t0": 27.926,
+   "t1": 32.713,
+   "text": "Red dust, bare feet, an hour each way,",
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t0": 32.713,
+   "t1": 37.58,
+   "text": "And it's heavier coming home.",
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t0": 37.58,
+   "t1": 40.612,
+   "text": "She's seven. Same as my eldest.",
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t0": 40.612,
+   "t1": 44.282,
+   "text": "The water's brown. She drinks it anyway.",
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t0": 44.282,
+   "t1": 46.755,
+   "text": "Her brother coughs all night.",
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t0": 46.755,
+   "t1": 49.468,
+   "text": "She walks the long way round the school",
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t0": 49.468,
+   "t1": 57.287,
+   "text": "And doesn't go in.",
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t0": 57.287,
+   "t1": 60.479,
+   "text": "Seven in the morning, green and pleasant land,",
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t0": 60.479,
+   "t1": 64.229,
+   "text": "The boiler hums, the tap runs hot,",
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t0": 64.229,
+   "t1": 66.702,
+   "text": "My boys are fighting over cereal",
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t0": 66.702,
+   "t1": 70.293,
+   "text": "And I'm moaning that the Wi-Fi's slow.",
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t0": 70.293,
+   "t1": 73.085,
+   "text": "Two pairs of school shoes by the door,",
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t0": 73.085,
+   "t1": 76.516,
+   "text": "Two lunchboxes, two coats, two futures,",
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t0": 76.516,
+   "t1": 79.947,
+   "text": "And her face came up on my phone again,",
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t0": 79.947,
+   "t1": 84.734,
+   "text": "And I scrolled on by.",
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t0": 84.734,
+   "t1": 88.085,
+   "text": "Once, I said I'd do it later.",
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t0": 88.085,
+   "t1": 91.436,
+   "text": "Twice, I said what difference can one man make.",
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t0": 91.436,
+   "t1": 95.745,
+   "text": "Three times I scrolled on by,",
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t0": 95.745,
+   "t1": 97.899,
+   "text": "And somewhere a cockerel cried.",
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t0": 97.899,
+   "t1": 102.207,
+   "text": "Holy, holy,",
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t0": 102.207,
+   "t1": 105.559,
+   "text": "Wake me from my sleep.",
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t0": 105.559,
+   "t1": 108.83,
+   "text": "Every face that I scrolled past",
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t0": 108.83,
+   "t1": 112.181,
+   "text": "Was You, looking at me.",
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t0": 112.181,
+   "t1": 112.181,
+   "text": "(Will you sponsor me?)",
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t0": 112.181,
+   "t1": 118.803,
+   "text": "With the help of God, I will.",
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t0": 118.803,
+   "t1": 118.803,
+   "text": "(Will you sponsor me?)",
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t0": 118.803,
+   "t1": 127.979,
+   "text": "With the help of God, I will.",
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t0": 127.979,
+   "t1": 131.33,
+   "text": "A pound a day. A pound a day.",
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t0": 131.33,
+   "t1": 134.521,
+   "text": "Less than the coffee going cold beside me.",
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t0": 134.521,
+   "t1": 137.394,
+   "text": "It doesn't go in her pocket, it goes in the ground:",
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t0": 137.394,
+   "t1": 140.266,
+   "text": "A well, a nurse, a classroom roof,",
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t0": 140.266,
+   "t1": 144.415,
+   "text": "And four more children drinking there beside her.",
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t0": 144.415,
+   "t1": 147.367,
+   "text": "My son drew her a lion in felt-tip,",
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t0": 147.367,
+   "t1": 149.681,
+   "text": "Folded it into a padded envelope",
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t0": 149.681,
+   "t1": 152.713,
+   "text": "With stickers and a pack of crayons,",
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t0": 152.713,
+   "t1": 156.223,
+   "text": "And twelve weeks later, through the letterbox:",
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t0": 156.223,
+   "t1": 162.048,
+   "text": "A house, a blue door, and a sun with a face.",
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t0": 162.048,
+   "t1": 168.271,
+   "text": "Dear friend. I am well. The water is clean now.",
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t0": 168.271,
+   "t1": 172.021,
+   "text": "I go to school. I am learning to write.",
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t0": 172.021,
+   "t1": 174.814,
+   "text": "I drew you my tree.",
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t0": 174.814,
+   "t1": 178.085,
+   "text": "Holy, holy,",
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t0": 178.085,
+   "t1": 181.436,
+   "text": "Wake me from my sleep.",
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t0": 181.436,
+   "t1": 184.707,
+   "text": "Every face that I scrolled past",
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t0": 184.707,
+   "t1": 188.059,
+   "text": "Was You, looking at me.",
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t0": 188.059,
+   "t1": 188.059,
+   "text": "(Will you sponsor me?)",
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t0": 188.059,
+   "t1": 194.601,
+   "text": "With the help of God, I will.",
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t0": 194.601,
+   "t1": 194.601,
+   "text": "(Will you sponsor me?)",
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t0": 194.601,
+   "t1": 201.303,
+   "text": "With the help of God, I will.",
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t0": 201.303,
+   "t1": 204.734,
+   "text": "You don't have to sing my song",
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t0": 204.734,
+   "t1": 207.926,
+   "text": "To know that this is wrong.",
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t0": 207.926,
+   "t1": 212.234,
+   "text": "You don't need my God to see a child",
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t0": 212.234,
+   "t1": 215.346,
+   "text": "Who's been waiting forty days.",
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t0": 215.346,
+   "t1": 218.936,
+   "text": "But I see a table long as the sky,",
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t0": 218.936,
+   "t1": 222.447,
+   "text": "Laid on a mountain in the light,",
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t0": 222.447,
+   "t1": 226.037,
+   "text": "Every nation, every tribe and tongue,",
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t0": 226.037,
+   "t1": 229.309,
+   "text": "No colour, no border, no first, no last,",
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t0": 229.309,
+   "t1": 233.777,
+   "text": "And a chair beside her with your name on.",
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t0": 233.777,
+   "t1": 237.048,
+   "text": "Let the little children come.",
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t0": 237.048,
+   "t1": 243.75,
+   "text": "Let the little children come.",
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t0": 243.75,
+   "t1": 248.138,
+   "text": "Whoever welcomes one of these",
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t0": 248.138,
+   "t1": 253.484,
+   "text": "Welcomes Me.",
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t0": 253.484,
+   "t1": 256.676,
+   "text": "Holy, holy,",
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t0": 256.676,
+   "t1": 259.947,
+   "text": "Wake us from our sleep.",
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t0": 259.947,
+   "t1": 263.218,
+   "text": "Every face that we scrolled past",
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t0": 263.218,
+   "t1": 265.293,
+   "text": "Was You, looking at us.",
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t0": 265.293,
+   "t1": 265.293,
+   "text": "(Will you sponsor me?)",
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t0": 265.293,
+   "t1": 269.84,
+   "text": "With the help of God, we will.",
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t0": 269.84,
+   "t1": 269.84,
+   "text": "(Will you sponsor me?)",
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t0": 269.84,
+   "t1": 272.394,
+   "text": "With the help of God, we will.",
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t0": 272.394,
+   "t1": 272.394,
+   "text": "(Will you sponsor me?)",
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t0": 272.394,
+   "t1": 276.303,
+   "text": "We will. We will.",
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t0": 276.303,
+   "t1": 276.303,
+   "text": "(Will you sponsor me?)",
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t0": 276.303,
+   "t1": 284.441,
+   "text": "With the help of God, we will.",
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t0": 284.441,
+   "t1": 284.441,
+   "text": "(Will you sponsor me?)",
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t0": 284.441,
+   "t1": 291.782,
+   "text": "We will. We will.",
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t0": 291.782,
+   "t1": 296.968,
+   "text": "Five in the morning, and the cockerel crows.",
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t0": 296.968,
+   "t1": 301.037,
+   "text": "She's on the road with a reading book.",
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t0": 301.037,
+   "t1": 306.463,
+   "text": "The yellow can is full beside the door,",
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t0": 306.463,
+   "t1": 312.606,
+   "text": "And she's running.",
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t0": 312.606,
+   "t1": 312.846,
+   "text": "I will.",
+   "section": "Spoken - male, almost a whisper"
+  }
+ ],
+ "words": [
+  {
+   "t": 16.676,
+   "text": "Five",
+   "line": 0,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 17.138,
+   "text": "in",
+   "line": 0,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 17.601,
+   "text": "the",
+   "line": 0,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 18.063,
+   "text": "morning,",
+   "line": 0,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 18.988,
+   "text": "before",
+   "line": 0,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 19.913,
+   "text": "the",
+   "line": 0,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 20.375,
+   "text": "cockerel,",
+   "line": 0,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 22.66,
+   "text": "She's",
+   "line": 1,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 23.157,
+   "text": "on",
+   "line": 1,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 23.655,
+   "text": "the",
+   "line": 1,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 24.152,
+   "text": "road",
+   "line": 1,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 24.649,
+   "text": "with",
+   "line": 1,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 25.147,
+   "text": "a",
+   "line": 1,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 25.644,
+   "text": "yellow",
+   "line": 1,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 26.639,
+   "text": "can.",
+   "line": 1,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 27.926,
+   "text": "Red",
+   "line": 2,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 28.435,
+   "text": "dust,",
+   "line": 2,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 28.943,
+   "text": "bare",
+   "line": 2,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 29.452,
+   "text": "feet,",
+   "line": 2,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 29.96,
+   "text": "an",
+   "line": 2,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 30.469,
+   "text": "hour",
+   "line": 2,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 30.978,
+   "text": "each",
+   "line": 2,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 31.486,
+   "text": "way,",
+   "line": 2,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 32.713,
+   "text": "And",
+   "line": 3,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 33.304,
+   "text": "it's",
+   "line": 3,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 33.895,
+   "text": "heavier",
+   "line": 3,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 35.077,
+   "text": "coming",
+   "line": 3,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 36.259,
+   "text": "home.",
+   "line": 3,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 37.58,
+   "text": "She's",
+   "line": 4,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 37.902,
+   "text": "seven.",
+   "line": 4,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 38.546,
+   "text": "Same",
+   "line": 4,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 38.869,
+   "text": "as",
+   "line": 4,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 39.191,
+   "text": "my",
+   "line": 4,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 39.513,
+   "text": "eldest.",
+   "line": 4,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 40.612,
+   "text": "The",
+   "line": 5,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 40.924,
+   "text": "water's",
+   "line": 5,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 41.548,
+   "text": "brown.",
+   "line": 5,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 41.86,
+   "text": "She",
+   "line": 5,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 42.172,
+   "text": "drinks",
+   "line": 5,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 42.484,
+   "text": "it",
+   "line": 5,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 42.796,
+   "text": "anyway.",
+   "line": 5,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 44.282,
+   "text": "Her",
+   "line": 6,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 44.632,
+   "text": "brother",
+   "line": 6,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 45.333,
+   "text": "coughs",
+   "line": 6,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 45.683,
+   "text": "all",
+   "line": 6,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 46.034,
+   "text": "night.",
+   "line": 6,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 46.755,
+   "text": "She",
+   "line": 7,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 47.043,
+   "text": "walks",
+   "line": 7,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 47.332,
+   "text": "the",
+   "line": 7,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 47.62,
+   "text": "long",
+   "line": 7,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 47.908,
+   "text": "way",
+   "line": 7,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 48.196,
+   "text": "round",
+   "line": 7,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 48.485,
+   "text": "the",
+   "line": 7,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 48.773,
+   "text": "school",
+   "line": 7,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 49.468,
+   "text": "And",
+   "line": 8,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 51.13,
+   "text": "doesn't",
+   "line": 8,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 52.791,
+   "text": "go",
+   "line": 8,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 54.453,
+   "text": "in.",
+   "line": 8,
+   "section": "Verse 1 - male British voice, sing-spoken, close to the mic"
+  },
+  {
+   "t": 57.287,
+   "text": "Seven",
+   "line": 9,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 57.78,
+   "text": "in",
+   "line": 9,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 58.027,
+   "text": "the",
+   "line": 9,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 58.274,
+   "text": "morning,",
+   "line": 9,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 58.767,
+   "text": "green",
+   "line": 9,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 59.014,
+   "text": "and",
+   "line": 9,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 59.26,
+   "text": "pleasant",
+   "line": 9,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 59.754,
+   "text": "land,",
+   "line": 9,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 60.479,
+   "text": "The",
+   "line": 10,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 60.877,
+   "text": "boiler",
+   "line": 10,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 61.674,
+   "text": "hums,",
+   "line": 10,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 62.073,
+   "text": "the",
+   "line": 10,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 62.471,
+   "text": "tap",
+   "line": 10,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 62.87,
+   "text": "runs",
+   "line": 10,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 63.268,
+   "text": "hot,",
+   "line": 10,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 64.229,
+   "text": "My",
+   "line": 11,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 64.439,
+   "text": "boys",
+   "line": 11,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 64.649,
+   "text": "are",
+   "line": 11,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 65.07,
+   "text": "fighting",
+   "line": 11,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 65.49,
+   "text": "over",
+   "line": 11,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 65.911,
+   "text": "cereal",
+   "line": 11,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 66.702,
+   "text": "And",
+   "line": 12,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 67.041,
+   "text": "I'm",
+   "line": 12,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 67.38,
+   "text": "moaning",
+   "line": 12,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 68.059,
+   "text": "that",
+   "line": 12,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 68.398,
+   "text": "the",
+   "line": 12,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 68.737,
+   "text": "Wi-Fi's",
+   "line": 12,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 69.415,
+   "text": "slow.",
+   "line": 12,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 70.293,
+   "text": "Two",
+   "line": 13,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 70.59,
+   "text": "pairs",
+   "line": 13,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 70.886,
+   "text": "of",
+   "line": 13,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 71.183,
+   "text": "school",
+   "line": 13,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 71.48,
+   "text": "shoes",
+   "line": 13,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 71.776,
+   "text": "by",
+   "line": 13,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 72.073,
+   "text": "the",
+   "line": 13,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 72.37,
+   "text": "door,",
+   "line": 13,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 73.085,
+   "text": "Two",
+   "line": 14,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 73.377,
+   "text": "lunchboxes,",
+   "line": 14,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 74.252,
+   "text": "two",
+   "line": 14,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 74.543,
+   "text": "coats,",
+   "line": 14,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 74.835,
+   "text": "two",
+   "line": 14,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 75.126,
+   "text": "futures,",
+   "line": 14,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 76.516,
+   "text": "And",
+   "line": 15,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 76.808,
+   "text": "her",
+   "line": 15,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 77.099,
+   "text": "face",
+   "line": 15,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 77.391,
+   "text": "came",
+   "line": 15,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 77.683,
+   "text": "up",
+   "line": 15,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 77.974,
+   "text": "on",
+   "line": 15,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 78.266,
+   "text": "my",
+   "line": 15,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 78.557,
+   "text": "phone",
+   "line": 15,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 78.849,
+   "text": "again,",
+   "line": 15,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 79.947,
+   "text": "And",
+   "line": 16,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 80.625,
+   "text": "I",
+   "line": 16,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 81.303,
+   "text": "scrolled",
+   "line": 16,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 82.66,
+   "text": "on",
+   "line": 16,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 83.338,
+   "text": "by.",
+   "line": 16,
+   "section": "Verse 2 - male, sing-spoken"
+  },
+  {
+   "t": 84.734,
+   "text": "Once,",
+   "line": 17,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 85.09,
+   "text": "I",
+   "line": 17,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 85.446,
+   "text": "said",
+   "line": 17,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 85.802,
+   "text": "I'd",
+   "line": 17,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 86.158,
+   "text": "do",
+   "line": 17,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 86.514,
+   "text": "it",
+   "line": 17,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 86.87,
+   "text": "later.",
+   "line": 17,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 88.085,
+   "text": "Twice,",
+   "line": 18,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 88.322,
+   "text": "I",
+   "line": 18,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 88.56,
+   "text": "said",
+   "line": 18,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 88.797,
+   "text": "what",
+   "line": 18,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 89.034,
+   "text": "difference",
+   "line": 18,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 89.747,
+   "text": "can",
+   "line": 18,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 89.984,
+   "text": "one",
+   "line": 18,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 90.459,
+   "text": "man",
+   "line": 18,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 90.696,
+   "text": "make.",
+   "line": 18,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 91.436,
+   "text": "Three",
+   "line": 19,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 91.894,
+   "text": "times",
+   "line": 19,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 92.809,
+   "text": "I",
+   "line": 19,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 93.267,
+   "text": "scrolled",
+   "line": 19,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 94.183,
+   "text": "on",
+   "line": 19,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 94.641,
+   "text": "by,",
+   "line": 19,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 95.745,
+   "text": "And",
+   "line": 20,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 95.948,
+   "text": "somewhere",
+   "line": 20,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 96.559,
+   "text": "a",
+   "line": 20,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 96.762,
+   "text": "cockerel",
+   "line": 20,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 97.372,
+   "text": "cried.",
+   "line": 20,
+   "section": "Pre-Chorus - building, guitar climbing"
+  },
+  {
+   "t": 97.899,
+   "text": "Holy,",
+   "line": 21,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 99.73,
+   "text": "holy,",
+   "line": 21,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 102.207,
+   "text": "Wake",
+   "line": 22,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 102.777,
+   "text": "me",
+   "line": 22,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 103.347,
+   "text": "from",
+   "line": 22,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 103.917,
+   "text": "my",
+   "line": 22,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 104.486,
+   "text": "sleep.",
+   "line": 22,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 105.559,
+   "text": "Every",
+   "line": 23,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 106.486,
+   "text": "face",
+   "line": 23,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 106.795,
+   "text": "that",
+   "line": 23,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 107.104,
+   "text": "I",
+   "line": 23,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 107.413,
+   "text": "scrolled",
+   "line": 23,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 108.03,
+   "text": "past",
+   "line": 23,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 108.83,
+   "text": "Was",
+   "line": 24,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 109.305,
+   "text": "You,",
+   "line": 24,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 109.779,
+   "text": "looking",
+   "line": 24,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 110.729,
+   "text": "at",
+   "line": 24,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 111.204,
+   "text": "me.",
+   "line": 24,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 112.181,
+   "text": "(Will",
+   "line": 25,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 112.181,
+   "text": "you",
+   "line": 25,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 112.181,
+   "text": "sponsor",
+   "line": 25,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 112.181,
+   "text": "me?)",
+   "line": 25,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 112.181,
+   "text": "With",
+   "line": 26,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 112.985,
+   "text": "the",
+   "line": 26,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 113.789,
+   "text": "help",
+   "line": 26,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 114.593,
+   "text": "of",
+   "line": 26,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 115.397,
+   "text": "God,",
+   "line": 26,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 116.201,
+   "text": "I",
+   "line": 26,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 117.006,
+   "text": "will.",
+   "line": 26,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 118.803,
+   "text": "(Will",
+   "line": 27,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 118.803,
+   "text": "you",
+   "line": 27,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 118.803,
+   "text": "sponsor",
+   "line": 27,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 118.803,
+   "text": "me?)",
+   "line": 27,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 118.803,
+   "text": "With",
+   "line": 28,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 119.917,
+   "text": "the",
+   "line": 28,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 121.031,
+   "text": "help",
+   "line": 28,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 122.146,
+   "text": "of",
+   "line": 28,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 123.26,
+   "text": "God,",
+   "line": 28,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 124.374,
+   "text": "I",
+   "line": 28,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 125.488,
+   "text": "will.",
+   "line": 28,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 127.979,
+   "text": "A",
+   "line": 29,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 128.335,
+   "text": "pound",
+   "line": 29,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 128.691,
+   "text": "a",
+   "line": 29,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 129.047,
+   "text": "day.",
+   "line": 29,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 129.403,
+   "text": "A",
+   "line": 29,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 129.759,
+   "text": "pound",
+   "line": 29,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 130.115,
+   "text": "a",
+   "line": 29,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 130.471,
+   "text": "day.",
+   "line": 29,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 131.33,
+   "text": "Less",
+   "line": 30,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 131.631,
+   "text": "than",
+   "line": 30,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 131.933,
+   "text": "the",
+   "line": 30,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 132.234,
+   "text": "coffee",
+   "line": 30,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 132.535,
+   "text": "going",
+   "line": 30,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 132.837,
+   "text": "cold",
+   "line": 30,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 133.138,
+   "text": "beside",
+   "line": 30,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 133.741,
+   "text": "me.",
+   "line": 30,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 134.521,
+   "text": "It",
+   "line": 31,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 134.725,
+   "text": "doesn't",
+   "line": 31,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 134.928,
+   "text": "go",
+   "line": 31,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 135.132,
+   "text": "in",
+   "line": 31,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 135.335,
+   "text": "her",
+   "line": 31,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 135.539,
+   "text": "pocket,",
+   "line": 31,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 135.946,
+   "text": "it",
+   "line": 31,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 136.149,
+   "text": "goes",
+   "line": 31,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 136.353,
+   "text": "in",
+   "line": 31,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 136.556,
+   "text": "the",
+   "line": 31,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 136.76,
+   "text": "ground:",
+   "line": 31,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 137.394,
+   "text": "A",
+   "line": 32,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 137.699,
+   "text": "well,",
+   "line": 32,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 138.004,
+   "text": "a",
+   "line": 32,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 138.309,
+   "text": "nurse,",
+   "line": 32,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 138.615,
+   "text": "a",
+   "line": 32,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 138.92,
+   "text": "classroom",
+   "line": 32,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 139.53,
+   "text": "roof,",
+   "line": 32,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 140.266,
+   "text": "And",
+   "line": 33,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 140.587,
+   "text": "four",
+   "line": 33,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 140.907,
+   "text": "more",
+   "line": 33,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 141.228,
+   "text": "children",
+   "line": 33,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 141.869,
+   "text": "drinking",
+   "line": 33,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 142.51,
+   "text": "there",
+   "line": 33,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 142.831,
+   "text": "beside",
+   "line": 33,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 143.472,
+   "text": "her.",
+   "line": 33,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 144.415,
+   "text": "My",
+   "line": 34,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 144.694,
+   "text": "son",
+   "line": 34,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 144.973,
+   "text": "drew",
+   "line": 34,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 145.251,
+   "text": "her",
+   "line": 34,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 145.53,
+   "text": "a",
+   "line": 34,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 145.809,
+   "text": "lion",
+   "line": 34,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 146.088,
+   "text": "in",
+   "line": 34,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 146.367,
+   "text": "felt-tip,",
+   "line": 34,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 147.367,
+   "text": "Folded",
+   "line": 35,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 147.725,
+   "text": "it",
+   "line": 35,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 147.903,
+   "text": "into",
+   "line": 35,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 148.261,
+   "text": "a",
+   "line": 35,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 148.44,
+   "text": "padded",
+   "line": 35,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 148.797,
+   "text": "envelope",
+   "line": 35,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 149.681,
+   "text": "With",
+   "line": 36,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 150.003,
+   "text": "stickers",
+   "line": 36,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 150.647,
+   "text": "and",
+   "line": 36,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 150.97,
+   "text": "a",
+   "line": 36,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 151.292,
+   "text": "pack",
+   "line": 36,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 151.614,
+   "text": "of",
+   "line": 36,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 151.936,
+   "text": "crayons,",
+   "line": 36,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 152.713,
+   "text": "And",
+   "line": 37,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 153.011,
+   "text": "twelve",
+   "line": 37,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 153.31,
+   "text": "weeks",
+   "line": 37,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 153.608,
+   "text": "later,",
+   "line": 37,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 154.205,
+   "text": "through",
+   "line": 37,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 154.503,
+   "text": "the",
+   "line": 37,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 154.801,
+   "text": "letterbox:",
+   "line": 37,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 156.223,
+   "text": "A",
+   "line": 38,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 156.673,
+   "text": "house,",
+   "line": 38,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 157.123,
+   "text": "a",
+   "line": 38,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 157.573,
+   "text": "blue",
+   "line": 38,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 158.023,
+   "text": "door,",
+   "line": 38,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 158.474,
+   "text": "and",
+   "line": 38,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 158.924,
+   "text": "a",
+   "line": 38,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 159.374,
+   "text": "sun",
+   "line": 38,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 159.824,
+   "text": "with",
+   "line": 38,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 160.274,
+   "text": "a",
+   "line": 38,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 160.724,
+   "text": "face.",
+   "line": 38,
+   "section": "Verse 3 - male, warmer, the drums begin to move"
+  },
+  {
+   "t": 162.048,
+   "text": "Dear",
+   "line": 39,
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t": 162.529,
+   "text": "friend.",
+   "line": 39,
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t": 163.01,
+   "text": "I",
+   "line": 39,
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t": 163.491,
+   "text": "am",
+   "line": 39,
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t": 163.971,
+   "text": "well.",
+   "line": 39,
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t": 164.452,
+   "text": "The",
+   "line": 39,
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t": 164.933,
+   "text": "water",
+   "line": 39,
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t": 165.895,
+   "text": "is",
+   "line": 39,
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t": 166.376,
+   "text": "clean",
+   "line": 39,
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t": 166.857,
+   "text": "now.",
+   "line": 39,
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t": 168.271,
+   "text": "I",
+   "line": 40,
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t": 168.59,
+   "text": "go",
+   "line": 40,
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t": 168.908,
+   "text": "to",
+   "line": 40,
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t": 169.227,
+   "text": "school.",
+   "line": 40,
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t": 169.546,
+   "text": "I",
+   "line": 40,
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t": 169.865,
+   "text": "am",
+   "line": 40,
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t": 170.183,
+   "text": "learning",
+   "line": 40,
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t": 170.821,
+   "text": "to",
+   "line": 40,
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t": 171.14,
+   "text": "write.",
+   "line": 40,
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t": 172.021,
+   "text": "I",
+   "line": 41,
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t": 172.496,
+   "text": "drew",
+   "line": 41,
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t": 172.971,
+   "text": "you",
+   "line": 41,
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t": 173.445,
+   "text": "my",
+   "line": 41,
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t": 173.92,
+   "text": "tree.",
+   "line": 41,
+   "section": "Spoken - soft young girl's voice, reading her letter"
+  },
+  {
+   "t": 174.814,
+   "text": "Holy,",
+   "line": 42,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 176.204,
+   "text": "holy,",
+   "line": 42,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 178.085,
+   "text": "Wake",
+   "line": 43,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 178.655,
+   "text": "me",
+   "line": 43,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 179.224,
+   "text": "from",
+   "line": 43,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 179.794,
+   "text": "my",
+   "line": 43,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 180.364,
+   "text": "sleep.",
+   "line": 43,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 181.436,
+   "text": "Every",
+   "line": 44,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 182.363,
+   "text": "face",
+   "line": 44,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 182.672,
+   "text": "that",
+   "line": 44,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 182.981,
+   "text": "I",
+   "line": 44,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 183.29,
+   "text": "scrolled",
+   "line": 44,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 183.907,
+   "text": "past",
+   "line": 44,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 184.707,
+   "text": "Was",
+   "line": 45,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 185.182,
+   "text": "You,",
+   "line": 45,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 185.657,
+   "text": "looking",
+   "line": 45,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 186.606,
+   "text": "at",
+   "line": 45,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 187.081,
+   "text": "me.",
+   "line": 45,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 188.059,
+   "text": "(Will",
+   "line": 46,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 188.059,
+   "text": "you",
+   "line": 46,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 188.059,
+   "text": "sponsor",
+   "line": 46,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 188.059,
+   "text": "me?)",
+   "line": 46,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 188.059,
+   "text": "With",
+   "line": 47,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 188.853,
+   "text": "the",
+   "line": 47,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 189.648,
+   "text": "help",
+   "line": 47,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 190.442,
+   "text": "of",
+   "line": 47,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 191.237,
+   "text": "God,",
+   "line": 47,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 192.031,
+   "text": "I",
+   "line": 47,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 192.825,
+   "text": "will.",
+   "line": 47,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 194.601,
+   "text": "(Will",
+   "line": 48,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 194.601,
+   "text": "you",
+   "line": 48,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 194.601,
+   "text": "sponsor",
+   "line": 48,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 194.601,
+   "text": "me?)",
+   "line": 48,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 194.601,
+   "text": "With",
+   "line": 49,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 195.415,
+   "text": "the",
+   "line": 49,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 196.229,
+   "text": "help",
+   "line": 49,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 197.042,
+   "text": "of",
+   "line": 49,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 197.856,
+   "text": "God,",
+   "line": 49,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 198.67,
+   "text": "I",
+   "line": 49,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 199.484,
+   "text": "will.",
+   "line": 49,
+   "section": "Chorus - soaring, full voice"
+  },
+  {
+   "t": 201.303,
+   "text": "You",
+   "line": 50,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 201.72,
+   "text": "don't",
+   "line": 50,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 202.136,
+   "text": "have",
+   "line": 50,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 202.553,
+   "text": "to",
+   "line": 50,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 202.969,
+   "text": "sing",
+   "line": 50,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 203.386,
+   "text": "my",
+   "line": 50,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 203.803,
+   "text": "song",
+   "line": 50,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 204.734,
+   "text": "To",
+   "line": 51,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 205.186,
+   "text": "know",
+   "line": 51,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 205.638,
+   "text": "that",
+   "line": 51,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 206.091,
+   "text": "this",
+   "line": 51,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 206.543,
+   "text": "is",
+   "line": 51,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 206.995,
+   "text": "wrong.",
+   "line": 51,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 207.926,
+   "text": "You",
+   "line": 52,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 208.333,
+   "text": "don't",
+   "line": 52,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 208.74,
+   "text": "need",
+   "line": 52,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 209.147,
+   "text": "my",
+   "line": 52,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 209.553,
+   "text": "God",
+   "line": 52,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 209.96,
+   "text": "to",
+   "line": 52,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 210.367,
+   "text": "see",
+   "line": 52,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 210.774,
+   "text": "a",
+   "line": 52,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 211.181,
+   "text": "child",
+   "line": 52,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 212.234,
+   "text": "Who's",
+   "line": 53,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 212.612,
+   "text": "been",
+   "line": 53,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 212.99,
+   "text": "waiting",
+   "line": 53,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 213.746,
+   "text": "forty",
+   "line": 53,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 214.501,
+   "text": "days.",
+   "line": 53,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 215.346,
+   "text": "But",
+   "line": 54,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 215.651,
+   "text": "I",
+   "line": 54,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 215.956,
+   "text": "see",
+   "line": 54,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 216.261,
+   "text": "a",
+   "line": 54,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 216.567,
+   "text": "table",
+   "line": 54,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 217.177,
+   "text": "long",
+   "line": 54,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 217.482,
+   "text": "as",
+   "line": 54,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 217.787,
+   "text": "the",
+   "line": 54,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 218.092,
+   "text": "sky,",
+   "line": 54,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 218.936,
+   "text": "Laid",
+   "line": 55,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 219.309,
+   "text": "on",
+   "line": 55,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 219.682,
+   "text": "a",
+   "line": 55,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 220.055,
+   "text": "mountain",
+   "line": 55,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 220.801,
+   "text": "in",
+   "line": 55,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 221.174,
+   "text": "the",
+   "line": 55,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 221.547,
+   "text": "light,",
+   "line": 55,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 222.447,
+   "text": "Every",
+   "line": 56,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 223.279,
+   "text": "nation,",
+   "line": 56,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 223.834,
+   "text": "every",
+   "line": 56,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 224.666,
+   "text": "tribe",
+   "line": 56,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 224.944,
+   "text": "and",
+   "line": 56,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 225.221,
+   "text": "tongue,",
+   "line": 56,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 226.037,
+   "text": "No",
+   "line": 57,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 226.315,
+   "text": "colour,",
+   "line": 57,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 226.871,
+   "text": "no",
+   "line": 57,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 227.149,
+   "text": "border,",
+   "line": 57,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 227.706,
+   "text": "no",
+   "line": 57,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 227.984,
+   "text": "first,",
+   "line": 57,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 228.262,
+   "text": "no",
+   "line": 57,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 228.54,
+   "text": "last,",
+   "line": 57,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 229.309,
+   "text": "And",
+   "line": 58,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 229.689,
+   "text": "a",
+   "line": 58,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 230.069,
+   "text": "chair",
+   "line": 58,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 230.448,
+   "text": "beside",
+   "line": 58,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 231.208,
+   "text": "her",
+   "line": 58,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 231.588,
+   "text": "with",
+   "line": 58,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 231.967,
+   "text": "your",
+   "line": 58,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 232.347,
+   "text": "name",
+   "line": 58,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 232.727,
+   "text": "on.",
+   "line": 58,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 233.777,
+   "text": "Let",
+   "line": 59,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 234.174,
+   "text": "the",
+   "line": 59,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 234.571,
+   "text": "little",
+   "line": 59,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 235.366,
+   "text": "children",
+   "line": 59,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 236.16,
+   "text": "come.",
+   "line": 59,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 237.048,
+   "text": "Let",
+   "line": 60,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 237.862,
+   "text": "the",
+   "line": 60,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 238.676,
+   "text": "little",
+   "line": 60,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 240.303,
+   "text": "children",
+   "line": 60,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 241.931,
+   "text": "come.",
+   "line": 60,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 243.75,
+   "text": "Whoever",
+   "line": 61,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 244.579,
+   "text": "welcomes",
+   "line": 61,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 245.822,
+   "text": "one",
+   "line": 61,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 246.651,
+   "text": "of",
+   "line": 61,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 247.065,
+   "text": "these",
+   "line": 61,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 248.138,
+   "text": "Welcomes",
+   "line": 62,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 251.546,
+   "text": "Me.",
+   "line": 62,
+   "section": "Bridge - building, drums driving, choir rising"
+  },
+  {
+   "t": 253.484,
+   "text": "Holy,",
+   "line": 63,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 254.841,
+   "text": "holy,",
+   "line": 63,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 256.676,
+   "text": "Wake",
+   "line": 64,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 257.232,
+   "text": "us",
+   "line": 64,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 257.788,
+   "text": "from",
+   "line": 64,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 258.344,
+   "text": "our",
+   "line": 64,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 258.9,
+   "text": "sleep.",
+   "line": 64,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 259.947,
+   "text": "Every",
+   "line": 65,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 260.874,
+   "text": "face",
+   "line": 65,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 261.183,
+   "text": "that",
+   "line": 65,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 261.492,
+   "text": "we",
+   "line": 65,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 261.801,
+   "text": "scrolled",
+   "line": 65,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 262.418,
+   "text": "past",
+   "line": 65,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 263.218,
+   "text": "Was",
+   "line": 66,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 263.512,
+   "text": "You,",
+   "line": 66,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 263.806,
+   "text": "looking",
+   "line": 66,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 264.394,
+   "text": "at",
+   "line": 66,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 264.688,
+   "text": "us.",
+   "line": 66,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 265.293,
+   "text": "(Will",
+   "line": 67,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 265.293,
+   "text": "you",
+   "line": 67,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 265.293,
+   "text": "sponsor",
+   "line": 67,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 265.293,
+   "text": "me?)",
+   "line": 67,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 265.293,
+   "text": "With",
+   "line": 68,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 265.845,
+   "text": "the",
+   "line": 68,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 266.397,
+   "text": "help",
+   "line": 68,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 266.949,
+   "text": "of",
+   "line": 68,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 267.502,
+   "text": "God,",
+   "line": 68,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 268.054,
+   "text": "we",
+   "line": 68,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 268.606,
+   "text": "will.",
+   "line": 68,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 269.84,
+   "text": "(Will",
+   "line": 69,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 269.84,
+   "text": "you",
+   "line": 69,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 269.84,
+   "text": "sponsor",
+   "line": 69,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 269.84,
+   "text": "me?)",
+   "line": 69,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 269.84,
+   "text": "With",
+   "line": 70,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 270.15,
+   "text": "the",
+   "line": 70,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 270.46,
+   "text": "help",
+   "line": 70,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 270.77,
+   "text": "of",
+   "line": 70,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 271.081,
+   "text": "God,",
+   "line": 70,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 271.391,
+   "text": "we",
+   "line": 70,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 271.701,
+   "text": "will.",
+   "line": 70,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 272.394,
+   "text": "(Will",
+   "line": 71,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 272.394,
+   "text": "you",
+   "line": 71,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 272.394,
+   "text": "sponsor",
+   "line": 71,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 272.394,
+   "text": "me?)",
+   "line": 71,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 272.394,
+   "text": "We",
+   "line": 72,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 273.225,
+   "text": "will.",
+   "line": 72,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 274.055,
+   "text": "We",
+   "line": 72,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 274.886,
+   "text": "will.",
+   "line": 72,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 276.303,
+   "text": "(Will",
+   "line": 73,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 276.303,
+   "text": "you",
+   "line": 73,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 276.303,
+   "text": "sponsor",
+   "line": 73,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 276.303,
+   "text": "me?)",
+   "line": 73,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 276.303,
+   "text": "With",
+   "line": 74,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 277.291,
+   "text": "the",
+   "line": 74,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 278.279,
+   "text": "help",
+   "line": 74,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 279.268,
+   "text": "of",
+   "line": 74,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 280.256,
+   "text": "God,",
+   "line": 74,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 281.244,
+   "text": "we",
+   "line": 74,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 282.232,
+   "text": "will.",
+   "line": 74,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 284.441,
+   "text": "(Will",
+   "line": 75,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 284.441,
+   "text": "you",
+   "line": 75,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 284.441,
+   "text": "sponsor",
+   "line": 75,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 284.441,
+   "text": "me?)",
+   "line": 75,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 284.441,
+   "text": "We",
+   "line": 76,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 286.001,
+   "text": "will.",
+   "line": 76,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 287.561,
+   "text": "We",
+   "line": 76,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 289.121,
+   "text": "will.",
+   "line": 76,
+   "section": "Final Chorus - key lift, full band, the whole congregation"
+  },
+  {
+   "t": 291.782,
+   "text": "Five",
+   "line": 77,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 292.183,
+   "text": "in",
+   "line": 77,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 292.583,
+   "text": "the",
+   "line": 77,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 292.984,
+   "text": "morning,",
+   "line": 77,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 293.786,
+   "text": "and",
+   "line": 77,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 294.186,
+   "text": "the",
+   "line": 77,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 294.587,
+   "text": "cockerel",
+   "line": 77,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 295.789,
+   "text": "crows.",
+   "line": 77,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 296.968,
+   "text": "She's",
+   "line": 78,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 297.352,
+   "text": "on",
+   "line": 78,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 297.737,
+   "text": "the",
+   "line": 78,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 298.121,
+   "text": "road",
+   "line": 78,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 298.505,
+   "text": "with",
+   "line": 78,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 298.889,
+   "text": "a",
+   "line": 78,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 299.274,
+   "text": "reading",
+   "line": 78,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 300.042,
+   "text": "book.",
+   "line": 78,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 301.037,
+   "text": "The",
+   "line": 79,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 301.498,
+   "text": "yellow",
+   "line": 79,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 302.421,
+   "text": "can",
+   "line": 79,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 302.882,
+   "text": "is",
+   "line": 79,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 303.343,
+   "text": "full",
+   "line": 79,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 303.804,
+   "text": "beside",
+   "line": 79,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 304.727,
+   "text": "the",
+   "line": 79,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 305.188,
+   "text": "door,",
+   "line": 79,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 306.463,
+   "text": "And",
+   "line": 80,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 307.768,
+   "text": "she's",
+   "line": 80,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 309.074,
+   "text": "running.",
+   "line": 80,
+   "section": "Outro - the band falls away, metronome kick, one guitar"
+  },
+  {
+   "t": 312.606,
+   "text": "I",
+   "line": 81,
+   "section": "Spoken - male, almost a whisper"
+  },
+  {
+   "t": 312.708,
+   "text": "will.",
+   "line": 81,
+   "section": "Spoken - male, almost a whisper"
+  }
+ ]
+}

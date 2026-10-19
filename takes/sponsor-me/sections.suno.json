@@ -1,0 +1,54 @@
+[
+ {
+  "name": "Intro",
+  "t": 0.0
+ },
+ {
+  "name": "Verse 1",
+  "t": 16.68
+ },
+ {
+  "name": "Verse 2",
+  "t": 57.29
+ },
+ {
+  "name": "Pre-chorus",
+  "t": 84.73
+ },
+ {
+  "name": "Chorus 1",
+  "t": 97.9
+ },
+ {
+  "name": "Verse 3",
+  "t": 127.98
+ },
+ {
+  "name": "Her letter",
+  "t": 162.05
+ },
+ {
+  "name": "Chorus 2",
+  "t": 174.81
+ },
+ {
+  "name": "Bridge",
+  "t": 201.3
+ },
+ {
+  "name": "Final chorus",
+  "t": 253.48
+ },
+ {
+  "name": "Outro",
+  "t": 291.78
+ },
+ {
+  "name": "Whisper",
+  "t": 312.61
+ },
+ {
+  "name": "Tail",
+  "t": 318.12
+ }
+]
