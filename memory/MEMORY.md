@@ -25,3 +25,4 @@ Copy the files into a project's memory directory and keep this index in its MEMO
 - [Medium pass](feedback-medium-pass.md): look first, anchor frames, one medium and one light for everything, characters too
 - [Checks registry](feedback-checks-registry.md): gates answer checks.json; uncaught errors become checks; film-qc.py on renders
 - [Project template](project-film-template.md): the per-film project memory to keep current
+- [Sponsor Me](project-sponsor-me.md): the World Vision film; brief, standing rules, decisions owed
