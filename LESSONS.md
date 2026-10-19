@@ -98,6 +98,23 @@ marked **(Agnosto Theo)** come from the second film, made on a 16 GB Intel i9 Ma
   subtitle track; the vocal stem showed it and whisper read it. Scan the stem to the last sample.
 - **Suno's line times were good where it did not compress repeats** (within 0.3 s), and 6–20 s out where it did.
 
+## Timing (Sponsor Me, 2026-10-19)
+
+- **A slow live-feel take drifts in tempo, so a constant grid fails.** Suno's "live worship" take ran 72.45 bpm in the
+  verses, 72.9 in chorus 2 and 73.3 in the bridge and final chorus. `analyze.py`'s constant fit (72.28 bpm) missed the
+  snares by 125 ms median and 340 ms at worst. A beat tracker on the drum stem plus the mix (librosa `beat_track`,
+  start 72.7 bpm, tightness 300) put all 143 snares within 10 ms. Its beats replaced the grid in `audio.json`. Check
+  the snares against the grid on every take: median offset over about 30 ms means the tempo moves.
+- **A tempo near 72 reads as 144 at first.** `song-analyze.py` searches 90–180 bpm and reported 144.5, with 72.3
+  outside its range. The drum stem's snare spacing (1.65 s, on beats 2 and 4) decided it.
+- **The bar phase was clear when the chords and the drums agreed.** The kicks (3.2 times the mean) and the chord
+  changes (3.6 times) fell on the same beat of the four. Score both, not the drums alone.
+- **Two voices at once defeat the alignment.** The girl's echoes overlapping the congregation's "We will" squashed
+  three lines into 1.1 s. `align.json` windows from whisper's word times fixed the four lines. The overlapping calls
+  stay out of `lyrics.src.json` and are timed from the pitch track instead (a child's voice sits well above the lead).
+- **Whisper heard the overlapping calls only when prompted,** and a prompt can make whisper hear what it is told.
+  Confirm a prompted hearing with the pitch track or the stem's energy before relying on it.
+
 ## Rendering
 
 - **Raw frames out of headless Chromium leak memory nobody owns.**

@@ -5,6 +5,9 @@
 
 Written by Claude for Gareth (director) · 19 October 2026 · first draft, before the take.
 
+**The take is measured and the screenplay is timed to it:** `sponsor-me-screenplay.md` (19 October 2026). Where the
+two differ, the screenplay wins. Its section 2 lists what the measurements changed.
+
 This is the film written down before any of it is built (METHOD.md, phase 4). It holds everything that does not
 depend on the recording: the idea, the rules, the look to explore, the motifs, the cast, and the script section by
 section. The time bands, the spotting times and the plates table come once a take is chosen and measured (phase 3).

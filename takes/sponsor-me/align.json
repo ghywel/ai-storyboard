@@ -1,0 +1,10 @@
+{
+ "line_windows": {
+  "70": [275.6, 279.6],
+  "71": [279.5, 282.0],
+  "72": [283.4, 285.6],
+  "73": [285.7, 287.5],
+  "74": [287.5, 289.6]
+ },
+ "notes": "The final chorus's four 'We will' lines overlap the girl's extra 'Will you sponsor me?' calls (pitch track: about 282.5 and 285-286 s, 560-760 Hz), which are not in lyrics.src.json because one Viterbi path cannot follow two voices. Without windows the aligner squashed lines 71-73 into 278.7-279.8 s. Windows from whisper's word times (279.70, 283.70, 285.92, 287.64)."
+}

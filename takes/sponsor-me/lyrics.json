@@ -1,0 +1,3608 @@
+{
+  "lines": [
+    {
+      "i": 0,
+      "text": "Five in the morning, before the cockerel,",
+      "start": 16.532,
+      "end": 21.666,
+      "words": [
+        {
+          "w": "Five",
+          "start": 16.532,
+          "end": 17.32,
+          "conf": 0.85
+        },
+        {
+          "w": "in",
+          "start": 17.32,
+          "end": 17.58,
+          "conf": 0.77
+        },
+        {
+          "w": "the",
+          "start": 17.58,
+          "end": 17.92,
+          "conf": 0.99
+        },
+        {
+          "w": "morning,",
+          "start": 17.92,
+          "end": 19.067,
+          "conf": 0.96
+        },
+        {
+          "w": "before",
+          "start": 20.24,
+          "end": 20.68,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 20.68,
+          "end": 20.778,
+          "conf": 0.85
+        },
+        {
+          "w": "cockerel,",
+          "start": 20.86,
+          "end": 21.666,
+          "conf": 0.99
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "text": "She's on the road with a yellow can.",
+      "start": 22.649,
+      "end": 25.612,
+      "words": [
+        {
+          "w": "She's",
+          "start": 22.649,
+          "end": 22.978,
+          "conf": 0.85
+        },
+        {
+          "w": "on",
+          "start": 22.978,
+          "end": 23.14,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 23.14,
+          "end": 23.34,
+          "conf": 1.0
+        },
+        {
+          "w": "road",
+          "start": 23.34,
+          "end": 23.766,
+          "conf": 1.0
+        },
+        {
+          "w": "with",
+          "start": 23.766,
+          "end": 24.06,
+          "conf": 0.85
+        },
+        {
+          "w": "a",
+          "start": 24.06,
+          "end": 24.18,
+          "conf": 0.99
+        },
+        {
+          "w": "yellow",
+          "start": 24.18,
+          "end": 24.709,
+          "conf": 1.0
+        },
+        {
+          "w": "can.",
+          "start": 24.78,
+          "end": 25.612,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "text": "Red dust, bare feet, an hour each way,",
+      "start": 27.802,
+      "end": 31.369,
+      "words": [
+        {
+          "w": "Red",
+          "start": 27.802,
+          "end": 28.3,
+          "conf": 0.85
+        },
+        {
+          "w": "dust,",
+          "start": 28.3,
+          "end": 28.655,
+          "conf": 0.85
+        },
+        {
+          "w": "bare",
+          "start": 28.74,
+          "end": 29.044,
+          "conf": 1.0
+        },
+        {
+          "w": "feet,",
+          "start": 29.044,
+          "end": 29.463,
+          "conf": 1.0
+        },
+        {
+          "w": "an",
+          "start": 29.588,
+          "end": 30.16,
+          "conf": 0.85
+        },
+        {
+          "w": "hour",
+          "start": 30.16,
+          "end": 30.52,
+          "conf": 0.77
+        },
+        {
+          "w": "each",
+          "start": 30.52,
+          "end": 30.82,
+          "conf": 0.85
+        },
+        {
+          "w": "way,",
+          "start": 30.82,
+          "end": 31.369,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "text": "And it's heavier coming home.",
+      "start": 32.74,
+      "end": 34.776,
+      "words": [
+        {
+          "w": "And",
+          "start": 32.74,
+          "end": 32.87,
+          "conf": 0.92
+        },
+        {
+          "w": "it's",
+          "start": 32.87,
+          "end": 33.04,
+          "conf": 1.0
+        },
+        {
+          "w": "heavier",
+          "start": 33.04,
+          "end": 33.649,
+          "conf": 1.0
+        },
+        {
+          "w": "coming",
+          "start": 33.78,
+          "end": 34.222,
+          "conf": 0.85
+        },
+        {
+          "w": "home.",
+          "start": 34.222,
+          "end": 34.776,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "text": "She's seven. Same as my eldest.",
+      "start": 37.415,
+      "end": 40.054,
+      "words": [
+        {
+          "w": "She's",
+          "start": 37.415,
+          "end": 37.819,
+          "conf": 0.85
+        },
+        {
+          "w": "seven.",
+          "start": 37.819,
+          "end": 38.223,
+          "conf": 1.0
+        },
+        {
+          "w": "Same",
+          "start": 38.223,
+          "end": 38.8,
+          "conf": 1.0
+        },
+        {
+          "w": "as",
+          "start": 38.8,
+          "end": 38.912,
+          "conf": 0.85
+        },
+        {
+          "w": "my",
+          "start": 38.912,
+          "end": 39.42,
+          "conf": 1.0
+        },
+        {
+          "w": "eldest.",
+          "start": 39.42,
+          "end": 40.054,
+          "conf": 0.77
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "text": "The water's brown. She drinks it anyway.",
+      "start": 40.358,
+      "end": 43.616,
+      "words": [
+        {
+          "w": "The",
+          "start": 40.358,
+          "end": 40.76,
+          "conf": 0.85
+        },
+        {
+          "w": "water's",
+          "start": 40.76,
+          "end": 41.266,
+          "conf": 0.95
+        },
+        {
+          "w": "brown.",
+          "start": 41.266,
+          "end": 41.805,
+          "conf": 1.0
+        },
+        {
+          "w": "She",
+          "start": 41.805,
+          "end": 42.069,
+          "conf": 1.0
+        },
+        {
+          "w": "drinks",
+          "start": 42.069,
+          "end": 42.508,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 42.508,
+          "end": 42.718,
+          "conf": 1.0
+        },
+        {
+          "w": "anyway.",
+          "start": 42.718,
+          "end": 43.616,
+          "conf": 0.92
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "text": "Her brother coughs all night.",
+      "start": 44.025,
+      "end": 46.29,
+      "words": [
+        {
+          "w": "Her",
+          "start": 44.025,
+          "end": 44.5,
+          "conf": 0.85
+        },
+        {
+          "w": "brother",
+          "start": 44.5,
+          "end": 44.828,
+          "conf": 1.0
+        },
+        {
+          "w": "coughs",
+          "start": 44.92,
+          "end": 45.447,
+          "conf": 0.99
+        },
+        {
+          "w": "all",
+          "start": 45.447,
+          "end": 45.8,
+          "conf": 0.92
+        },
+        {
+          "w": "night.",
+          "start": 45.8,
+          "end": 46.29,
+          "conf": 0.96
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "text": "She walks the long way round the school",
+      "start": 46.8,
+      "end": 49.66,
+      "words": [
+        {
+          "w": "She",
+          "start": 46.8,
+          "end": 46.923,
+          "conf": 0.85
+        },
+        {
+          "w": "walks",
+          "start": 46.923,
+          "end": 47.28,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 47.28,
+          "end": 47.48,
+          "conf": 1.0
+        },
+        {
+          "w": "long",
+          "start": 47.48,
+          "end": 47.9,
+          "conf": 1.0
+        },
+        {
+          "w": "way",
+          "start": 47.9,
+          "end": 48.3,
+          "conf": 0.85
+        },
+        {
+          "w": "round",
+          "start": 48.3,
+          "end": 48.66,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 48.66,
+          "end": 48.759,
+          "conf": 1.0
+        },
+        {
+          "w": "school",
+          "start": 48.759,
+          "end": 49.66,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "text": "And doesn't go in.",
+      "start": 49.66,
+      "end": 52.037,
+      "words": [
+        {
+          "w": "And",
+          "start": 49.66,
+          "end": 49.966,
+          "conf": 0.85
+        },
+        {
+          "w": "doesn't",
+          "start": 49.966,
+          "end": 50.45,
+          "conf": 0.85
+        },
+        {
+          "w": "go",
+          "start": 50.45,
+          "end": 51.32,
+          "conf": 1.0
+        },
+        {
+          "w": "in.",
+          "start": 51.32,
+          "end": 52.037,
+          "conf": 0.61
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "text": "Seven in the morning, green and pleasant land,",
+      "start": 57.205,
+      "end": 60.103,
+      "words": [
+        {
+          "w": "Seven",
+          "start": 57.205,
+          "end": 57.614,
+          "conf": 0.85
+        },
+        {
+          "w": "in",
+          "start": 57.614,
+          "end": 57.8,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 57.8,
+          "end": 57.94,
+          "conf": 1.0
+        },
+        {
+          "w": "morning,",
+          "start": 57.94,
+          "end": 58.56,
+          "conf": 1.0
+        },
+        {
+          "w": "green",
+          "start": 58.56,
+          "end": 58.96,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 58.96,
+          "end": 59.121,
+          "conf": 1.0
+        },
+        {
+          "w": "pleasant",
+          "start": 59.121,
+          "end": 59.545,
+          "conf": 1.0
+        },
+        {
+          "w": "land,",
+          "start": 59.545,
+          "end": 60.103,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "text": "The boiler hums, the tap runs hot,",
+      "start": 60.5,
+      "end": 63.057,
+      "words": [
+        {
+          "w": "The",
+          "start": 60.5,
+          "end": 60.68,
+          "conf": 0.85
+        },
+        {
+          "w": "boiler",
+          "start": 60.68,
+          "end": 60.956,
+          "conf": 1.0
+        },
+        {
+          "w": "hums,",
+          "start": 60.956,
+          "end": 61.78,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 61.78,
+          "end": 61.94,
+          "conf": 1.0
+        },
+        {
+          "w": "tap",
+          "start": 61.94,
+          "end": 62.308,
+          "conf": 1.0
+        },
+        {
+          "w": "runs",
+          "start": 62.308,
+          "end": 62.658,
+          "conf": 1.0
+        },
+        {
+          "w": "hot,",
+          "start": 62.658,
+          "end": 63.057,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "text": "My boys are fighting over cereal",
+      "start": 63.91,
+      "end": 66.399,
+      "words": [
+        {
+          "w": "My",
+          "start": 63.91,
+          "end": 64.42,
+          "conf": 0.85
+        },
+        {
+          "w": "boys",
+          "start": 64.42,
+          "end": 64.76,
+          "conf": 1.0
+        },
+        {
+          "w": "are",
+          "start": 64.76,
+          "end": 64.858,
+          "conf": 1.0
+        },
+        {
+          "w": "fighting",
+          "start": 64.858,
+          "end": 65.42,
+          "conf": 1.0
+        },
+        {
+          "w": "over",
+          "start": 65.42,
+          "end": 65.586,
+          "conf": 0.85
+        },
+        {
+          "w": "cereal",
+          "start": 65.586,
+          "end": 66.399,
+          "conf": 0.96
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "text": "And I'm moaning that the Wi-Fi's slow.",
+      "start": 66.778,
+      "end": 69.302,
+      "words": [
+        {
+          "w": "And",
+          "start": 66.778,
+          "end": 66.918,
+          "conf": 0.85
+        },
+        {
+          "w": "I'm",
+          "start": 66.918,
+          "end": 67.16,
+          "conf": 0.98
+        },
+        {
+          "w": "moaning",
+          "start": 67.16,
+          "end": 67.74,
+          "conf": 1.0
+        },
+        {
+          "w": "that",
+          "start": 67.74,
+          "end": 67.88,
+          "conf": 0.91
+        },
+        {
+          "w": "the",
+          "start": 67.88,
+          "end": 68.02,
+          "conf": 1.0
+        },
+        {
+          "w": "Wi-Fi's",
+          "start": 68.02,
+          "end": 68.739,
+          "conf": 0.92,
+          "syl": [
+            [
+              68.02,
+              68.3
+            ],
+            [
+              68.3,
+              68.739
+            ]
+          ]
+        },
+        {
+          "w": "slow.",
+          "start": 68.739,
+          "end": 69.302,
+          "conf": 0.97
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "text": "Two pairs of school shoes by the door,",
+      "start": 70.26,
+      "end": 72.805,
+      "words": [
+        {
+          "w": "Two",
+          "start": 70.26,
+          "end": 70.545,
+          "conf": 0.85
+        },
+        {
+          "w": "pairs",
+          "start": 70.545,
+          "end": 70.88,
+          "conf": 1.0
+        },
+        {
+          "w": "of",
+          "start": 70.88,
+          "end": 70.979,
+          "conf": 1.0
+        },
+        {
+          "w": "school",
+          "start": 70.979,
+          "end": 71.418,
+          "conf": 1.0
+        },
+        {
+          "w": "shoes",
+          "start": 71.418,
+          "end": 71.822,
+          "conf": 1.0
+        },
+        {
+          "w": "by",
+          "start": 71.822,
+          "end": 72.12,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 72.12,
+          "end": 72.28,
+          "conf": 1.0
+        },
+        {
+          "w": "door,",
+          "start": 72.28,
+          "end": 72.805,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "text": "Two lunchboxes, two coats, two futures,",
+      "start": 72.98,
+      "end": 76.077,
+      "words": [
+        {
+          "w": "Two",
+          "start": 72.98,
+          "end": 73.2,
+          "conf": 0.85
+        },
+        {
+          "w": "lunchboxes,",
+          "start": 73.2,
+          "end": 74.22,
+          "conf": 0.92
+        },
+        {
+          "w": "two",
+          "start": 74.22,
+          "end": 74.436,
+          "conf": 1.0
+        },
+        {
+          "w": "coats,",
+          "start": 74.5,
+          "end": 75.1,
+          "conf": 1.0
+        },
+        {
+          "w": "two",
+          "start": 75.1,
+          "end": 75.339,
+          "conf": 1.0
+        },
+        {
+          "w": "futures,",
+          "start": 75.339,
+          "end": 76.077,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "text": "And her face came up on my phone again,",
+      "start": 76.242,
+      "end": 78.761,
+      "words": [
+        {
+          "w": "And",
+          "start": 76.242,
+          "end": 76.761,
+          "conf": 0.85
+        },
+        {
+          "w": "her",
+          "start": 76.761,
+          "end": 76.86,
+          "conf": 0.84
+        },
+        {
+          "w": "face",
+          "start": 76.86,
+          "end": 77.269,
+          "conf": 1.0
+        },
+        {
+          "w": "came",
+          "start": 77.269,
+          "end": 77.48,
+          "conf": 1.0
+        },
+        {
+          "w": "up",
+          "start": 77.48,
+          "end": 77.64,
+          "conf": 1.0
+        },
+        {
+          "w": "on",
+          "start": 77.64,
+          "end": 77.78,
+          "conf": 1.0
+        },
+        {
+          "w": "my",
+          "start": 77.78,
+          "end": 78.04,
+          "conf": 1.0
+        },
+        {
+          "w": "phone",
+          "start": 78.04,
+          "end": 78.4,
+          "conf": 1.0
+        },
+        {
+          "w": "again,",
+          "start": 78.4,
+          "end": 78.761,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "text": "And I scrolled on by.",
+      "start": 80.08,
+      "end": 81.47,
+      "words": [
+        {
+          "w": "And",
+          "start": 80.08,
+          "end": 80.193,
+          "conf": 0.85
+        },
+        {
+          "w": "I",
+          "start": 80.193,
+          "end": 80.293,
+          "conf": 1.0
+        },
+        {
+          "w": "scrolled",
+          "start": 80.293,
+          "end": 80.826,
+          "conf": 1.0
+        },
+        {
+          "w": "on",
+          "start": 80.826,
+          "end": 81.08,
+          "conf": 0.99
+        },
+        {
+          "w": "by.",
+          "start": 81.08,
+          "end": 81.47,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "text": "Once, I said I'd do it later.",
+      "start": 84.638,
+      "end": 87.98,
+      "words": [
+        {
+          "w": "Once,",
+          "start": 84.638,
+          "end": 85.521,
+          "conf": 0.69
+        },
+        {
+          "w": "I",
+          "start": 85.88,
+          "end": 85.98,
+          "conf": 0.85
+        },
+        {
+          "w": "said",
+          "start": 85.98,
+          "end": 86.279,
+          "conf": 1.0
+        },
+        {
+          "w": "I'd",
+          "start": 86.279,
+          "end": 86.48,
+          "conf": 0.98
+        },
+        {
+          "w": "do",
+          "start": 86.48,
+          "end": 86.86,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 86.86,
+          "end": 87.012,
+          "conf": 0.77
+        },
+        {
+          "w": "later.",
+          "start": 87.012,
+          "end": 87.98,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "text": "Twice, I said what difference can one man make.",
+      "start": 87.98,
+      "end": 91.248,
+      "words": [
+        {
+          "w": "Twice,",
+          "start": 87.98,
+          "end": 88.78,
+          "conf": 0.81
+        },
+        {
+          "w": "I",
+          "start": 88.78,
+          "end": 88.878,
+          "conf": 0.85
+        },
+        {
+          "w": "said",
+          "start": 88.878,
+          "end": 89.16,
+          "conf": 0.92
+        },
+        {
+          "w": "what",
+          "start": 89.16,
+          "end": 89.297,
+          "conf": 1.0
+        },
+        {
+          "w": "difference",
+          "start": 89.38,
+          "end": 89.8,
+          "conf": 1.0
+        },
+        {
+          "w": "can",
+          "start": 89.8,
+          "end": 90.2,
+          "conf": 1.0
+        },
+        {
+          "w": "one",
+          "start": 90.2,
+          "end": 90.42,
+          "conf": 0.85
+        },
+        {
+          "w": "man",
+          "start": 90.42,
+          "end": 90.84,
+          "conf": 0.98
+        },
+        {
+          "w": "make.",
+          "start": 90.84,
+          "end": 91.248,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "text": "Three times I scrolled on by,",
+      "start": 91.248,
+      "end": 95.343,
+      "words": [
+        {
+          "w": "Three",
+          "start": 91.248,
+          "end": 91.84,
+          "conf": 1.0
+        },
+        {
+          "w": "times",
+          "start": 91.84,
+          "end": 92.669,
+          "conf": 0.85
+        },
+        {
+          "w": "I",
+          "start": 92.669,
+          "end": 92.879,
+          "conf": 0.85
+        },
+        {
+          "w": "scrolled",
+          "start": 92.879,
+          "end": 93.98,
+          "conf": 1.0
+        },
+        {
+          "w": "on",
+          "start": 93.98,
+          "end": 94.34,
+          "conf": 0.75
+        },
+        {
+          "w": "by,",
+          "start": 94.34,
+          "end": 95.343,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "text": "And somewhere a cockerel cried.",
+      "start": 95.752,
+      "end": 98.756,
+      "words": [
+        {
+          "w": "And",
+          "start": 95.752,
+          "end": 95.907,
+          "conf": 0.84
+        },
+        {
+          "w": "somewhere",
+          "start": 95.907,
+          "end": 96.88,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 96.88,
+          "end": 97.0,
+          "conf": 0.69
+        },
+        {
+          "w": "cockerel",
+          "start": 97.0,
+          "end": 97.66,
+          "conf": 0.8
+        },
+        {
+          "w": "cried.",
+          "start": 97.66,
+          "end": 98.756,
+          "conf": 0.83
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "text": "Holy, holy,",
+      "start": 98.756,
+      "end": 102.143,
+      "words": [
+        {
+          "w": "Holy,",
+          "start": 98.756,
+          "end": 100.362,
+          "conf": 0.6
+        },
+        {
+          "w": "holy,",
+          "start": 100.362,
+          "end": 102.143,
+          "conf": 0.68
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "text": "Wake me from my sleep.",
+      "start": 102.143,
+      "end": 105.57,
+      "words": [
+        {
+          "w": "Wake",
+          "start": 102.143,
+          "end": 102.62,
+          "conf": 1.0
+        },
+        {
+          "w": "me",
+          "start": 102.62,
+          "end": 102.861,
+          "conf": 0.96
+        },
+        {
+          "w": "from",
+          "start": 102.861,
+          "end": 103.66,
+          "conf": 0.97
+        },
+        {
+          "w": "my",
+          "start": 103.66,
+          "end": 104.004,
+          "conf": 0.78
+        },
+        {
+          "w": "sleep.",
+          "start": 104.004,
+          "end": 105.57,
+          "conf": 0.95
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "text": "Every face that I scrolled past",
+      "start": 105.57,
+      "end": 108.813,
+      "words": [
+        {
+          "w": "Every",
+          "start": 105.57,
+          "end": 106.009,
+          "conf": 0.85
+        },
+        {
+          "w": "face",
+          "start": 106.009,
+          "end": 106.78,
+          "conf": 1.0
+        },
+        {
+          "w": "that",
+          "start": 106.78,
+          "end": 107.16,
+          "conf": 1.0
+        },
+        {
+          "w": "I",
+          "start": 107.16,
+          "end": 107.256,
+          "conf": 0.59
+        },
+        {
+          "w": "scrolled",
+          "start": 107.256,
+          "end": 107.985,
+          "conf": 0.91
+        },
+        {
+          "w": "past",
+          "start": 107.985,
+          "end": 108.813,
+          "conf": 0.96
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "text": "Was You, looking at me.",
+      "start": 108.813,
+      "end": 112.14,
+      "words": [
+        {
+          "w": "Was",
+          "start": 108.813,
+          "end": 109.24,
+          "conf": 1.0
+        },
+        {
+          "w": "You,",
+          "start": 109.24,
+          "end": 110.04,
+          "conf": 0.85
+        },
+        {
+          "w": "looking",
+          "start": 110.04,
+          "end": 110.7,
+          "conf": 0.85
+        },
+        {
+          "w": "at",
+          "start": 110.7,
+          "end": 110.92,
+          "conf": 0.68
+        },
+        {
+          "w": "me.",
+          "start": 110.92,
+          "end": 112.14,
+          "conf": 0.75
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "text": "Will you sponsor me?",
+      "start": 112.14,
+      "end": 115.44,
+      "words": [
+        {
+          "w": "Will",
+          "start": 112.14,
+          "end": 112.6,
+          "conf": 0.71
+        },
+        {
+          "w": "you",
+          "start": 112.6,
+          "end": 112.759,
+          "conf": 0.75
+        },
+        {
+          "w": "sponsor",
+          "start": 112.759,
+          "end": 114.26,
+          "conf": 0.87
+        },
+        {
+          "w": "me?",
+          "start": 114.26,
+          "end": 115.44,
+          "conf": 0.52
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "text": "With the help of God, I will.",
+      "start": 115.44,
+      "end": 118.92,
+      "words": [
+        {
+          "w": "With",
+          "start": 115.44,
+          "end": 115.612,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 115.612,
+          "end": 115.971,
+          "conf": 0.87
+        },
+        {
+          "w": "help",
+          "start": 115.971,
+          "end": 116.485,
+          "conf": 1.0
+        },
+        {
+          "w": "of",
+          "start": 116.485,
+          "end": 116.88,
+          "conf": 0.92
+        },
+        {
+          "w": "God,",
+          "start": 116.88,
+          "end": 117.68,
+          "conf": 1.0
+        },
+        {
+          "w": "I",
+          "start": 117.68,
+          "end": 117.92,
+          "conf": 0.82
+        },
+        {
+          "w": "will.",
+          "start": 117.92,
+          "end": 118.92,
+          "conf": 0.82
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "text": "Will you sponsor me?",
+      "start": 118.92,
+      "end": 122.04,
+      "words": [
+        {
+          "w": "Will",
+          "start": 118.92,
+          "end": 119.16,
+          "conf": 0.67
+        },
+        {
+          "w": "you",
+          "start": 119.16,
+          "end": 119.324,
+          "conf": 0.91
+        },
+        {
+          "w": "sponsor",
+          "start": 119.324,
+          "end": 120.86,
+          "conf": 0.87
+        },
+        {
+          "w": "me?",
+          "start": 120.86,
+          "end": 122.04,
+          "conf": 0.67
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "text": "With the help of God, I will.",
+      "start": 122.04,
+      "end": 125.096,
+      "words": [
+        {
+          "w": "With",
+          "start": 122.04,
+          "end": 122.3,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 122.3,
+          "end": 122.561,
+          "conf": 1.0
+        },
+        {
+          "w": "help",
+          "start": 122.561,
+          "end": 123.15,
+          "conf": 1.0
+        },
+        {
+          "w": "of",
+          "start": 123.15,
+          "end": 123.39,
+          "conf": 0.92
+        },
+        {
+          "w": "God,",
+          "start": 123.48,
+          "end": 124.24,
+          "conf": 0.99
+        },
+        {
+          "w": "I",
+          "start": 124.24,
+          "end": 124.48,
+          "conf": 0.85
+        },
+        {
+          "w": "will.",
+          "start": 124.48,
+          "end": 125.096,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "text": "A pound a day. A pound a day.",
+      "start": 128.039,
+      "end": 130.309,
+      "words": [
+        {
+          "w": "A",
+          "start": 128.039,
+          "end": 128.229,
+          "conf": 0.78
+        },
+        {
+          "w": "pound",
+          "start": 128.229,
+          "end": 128.558,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 128.558,
+          "end": 128.683,
+          "conf": 1.0
+        },
+        {
+          "w": "day.",
+          "start": 128.683,
+          "end": 129.122,
+          "conf": 1.0
+        },
+        {
+          "w": "A",
+          "start": 129.32,
+          "end": 129.44,
+          "conf": 0.84
+        },
+        {
+          "w": "pound",
+          "start": 129.44,
+          "end": 129.79,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 129.79,
+          "end": 129.9,
+          "conf": 1.0
+        },
+        {
+          "w": "day.",
+          "start": 129.9,
+          "end": 130.309,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "text": "Less than the coffee going cold beside me.",
+      "start": 131.047,
+      "end": 133.881,
+      "words": [
+        {
+          "w": "Less",
+          "start": 131.047,
+          "end": 131.536,
+          "conf": 0.85
+        },
+        {
+          "w": "than",
+          "start": 131.536,
+          "end": 131.7,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 131.7,
+          "end": 131.86,
+          "conf": 1.0
+        },
+        {
+          "w": "coffee",
+          "start": 131.86,
+          "end": 132.17,
+          "conf": 1.0
+        },
+        {
+          "w": "going",
+          "start": 132.17,
+          "end": 132.624,
+          "conf": 1.0
+        },
+        {
+          "w": "cold",
+          "start": 132.624,
+          "end": 133.107,
+          "conf": 1.0
+        },
+        {
+          "w": "beside",
+          "start": 133.107,
+          "end": 133.62,
+          "conf": 1.0
+        },
+        {
+          "w": "me.",
+          "start": 133.62,
+          "end": 133.881,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "text": "It doesn't go in her pocket, it goes in the ground:",
+      "start": 134.13,
+      "end": 137.273,
+      "words": [
+        {
+          "w": "It",
+          "start": 134.13,
+          "end": 134.74,
+          "conf": 0.85
+        },
+        {
+          "w": "doesn't",
+          "start": 134.74,
+          "end": 135.063,
+          "conf": 1.0
+        },
+        {
+          "w": "go",
+          "start": 135.063,
+          "end": 135.22,
+          "conf": 1.0
+        },
+        {
+          "w": "in",
+          "start": 135.22,
+          "end": 135.32,
+          "conf": 1.0
+        },
+        {
+          "w": "her",
+          "start": 135.32,
+          "end": 135.442,
+          "conf": 0.99
+        },
+        {
+          "w": "pocket,",
+          "start": 135.52,
+          "end": 136.02,
+          "conf": 1.0
+        },
+        {
+          "w": "it",
+          "start": 136.02,
+          "end": 136.12,
+          "conf": 0.85
+        },
+        {
+          "w": "goes",
+          "start": 136.12,
+          "end": 136.365,
+          "conf": 1.0
+        },
+        {
+          "w": "in",
+          "start": 136.365,
+          "end": 136.52,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 136.52,
+          "end": 136.64,
+          "conf": 1.0
+        },
+        {
+          "w": "ground:",
+          "start": 136.64,
+          "end": 137.273,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "text": "A well, a nurse, a classroom roof,",
+      "start": 137.54,
+      "end": 140.36,
+      "words": [
+        {
+          "w": "A",
+          "start": 137.54,
+          "end": 137.64,
+          "conf": 0.85
+        },
+        {
+          "w": "well,",
+          "start": 137.64,
+          "end": 138.036,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 138.42,
+          "end": 138.59,
+          "conf": 0.85
+        },
+        {
+          "w": "nurse,",
+          "start": 138.59,
+          "end": 139.034,
+          "conf": 0.99
+        },
+        {
+          "w": "a",
+          "start": 139.22,
+          "end": 139.3,
+          "conf": 1.0
+        },
+        {
+          "w": "classroom",
+          "start": 139.3,
+          "end": 139.98,
+          "conf": 1.0
+        },
+        {
+          "w": "roof,",
+          "start": 139.98,
+          "end": 140.36,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "text": "And four more children drinking there beside her.",
+      "start": 140.36,
+      "end": 143.364,
+      "words": [
+        {
+          "w": "And",
+          "start": 140.36,
+          "end": 140.68,
+          "conf": 1.0
+        },
+        {
+          "w": "four",
+          "start": 140.68,
+          "end": 141.14,
+          "conf": 0.85
+        },
+        {
+          "w": "more",
+          "start": 141.14,
+          "end": 141.394,
+          "conf": 1.0
+        },
+        {
+          "w": "children",
+          "start": 141.394,
+          "end": 142.062,
+          "conf": 1.0
+        },
+        {
+          "w": "drinking",
+          "start": 142.062,
+          "end": 142.356,
+          "conf": 0.85
+        },
+        {
+          "w": "there",
+          "start": 142.356,
+          "end": 142.66,
+          "conf": 1.0
+        },
+        {
+          "w": "beside",
+          "start": 142.66,
+          "end": 143.18,
+          "conf": 1.0
+        },
+        {
+          "w": "her.",
+          "start": 143.18,
+          "end": 143.364,
+          "conf": 0.98
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "text": "My son drew her a lion in felt-tip,",
+      "start": 144.432,
+      "end": 146.781,
+      "words": [
+        {
+          "w": "My",
+          "start": 144.432,
+          "end": 144.611,
+          "conf": 0.85
+        },
+        {
+          "w": "son",
+          "start": 144.611,
+          "end": 145.005,
+          "conf": 1.0
+        },
+        {
+          "w": "drew",
+          "start": 145.005,
+          "end": 145.24,
+          "conf": 1.0
+        },
+        {
+          "w": "her",
+          "start": 145.24,
+          "end": 145.38,
+          "conf": 0.97
+        },
+        {
+          "w": "a",
+          "start": 145.38,
+          "end": 145.544,
+          "conf": 0.99
+        },
+        {
+          "w": "lion",
+          "start": 145.544,
+          "end": 145.98,
+          "conf": 1.0
+        },
+        {
+          "w": "in",
+          "start": 145.98,
+          "end": 146.088,
+          "conf": 1.0
+        },
+        {
+          "w": "felt-tip,",
+          "start": 146.088,
+          "end": 146.781,
+          "conf": 0.92,
+          "syl": [
+            [
+              146.088,
+              146.54
+            ],
+            [
+              146.54,
+              146.781
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "text": "Folded it into a padded envelope",
+      "start": 147.31,
+      "end": 149.495,
+      "words": [
+        {
+          "w": "Folded",
+          "start": 147.31,
+          "end": 147.909,
+          "conf": 0.85
+        },
+        {
+          "w": "it",
+          "start": 147.909,
+          "end": 148.049,
+          "conf": 1.0
+        },
+        {
+          "w": "into",
+          "start": 148.049,
+          "end": 148.213,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 148.213,
+          "end": 148.418,
+          "conf": 1.0
+        },
+        {
+          "w": "padded",
+          "start": 148.48,
+          "end": 148.882,
+          "conf": 1.0
+        },
+        {
+          "w": "envelope",
+          "start": 148.882,
+          "end": 149.495,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "text": "With stickers and a pack of crayons,",
+      "start": 149.6,
+      "end": 151.96,
+      "words": [
+        {
+          "w": "With",
+          "start": 149.6,
+          "end": 149.715,
+          "conf": 0.85
+        },
+        {
+          "w": "stickers",
+          "start": 149.715,
+          "end": 150.528,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 150.528,
+          "end": 150.6,
+          "conf": 0.85
+        },
+        {
+          "w": "a",
+          "start": 150.6,
+          "end": 150.72,
+          "conf": 1.0
+        },
+        {
+          "w": "pack",
+          "start": 150.72,
+          "end": 151.02,
+          "conf": 1.0
+        },
+        {
+          "w": "of",
+          "start": 151.02,
+          "end": 151.14,
+          "conf": 0.95
+        },
+        {
+          "w": "crayons,",
+          "start": 151.14,
+          "end": 151.96,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "text": "And twelve weeks later, through the letterbox:",
+      "start": 152.74,
+      "end": 155.626,
+      "words": [
+        {
+          "w": "And",
+          "start": 152.74,
+          "end": 152.86,
+          "conf": 0.85
+        },
+        {
+          "w": "twelve",
+          "start": 152.86,
+          "end": 153.262,
+          "conf": 1.0
+        },
+        {
+          "w": "weeks",
+          "start": 153.262,
+          "end": 153.56,
+          "conf": 1.0
+        },
+        {
+          "w": "later,",
+          "start": 153.56,
+          "end": 153.985,
+          "conf": 1.0
+        },
+        {
+          "w": "through",
+          "start": 154.484,
+          "end": 154.768,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 154.768,
+          "end": 154.86,
+          "conf": 1.0
+        },
+        {
+          "w": "letterbox:",
+          "start": 154.86,
+          "end": 155.626,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "text": "A house, a blue door, and a sun with a face.",
+      "start": 156.275,
+      "end": 160.455,
+      "words": [
+        {
+          "w": "A",
+          "start": 156.275,
+          "end": 156.46,
+          "conf": 0.85
+        },
+        {
+          "w": "house,",
+          "start": 156.46,
+          "end": 157.138,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 157.268,
+          "end": 157.42,
+          "conf": 1.0
+        },
+        {
+          "w": "blue",
+          "start": 157.42,
+          "end": 157.72,
+          "conf": 1.0
+        },
+        {
+          "w": "door,",
+          "start": 157.72,
+          "end": 158.141,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 158.84,
+          "end": 158.94,
+          "conf": 0.85
+        },
+        {
+          "w": "a",
+          "start": 158.94,
+          "end": 159.039,
+          "conf": 1.0
+        },
+        {
+          "w": "sun",
+          "start": 159.039,
+          "end": 159.547,
+          "conf": 1.0
+        },
+        {
+          "w": "with",
+          "start": 159.62,
+          "end": 159.692,
+          "conf": 0.85
+        },
+        {
+          "w": "a",
+          "start": 159.692,
+          "end": 159.802,
+          "conf": 1.0
+        },
+        {
+          "w": "face.",
+          "start": 159.802,
+          "end": 160.455,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "text": "Dear friend. I am well. The water is clean now.",
+      "start": 162.06,
+      "end": 166.676,
+      "words": [
+        {
+          "w": "Dear",
+          "start": 162.06,
+          "end": 162.286,
+          "conf": 0.85
+        },
+        {
+          "w": "friend.",
+          "start": 162.286,
+          "end": 162.84,
+          "conf": 1.0
+        },
+        {
+          "w": "I",
+          "start": 162.84,
+          "end": 163.16,
+          "conf": 0.85
+        },
+        {
+          "w": "am",
+          "start": 163.16,
+          "end": 163.3,
+          "conf": 1.0
+        },
+        {
+          "w": "well.",
+          "start": 163.3,
+          "end": 163.603,
+          "conf": 1.0
+        },
+        {
+          "w": "The",
+          "start": 165.24,
+          "end": 165.38,
+          "conf": 0.85
+        },
+        {
+          "w": "water",
+          "start": 165.38,
+          "end": 165.708,
+          "conf": 1.0
+        },
+        {
+          "w": "is",
+          "start": 165.708,
+          "end": 165.94,
+          "conf": 1.0
+        },
+        {
+          "w": "clean",
+          "start": 165.94,
+          "end": 166.4,
+          "conf": 1.0
+        },
+        {
+          "w": "now.",
+          "start": 166.4,
+          "end": 166.676,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "text": "I go to school. I am learning to write.",
+      "start": 168.317,
+      "end": 170.458,
+      "words": [
+        {
+          "w": "I",
+          "start": 168.317,
+          "end": 168.46,
+          "conf": 0.85
+        },
+        {
+          "w": "go",
+          "start": 168.46,
+          "end": 168.647,
+          "conf": 1.0
+        },
+        {
+          "w": "to",
+          "start": 168.647,
+          "end": 168.746,
+          "conf": 1.0
+        },
+        {
+          "w": "school.",
+          "start": 168.746,
+          "end": 169.295,
+          "conf": 1.0
+        },
+        {
+          "w": "I",
+          "start": 169.295,
+          "end": 169.46,
+          "conf": 0.85
+        },
+        {
+          "w": "am",
+          "start": 169.46,
+          "end": 169.6,
+          "conf": 1.0
+        },
+        {
+          "w": "learning",
+          "start": 169.6,
+          "end": 169.98,
+          "conf": 1.0
+        },
+        {
+          "w": "to",
+          "start": 169.98,
+          "end": 170.118,
+          "conf": 1.0
+        },
+        {
+          "w": "write.",
+          "start": 170.118,
+          "end": 170.458,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "text": "I drew you my tree.",
+      "start": 172.039,
+      "end": 173.346,
+      "words": [
+        {
+          "w": "I",
+          "start": 172.039,
+          "end": 172.24,
+          "conf": 0.85
+        },
+        {
+          "w": "drew",
+          "start": 172.24,
+          "end": 172.54,
+          "conf": 1.0
+        },
+        {
+          "w": "you",
+          "start": 172.54,
+          "end": 172.72,
+          "conf": 1.0
+        },
+        {
+          "w": "my",
+          "start": 172.72,
+          "end": 172.94,
+          "conf": 1.0
+        },
+        {
+          "w": "tree.",
+          "start": 172.94,
+          "end": 173.346,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "text": "Holy, holy,",
+      "start": 174.663,
+      "end": 177.97,
+      "words": [
+        {
+          "w": "Holy,",
+          "start": 174.663,
+          "end": 176.274,
+          "conf": 0.77
+        },
+        {
+          "w": "holy,",
+          "start": 176.274,
+          "end": 177.97,
+          "conf": 0.77
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "text": "Wake me from my sleep.",
+      "start": 177.97,
+      "end": 181.428,
+      "words": [
+        {
+          "w": "Wake",
+          "start": 177.97,
+          "end": 178.48,
+          "conf": 0.66
+        },
+        {
+          "w": "me",
+          "start": 178.48,
+          "end": 178.739,
+          "conf": 0.94
+        },
+        {
+          "w": "from",
+          "start": 178.739,
+          "end": 179.52,
+          "conf": 0.95
+        },
+        {
+          "w": "my",
+          "start": 179.52,
+          "end": 179.88,
+          "conf": 0.61
+        },
+        {
+          "w": "sleep.",
+          "start": 179.88,
+          "end": 181.428,
+          "conf": 0.7
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "text": "Every face that I scrolled past",
+      "start": 181.428,
+      "end": 184.68,
+      "words": [
+        {
+          "w": "Every",
+          "start": 181.428,
+          "end": 181.852,
+          "conf": 0.77
+        },
+        {
+          "w": "face",
+          "start": 181.852,
+          "end": 182.64,
+          "conf": 0.99
+        },
+        {
+          "w": "that",
+          "start": 182.64,
+          "end": 182.899,
+          "conf": 1.0
+        },
+        {
+          "w": "I",
+          "start": 182.899,
+          "end": 183.079,
+          "conf": 0.9
+        },
+        {
+          "w": "scrolled",
+          "start": 183.079,
+          "end": 183.82,
+          "conf": 0.89
+        },
+        {
+          "w": "past",
+          "start": 183.82,
+          "end": 184.68,
+          "conf": 0.96
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "text": "Was You, looking at me.",
+      "start": 184.68,
+      "end": 188.02,
+      "words": [
+        {
+          "w": "Was",
+          "start": 184.68,
+          "end": 185.1,
+          "conf": 0.87
+        },
+        {
+          "w": "You,",
+          "start": 185.1,
+          "end": 185.92,
+          "conf": 0.89
+        },
+        {
+          "w": "looking",
+          "start": 185.92,
+          "end": 186.48,
+          "conf": 0.81
+        },
+        {
+          "w": "at",
+          "start": 186.48,
+          "end": 186.74,
+          "conf": 0.53
+        },
+        {
+          "w": "me.",
+          "start": 186.74,
+          "end": 188.02,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "text": "Will you sponsor me?",
+      "start": 188.02,
+      "end": 191.225,
+      "words": [
+        {
+          "w": "Will",
+          "start": 188.02,
+          "end": 188.42,
+          "conf": 0.67
+        },
+        {
+          "w": "you",
+          "start": 188.42,
+          "end": 188.591,
+          "conf": 0.65
+        },
+        {
+          "w": "sponsor",
+          "start": 188.591,
+          "end": 190.06,
+          "conf": 0.79
+        },
+        {
+          "w": "me?",
+          "start": 190.06,
+          "end": 191.225,
+          "conf": 0.75
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "text": "With the help of God, I will.",
+      "start": 191.225,
+      "end": 194.62,
+      "words": [
+        {
+          "w": "With",
+          "start": 191.225,
+          "end": 191.5,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 191.5,
+          "end": 191.754,
+          "conf": 1.0
+        },
+        {
+          "w": "help",
+          "start": 191.754,
+          "end": 192.343,
+          "conf": 1.0
+        },
+        {
+          "w": "of",
+          "start": 192.343,
+          "end": 192.7,
+          "conf": 0.92
+        },
+        {
+          "w": "God,",
+          "start": 192.7,
+          "end": 193.52,
+          "conf": 1.0
+        },
+        {
+          "w": "I",
+          "start": 193.52,
+          "end": 193.72,
+          "conf": 0.82
+        },
+        {
+          "w": "will.",
+          "start": 193.72,
+          "end": 194.62,
+          "conf": 0.76
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "text": "Will you sponsor me?",
+      "start": 194.62,
+      "end": 197.421,
+      "words": [
+        {
+          "w": "Will",
+          "start": 194.62,
+          "end": 195.0,
+          "conf": 0.44
+        },
+        {
+          "w": "you",
+          "start": 195.0,
+          "end": 195.156,
+          "conf": 0.51
+        },
+        {
+          "w": "sponsor",
+          "start": 195.156,
+          "end": 196.64,
+          "conf": 0.87
+        },
+        {
+          "w": "me?",
+          "start": 196.64,
+          "end": 197.421,
+          "conf": 0.72
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "text": "With the help of God, I will.",
+      "start": 197.84,
+      "end": 201.362,
+      "words": [
+        {
+          "w": "With",
+          "start": 197.84,
+          "end": 198.1,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 198.1,
+          "end": 198.334,
+          "conf": 0.96
+        },
+        {
+          "w": "help",
+          "start": 198.334,
+          "end": 198.948,
+          "conf": 0.95
+        },
+        {
+          "w": "of",
+          "start": 198.948,
+          "end": 199.28,
+          "conf": 0.89
+        },
+        {
+          "w": "God,",
+          "start": 199.28,
+          "end": 199.92,
+          "conf": 0.96
+        },
+        {
+          "w": "I",
+          "start": 199.92,
+          "end": 200.26,
+          "conf": 0.52
+        },
+        {
+          "w": "will.",
+          "start": 200.26,
+          "end": 201.362,
+          "conf": 0.67
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "text": "You don't have to sing my song",
+      "start": 201.362,
+      "end": 204.78,
+      "words": [
+        {
+          "w": "You",
+          "start": 201.362,
+          "end": 201.56,
+          "conf": 0.85
+        },
+        {
+          "w": "don't",
+          "start": 201.56,
+          "end": 201.886,
+          "conf": 0.92
+        },
+        {
+          "w": "have",
+          "start": 201.886,
+          "end": 202.32,
+          "conf": 0.88
+        },
+        {
+          "w": "to",
+          "start": 202.32,
+          "end": 202.42,
+          "conf": 0.91
+        },
+        {
+          "w": "sing",
+          "start": 202.42,
+          "end": 202.96,
+          "conf": 0.99
+        },
+        {
+          "w": "my",
+          "start": 202.96,
+          "end": 203.373,
+          "conf": 1.0
+        },
+        {
+          "w": "song",
+          "start": 203.373,
+          "end": 204.78,
+          "conf": 0.93
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "text": "To know that this is wrong.",
+      "start": 204.78,
+      "end": 207.927,
+      "words": [
+        {
+          "w": "To",
+          "start": 204.78,
+          "end": 204.894,
+          "conf": 0.81
+        },
+        {
+          "w": "know",
+          "start": 204.894,
+          "end": 205.62,
+          "conf": 0.95
+        },
+        {
+          "w": "that",
+          "start": 205.62,
+          "end": 205.86,
+          "conf": 0.77
+        },
+        {
+          "w": "this",
+          "start": 205.86,
+          "end": 206.321,
+          "conf": 1.0
+        },
+        {
+          "w": "is",
+          "start": 206.321,
+          "end": 206.76,
+          "conf": 0.89
+        },
+        {
+          "w": "wrong.",
+          "start": 206.76,
+          "end": 207.927,
+          "conf": 0.88
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "text": "You don't need my God to see a child",
+      "start": 207.927,
+      "end": 212.24,
+      "words": [
+        {
+          "w": "You",
+          "start": 207.927,
+          "end": 208.12,
+          "conf": 0.85
+        },
+        {
+          "w": "don't",
+          "start": 208.12,
+          "end": 208.5,
+          "conf": 0.93
+        },
+        {
+          "w": "need",
+          "start": 208.5,
+          "end": 208.94,
+          "conf": 0.88
+        },
+        {
+          "w": "my",
+          "start": 208.94,
+          "end": 209.32,
+          "conf": 0.78
+        },
+        {
+          "w": "God",
+          "start": 209.32,
+          "end": 209.74,
+          "conf": 0.85
+        },
+        {
+          "w": "to",
+          "start": 209.74,
+          "end": 209.903,
+          "conf": 0.85
+        },
+        {
+          "w": "see",
+          "start": 209.903,
+          "end": 210.86,
+          "conf": 0.98
+        },
+        {
+          "w": "a",
+          "start": 210.86,
+          "end": 211.205,
+          "conf": 0.71
+        },
+        {
+          "w": "child",
+          "start": 211.205,
+          "end": 212.24,
+          "conf": 0.77
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "text": "Who's been waiting forty days.",
+      "start": 212.24,
+      "end": 215.3,
+      "words": [
+        {
+          "w": "Who's",
+          "start": 212.24,
+          "end": 212.6,
+          "conf": 0.85
+        },
+        {
+          "w": "been",
+          "start": 212.6,
+          "end": 213.0,
+          "conf": 1.0
+        },
+        {
+          "w": "waiting",
+          "start": 213.0,
+          "end": 214.173,
+          "conf": 0.94
+        },
+        {
+          "w": "forty",
+          "start": 214.22,
+          "end": 214.84,
+          "conf": 0.84
+        },
+        {
+          "w": "days.",
+          "start": 214.84,
+          "end": 215.3,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "text": "But I see a table long as the sky,",
+      "start": 215.3,
+      "end": 218.96,
+      "words": [
+        {
+          "w": "But",
+          "start": 215.3,
+          "end": 215.68,
+          "conf": 0.97
+        },
+        {
+          "w": "I",
+          "start": 215.68,
+          "end": 215.78,
+          "conf": 0.73
+        },
+        {
+          "w": "see",
+          "start": 215.78,
+          "end": 216.2,
+          "conf": 0.94
+        },
+        {
+          "w": "a",
+          "start": 216.2,
+          "end": 216.44,
+          "conf": 0.63
+        },
+        {
+          "w": "table",
+          "start": 216.44,
+          "end": 217.12,
+          "conf": 0.84
+        },
+        {
+          "w": "long",
+          "start": 217.12,
+          "end": 217.551,
+          "conf": 1.0
+        },
+        {
+          "w": "as",
+          "start": 217.551,
+          "end": 217.81,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 217.81,
+          "end": 217.91,
+          "conf": 0.96
+        },
+        {
+          "w": "sky,",
+          "start": 217.91,
+          "end": 218.96,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "text": "Laid on a mountain in the light,",
+      "start": 218.96,
+      "end": 222.434,
+      "words": [
+        {
+          "w": "Laid",
+          "start": 218.96,
+          "end": 219.401,
+          "conf": 0.79
+        },
+        {
+          "w": "on",
+          "start": 219.401,
+          "end": 219.64,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 219.64,
+          "end": 219.76,
+          "conf": 0.98
+        },
+        {
+          "w": "mountain",
+          "start": 219.76,
+          "end": 220.7,
+          "conf": 0.97
+        },
+        {
+          "w": "in",
+          "start": 220.7,
+          "end": 221.0,
+          "conf": 0.77
+        },
+        {
+          "w": "the",
+          "start": 221.0,
+          "end": 221.2,
+          "conf": 1.0
+        },
+        {
+          "w": "light,",
+          "start": 221.2,
+          "end": 222.434,
+          "conf": 0.89
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "text": "Every nation, every tribe and tongue,",
+      "start": 222.434,
+      "end": 226.1,
+      "words": [
+        {
+          "w": "Every",
+          "start": 222.434,
+          "end": 223.02,
+          "conf": 0.85
+        },
+        {
+          "w": "nation,",
+          "start": 223.02,
+          "end": 223.682,
+          "conf": 0.85
+        },
+        {
+          "w": "every",
+          "start": 224.061,
+          "end": 224.54,
+          "conf": 0.85
+        },
+        {
+          "w": "tribe",
+          "start": 224.54,
+          "end": 225.138,
+          "conf": 0.99
+        },
+        {
+          "w": "and",
+          "start": 225.138,
+          "end": 225.64,
+          "conf": 0.77
+        },
+        {
+          "w": "tongue,",
+          "start": 225.64,
+          "end": 226.1,
+          "conf": 0.88
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "text": "No colour, no border, no first, no last,",
+      "start": 226.1,
+      "end": 229.414,
+      "words": [
+        {
+          "w": "No",
+          "start": 226.1,
+          "end": 226.4,
+          "conf": 0.83
+        },
+        {
+          "w": "colour,",
+          "start": 226.4,
+          "end": 226.92,
+          "conf": 0.86
+        },
+        {
+          "w": "no",
+          "start": 226.92,
+          "end": 227.3,
+          "conf": 0.89
+        },
+        {
+          "w": "border,",
+          "start": 227.3,
+          "end": 227.68,
+          "conf": 0.67
+        },
+        {
+          "w": "no",
+          "start": 227.68,
+          "end": 228.12,
+          "conf": 0.94
+        },
+        {
+          "w": "first,",
+          "start": 228.12,
+          "end": 228.58,
+          "conf": 0.63
+        },
+        {
+          "w": "no",
+          "start": 228.58,
+          "end": 228.94,
+          "conf": 0.84
+        },
+        {
+          "w": "last,",
+          "start": 228.94,
+          "end": 229.414,
+          "conf": 0.78
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "text": "And a chair beside her with your name on.",
+      "start": 229.414,
+      "end": 233.804,
+      "words": [
+        {
+          "w": "And",
+          "start": 229.414,
+          "end": 229.6,
+          "conf": 0.88
+        },
+        {
+          "w": "a",
+          "start": 229.6,
+          "end": 229.698,
+          "conf": 0.95
+        },
+        {
+          "w": "chair",
+          "start": 229.698,
+          "end": 230.16,
+          "conf": 0.89
+        },
+        {
+          "w": "beside",
+          "start": 230.16,
+          "end": 230.736,
+          "conf": 0.98
+        },
+        {
+          "w": "her",
+          "start": 230.736,
+          "end": 231.0,
+          "conf": 0.82
+        },
+        {
+          "w": "with",
+          "start": 231.0,
+          "end": 231.2,
+          "conf": 0.97
+        },
+        {
+          "w": "your",
+          "start": 231.2,
+          "end": 231.42,
+          "conf": 0.91
+        },
+        {
+          "w": "name",
+          "start": 231.42,
+          "end": 232.078,
+          "conf": 0.97
+        },
+        {
+          "w": "on.",
+          "start": 232.078,
+          "end": 233.804,
+          "conf": 0.55
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "text": "Let the little children come.",
+      "start": 233.804,
+      "end": 237.06,
+      "words": [
+        {
+          "w": "Let",
+          "start": 233.804,
+          "end": 234.06,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 234.06,
+          "end": 234.24,
+          "conf": 1.0
+        },
+        {
+          "w": "little",
+          "start": 234.24,
+          "end": 234.572,
+          "conf": 1.0
+        },
+        {
+          "w": "children",
+          "start": 234.572,
+          "end": 235.86,
+          "conf": 1.0
+        },
+        {
+          "w": "come.",
+          "start": 235.86,
+          "end": 237.06,
+          "conf": 0.8
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "text": "Let the little children come.",
+      "start": 237.06,
+      "end": 242.863,
+      "words": [
+        {
+          "w": "Let",
+          "start": 237.06,
+          "end": 237.3,
+          "conf": 0.84
+        },
+        {
+          "w": "the",
+          "start": 237.3,
+          "end": 237.48,
+          "conf": 1.0
+        },
+        {
+          "w": "little",
+          "start": 237.48,
+          "end": 237.829,
+          "conf": 1.0
+        },
+        {
+          "w": "children",
+          "start": 237.829,
+          "end": 239.08,
+          "conf": 1.0
+        },
+        {
+          "w": "come.",
+          "start": 239.08,
+          "end": 242.863,
+          "conf": 0.74
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "text": "Whoever welcomes one of these",
+      "start": 243.666,
+      "end": 245.981,
+      "words": [
+        {
+          "w": "Whoever",
+          "start": 243.666,
+          "end": 244.175,
+          "conf": 0.85
+        },
+        {
+          "w": "welcomes",
+          "start": 244.175,
+          "end": 245.133,
+          "conf": 1.0
+        },
+        {
+          "w": "one",
+          "start": 245.243,
+          "end": 245.4,
+          "conf": 0.85
+        },
+        {
+          "w": "of",
+          "start": 245.4,
+          "end": 245.48,
+          "conf": 1.0
+        },
+        {
+          "w": "these",
+          "start": 245.48,
+          "end": 245.981,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "text": "Welcomes Me.",
+      "start": 248.1,
+      "end": 249.159,
+      "words": [
+        {
+          "w": "Welcomes",
+          "start": 248.1,
+          "end": 248.92,
+          "conf": 0.85
+        },
+        {
+          "w": "Me.",
+          "start": 248.92,
+          "end": 249.159,
+          "conf": 0.85
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "text": "Holy, holy,",
+      "start": 253.005,
+      "end": 256.572,
+      "words": [
+        {
+          "w": "Holy,",
+          "start": 253.005,
+          "end": 254.736,
+          "conf": 0.75
+        },
+        {
+          "w": "holy,",
+          "start": 254.736,
+          "end": 256.572,
+          "conf": 0.69
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "text": "Wake us from our sleep.",
+      "start": 256.572,
+      "end": 260.019,
+      "words": [
+        {
+          "w": "Wake",
+          "start": 256.572,
+          "end": 257.126,
+          "conf": 0.79
+        },
+        {
+          "w": "us",
+          "start": 257.126,
+          "end": 257.375,
+          "conf": 0.97
+        },
+        {
+          "w": "from",
+          "start": 257.375,
+          "end": 258.213,
+          "conf": 0.97
+        },
+        {
+          "w": "our",
+          "start": 258.213,
+          "end": 258.502,
+          "conf": 0.53
+        },
+        {
+          "w": "sleep.",
+          "start": 258.502,
+          "end": 260.019,
+          "conf": 0.86
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "text": "Every face that we scrolled past",
+      "start": 260.019,
+      "end": 263.26,
+      "words": [
+        {
+          "w": "Every",
+          "start": 260.019,
+          "end": 260.418,
+          "conf": 0.85
+        },
+        {
+          "w": "face",
+          "start": 260.418,
+          "end": 261.2,
+          "conf": 0.99
+        },
+        {
+          "w": "that",
+          "start": 261.2,
+          "end": 261.42,
+          "conf": 1.0
+        },
+        {
+          "w": "we",
+          "start": 261.42,
+          "end": 261.625,
+          "conf": 0.99
+        },
+        {
+          "w": "scrolled",
+          "start": 261.625,
+          "end": 262.38,
+          "conf": 0.89
+        },
+        {
+          "w": "past",
+          "start": 262.38,
+          "end": 263.26,
+          "conf": 0.94
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "text": "Was You, looking at us.",
+      "start": 263.26,
+      "end": 266.54,
+      "words": [
+        {
+          "w": "Was",
+          "start": 263.26,
+          "end": 263.62,
+          "conf": 0.73
+        },
+        {
+          "w": "You,",
+          "start": 263.62,
+          "end": 264.46,
+          "conf": 0.89
+        },
+        {
+          "w": "looking",
+          "start": 264.46,
+          "end": 265.22,
+          "conf": 0.78
+        },
+        {
+          "w": "at",
+          "start": 265.22,
+          "end": 265.66,
+          "conf": 0.72
+        },
+        {
+          "w": "us.",
+          "start": 265.66,
+          "end": 266.54,
+          "conf": 0.67
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "text": "Will you sponsor me?",
+      "start": 266.54,
+      "end": 269.78,
+      "words": [
+        {
+          "w": "Will",
+          "start": 266.54,
+          "end": 266.92,
+          "conf": 0.69
+        },
+        {
+          "w": "you",
+          "start": 266.92,
+          "end": 267.103,
+          "conf": 0.79
+        },
+        {
+          "w": "sponsor",
+          "start": 267.103,
+          "end": 268.54,
+          "conf": 0.61
+        },
+        {
+          "w": "me?",
+          "start": 268.54,
+          "end": 269.78,
+          "conf": 0.76
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "text": "With the help of God, we will.",
+      "start": 269.78,
+      "end": 273.06,
+      "words": [
+        {
+          "w": "With",
+          "start": 269.78,
+          "end": 270.02,
+          "conf": 0.83
+        },
+        {
+          "w": "the",
+          "start": 270.02,
+          "end": 270.231,
+          "conf": 0.94
+        },
+        {
+          "w": "help",
+          "start": 270.231,
+          "end": 270.824,
+          "conf": 0.9
+        },
+        {
+          "w": "of",
+          "start": 270.824,
+          "end": 271.189,
+          "conf": 1.0
+        },
+        {
+          "w": "God,",
+          "start": 271.189,
+          "end": 271.8,
+          "conf": 0.9
+        },
+        {
+          "w": "we",
+          "start": 271.8,
+          "end": 272.2,
+          "conf": 0.8
+        },
+        {
+          "w": "will.",
+          "start": 272.2,
+          "end": 273.06,
+          "conf": 0.71
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "text": "Will you sponsor me?",
+      "start": 273.06,
+      "end": 276.28,
+      "words": [
+        {
+          "w": "Will",
+          "start": 273.06,
+          "end": 273.46,
+          "conf": 0.64
+        },
+        {
+          "w": "you",
+          "start": 273.46,
+          "end": 273.628,
+          "conf": 0.87
+        },
+        {
+          "w": "sponsor",
+          "start": 273.628,
+          "end": 275.04,
+          "conf": 0.85
+        },
+        {
+          "w": "me?",
+          "start": 275.04,
+          "end": 276.28,
+          "conf": 0.73
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "text": "With the help of God, we will.",
+      "start": 276.28,
+      "end": 279.74,
+      "words": [
+        {
+          "w": "With",
+          "start": 276.28,
+          "end": 276.54,
+          "conf": 0.79
+        },
+        {
+          "w": "the",
+          "start": 276.54,
+          "end": 276.736,
+          "conf": 0.92
+        },
+        {
+          "w": "help",
+          "start": 276.736,
+          "end": 277.34,
+          "conf": 0.89
+        },
+        {
+          "w": "of",
+          "start": 277.34,
+          "end": 277.68,
+          "conf": 0.84
+        },
+        {
+          "w": "God,",
+          "start": 277.68,
+          "end": 278.14,
+          "conf": 0.76
+        },
+        {
+          "w": "we",
+          "start": 278.14,
+          "end": 278.72,
+          "conf": 0.92
+        },
+        {
+          "w": "will.",
+          "start": 278.72,
+          "end": 279.74,
+          "conf": 0.62
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "text": "We will.",
+      "start": 279.74,
+      "end": 284.04,
+      "words": [
+        {
+          "w": "We",
+          "start": 279.74,
+          "end": 279.82,
+          "conf": 0.51
+        },
+        {
+          "w": "will.",
+          "start": 279.82,
+          "end": 284.04,
+          "conf": 0.51
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "text": "We will.",
+      "start": 284.04,
+      "end": 286.08,
+      "words": [
+        {
+          "w": "We",
+          "start": 284.04,
+          "end": 284.5,
+          "conf": 0.43
+        },
+        {
+          "w": "will.",
+          "start": 284.5,
+          "end": 286.08,
+          "conf": 0.58
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "text": "We will.",
+      "start": 286.08,
+      "end": 287.78,
+      "words": [
+        {
+          "w": "We",
+          "start": 286.08,
+          "end": 286.86,
+          "conf": 0.59
+        },
+        {
+          "w": "will.",
+          "start": 286.86,
+          "end": 287.78,
+          "conf": 0.58
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "text": "We will.",
+      "start": 287.78,
+      "end": 289.542,
+      "words": [
+        {
+          "w": "We",
+          "start": 287.78,
+          "end": 288.06,
+          "conf": 0.66
+        },
+        {
+          "w": "will.",
+          "start": 288.06,
+          "end": 289.542,
+          "conf": 0.52
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "text": "Five in the morning, and the cockerel crows.",
+      "start": 291.762,
+      "end": 295.613,
+      "words": [
+        {
+          "w": "Five",
+          "start": 291.762,
+          "end": 292.18,
+          "conf": 0.85
+        },
+        {
+          "w": "in",
+          "start": 292.18,
+          "end": 292.26,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 292.26,
+          "end": 292.4,
+          "conf": 1.0
+        },
+        {
+          "w": "morning,",
+          "start": 292.4,
+          "end": 292.76,
+          "conf": 1.0
+        },
+        {
+          "w": "and",
+          "start": 294.22,
+          "end": 294.34,
+          "conf": 0.85
+        },
+        {
+          "w": "the",
+          "start": 294.34,
+          "end": 294.46,
+          "conf": 1.0
+        },
+        {
+          "w": "cockerel",
+          "start": 294.46,
+          "end": 295.0,
+          "conf": 1.0
+        },
+        {
+          "w": "crows.",
+          "start": 295.0,
+          "end": 295.613,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "text": "She's on the road with a reading book.",
+      "start": 297.035,
+      "end": 298.856,
+      "words": [
+        {
+          "w": "She's",
+          "start": 297.035,
+          "end": 297.259,
+          "conf": 0.85
+        },
+        {
+          "w": "on",
+          "start": 297.259,
+          "end": 297.44,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 297.44,
+          "end": 297.58,
+          "conf": 1.0
+        },
+        {
+          "w": "road",
+          "start": 297.58,
+          "end": 297.96,
+          "conf": 1.0
+        },
+        {
+          "w": "with",
+          "start": 297.96,
+          "end": 298.14,
+          "conf": 1.0
+        },
+        {
+          "w": "a",
+          "start": 298.14,
+          "end": 298.24,
+          "conf": 1.0
+        },
+        {
+          "w": "reading",
+          "start": 298.24,
+          "end": 298.62,
+          "conf": 1.0
+        },
+        {
+          "w": "book.",
+          "start": 298.62,
+          "end": 298.856,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "text": "The yellow can is full beside the door,",
+      "start": 301.04,
+      "end": 304.683,
+      "words": [
+        {
+          "w": "The",
+          "start": 301.04,
+          "end": 301.2,
+          "conf": 0.85
+        },
+        {
+          "w": "yellow",
+          "start": 301.2,
+          "end": 301.52,
+          "conf": 1.0
+        },
+        {
+          "w": "can",
+          "start": 301.52,
+          "end": 301.919,
+          "conf": 1.0
+        },
+        {
+          "w": "is",
+          "start": 303.34,
+          "end": 303.435,
+          "conf": 0.92
+        },
+        {
+          "w": "full",
+          "start": 303.435,
+          "end": 303.82,
+          "conf": 1.0
+        },
+        {
+          "w": "beside",
+          "start": 303.82,
+          "end": 304.268,
+          "conf": 1.0
+        },
+        {
+          "w": "the",
+          "start": 304.268,
+          "end": 304.36,
+          "conf": 0.85
+        },
+        {
+          "w": "door,",
+          "start": 304.36,
+          "end": 304.683,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "text": "And she's running.",
+      "start": 306.54,
+      "end": 307.317,
+      "words": [
+        {
+          "w": "And",
+          "start": 306.54,
+          "end": 306.648,
+          "conf": 0.85
+        },
+        {
+          "w": "she's",
+          "start": 306.648,
+          "end": 306.98,
+          "conf": 1.0
+        },
+        {
+          "w": "running.",
+          "start": 306.98,
+          "end": 307.317,
+          "conf": 1.0
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "text": "I will.",
+      "start": 312.62,
+      "end": 313.073,
+      "words": [
+        {
+          "w": "I",
+          "start": 312.62,
+          "end": 312.88,
+          "conf": 0.66
+        },
+        {
+          "w": "will.",
+          "start": 312.88,
+          "end": 313.073,
+          "conf": 0.97
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "text": "I will.",
+      "start": 321.814,
+      "end": 322.298,
+      "words": [
+        {
+          "w": "I",
+          "start": 321.814,
+          "end": 322.06,
+          "conf": 0.71
+        },
+        {
+          "w": "will.",
+          "start": 322.06,
+          "end": 322.298,
+          "conf": 1.0
+        }
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "start": 317.06,
+      "end": 321.22,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    }
+  ],
+  "notes": "Timeline = the take's master WAV. Method (pdoom-video's, MIT): CTC emissions of the Demucs (htdemucs_ft) vocal stem from torchaudio MMS_FA and wav2vec2-large-lv60k-960h, on the mono sum and the left and right channels, fused; one global constrained Viterbi alignment of every line with a garbage star token between lines (the singer's ad-lib repeats); signal refinement of starts and ends on the vocal stem; cross-check against mlx-whisper; QA plots per line."
+}
