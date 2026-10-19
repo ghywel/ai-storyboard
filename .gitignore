@@ -12,3 +12,4 @@ takes/*/*.m4a
 takes/*/*.mp3
 !takes/demo/audio.wav
 .DS_Store
+__pycache__/
