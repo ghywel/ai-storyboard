@@ -47,11 +47,23 @@ Weighting: <which tokens dominate this film, which are accents>.
 - <Sets, with their clue details.>
 - <Cast: each recurring person and their one accessory.>
 
+## The look
+
+Link `LOOK.md` (palette with weights, medium, light, grade, anchor frames: `templates/LOOK.md`, CRAFT.md §1).
+
+## Spotting map
+
+The musical events the picture answers, and how (CRAFT.md §9). Hit the few that change meaning.
+
+| Time | Event | Class (structural / dramatic / physical / optional) | Response (direct hit / anticipation / aftermath / no hit) | The picture |
+|---|---|---|---|---|
+| | | | | |
+
 ## Plates
 
-| Plate | Window (s) | Lines | What plays |
-|---|---|---|---|
-| `<id>` | 0–<t> | 0–1 | |
+| Plate | Window (s) | Lines | What plays | Cut in: carrier · why · lands on |
+|---|---|---|---|---|
+| `<id>` | 0–<t> | 0–1 | | |
 
 ## The script, shot by shot
 

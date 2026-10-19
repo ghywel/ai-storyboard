@@ -11,6 +11,10 @@ marks, lines of force, neon, slammed words, a protagonist who is never hurt. Tas
 it, if any, the new film keeps. (*Agnosto Theo*, 2026-10-05, kept the craft and none of the taste: an epic,
 reverent film with a restrained, cinematic face.)
 
+**The frame's beauty has its own page.** `CRAFT.md` holds the rules for paint, light, grade, motion, camera, cuts and
+characters, with the measured numbers from two community projects and our own reels. This page keeps the rules for
+setting and holding a direction.
+
 ## 1. Measure the look you admire
 
 - Name your references and measure them:
@@ -149,6 +153,9 @@ heart-hole on the word, she says "OW" in chibi, then looks at camera deadpan. Th
 insult so clever it flies under the radar".
 
 ## 10. Camera grammar belongs to the concept
+
+The move vocabulary, its durations and its counting rules (never three pushes in a row, accents on at most a third of
+shots) are in `CRAFT.md` §6. Here: which grammar suits the concept.
 
 - **Cut on the beat**, at or before the line's first word, never after the voice. In rapped verses cut about every 2
   beats. In spoken parts hold long.

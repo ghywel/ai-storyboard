@@ -47,6 +47,7 @@ async function ensureServer(): Promise<{ url: string; stop: () => void }> {
 async function openPage(url: string) {
   const browser = await chromium.launch({
     channel: process.env.FILM_CHANNEL || undefined,   // Playwright's own Chromium unless FILM_CHANNEL=chrome
+    executablePath: process.env.FILM_CHROME_PATH || undefined,   // any Chromium binary, e.g. when the installed one is older than playwright-core expects
     headless: !flag('headed'),
     // FILM_CHROME_ARGS adds switches (space-separated), e.g. a GPU choice: on a Mac with two GPUs headless Chromium
     // took the integrated one (`render.ts gpu` prints which), whatever WebGL's powerPreference asked for

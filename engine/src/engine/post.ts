@@ -39,6 +39,17 @@ export interface PostParams {
   pdoomText?: string;
   /** 0..1 glitch the HUD readout. */
   hudCorruption?: number;
+  // ---- the grade (applied after the tone shoulder, before vignette and grain; neutral by default) ----
+  /** Saturation around luma (1 = unchanged, 0 = monochrome). */
+  saturation: number;
+  /** Contrast around mid-grey 0.18 linear (1 = unchanged; 1.05-1.15 gives a print-like bite). */
+  contrast: number;
+  /** Split-tone: shadows lean toward shadowTint, highlights toward highlightTint (hex), by `split` (0..1, 0 = off). */
+  shadowTint: string;
+  highlightTint: string;
+  split: number;
+  /** Where the split turns over, -0.5..0.5 (positive = more of the frame counts as shadow). */
+  splitBalance: number;
 }
 
 export const DEFAULT_POST: PostParams = {
@@ -60,7 +71,20 @@ export const DEFAULT_POST: PostParams = {
   shake: [0, 0],
   zoom: 1,
   invert: 0,
+  saturation: 1,
+  contrast: 1,
+  shadowTint: '#2d4f6e',   // a cool teal-blue
+  highlightTint: '#ffd8a8', // a warm amber
+  split: 0,
+  splitBalance: 0,
 };
+
+/** A grade tint as linear RGB with luma 1, so a split tone shifts hue without shifting brightness. */
+function tintVec(hex: string): THREE.Vector3 {
+  const c = new THREE.Color(hex).convertSRGBToLinear();
+  const l = 0.2126 * c.r + 0.7152 * c.g + 0.0722 * c.b || 1;
+  return new THREE.Vector3(c.r / l, c.g / l, c.b / l);
+}
 
 const MIPS = 7;
 
@@ -124,6 +148,7 @@ ${SCALE === 1 ? `        c += texture(src, vUv + texel * vec2(-1, -1)).rgb; c +=
     this.final = new FSPass(/* glsl */ `
       uniform sampler2D src; uniform sampler2D bloomTex; uniform sampler2D haloTex; uniform sampler2D hudTex;
       uniform float exposure, bloom, halation, ca, grain, vignette, hud, fade, flash, time, zoom, invert;
+      uniform float saturation, contrast, split, splitBalance; uniform vec3 shadowTint, highlightTint;
       uniform vec2 shake; uniform vec2 res;
       ${SHOULDER_GLSL}
       void main() {
@@ -145,6 +170,12 @@ ${SCALE === 1 ? `        c += texture(src, vUv + texel * vec2(-1, -1)).rgb; c +=
         col = mix(col, h.rgb / max(h.a, 1e-4), h.a * hud);
         col = shoulder(col);
         col = mix(col, vec3(0.8515) - col * 0.84, invert); // ink<->bone in linear-ish space
+        // the grade: contrast around mid-grey, saturation around luma, then a luma-preserving split tone
+        col = 0.18 * pow(max(col, vec3(0.0)) / 0.18, vec3(contrast));
+        float gl = luma(col);
+        col = max(mix(vec3(gl), col, saturation), vec3(0.0));
+        float tw = smoothstep(0.0, 1.0, clamp(pow(gl, 0.45) - splitBalance, 0.0, 1.0)); // in perceptual luma
+        col *= mix(vec3(1.0), mix(shadowTint, highlightTint, tw), split);
         // a flash blows the highlights out; the blacks lift only a little (an additive flash greyed them)
         col = col * (1.0 + 3.0 * flash) + C_BONE * flash * flash;
         // vignette
@@ -168,6 +199,8 @@ ${SCALE === 1 ? `        float g1 = hash12(gl_FragCoord.xy + fract(time * 13.37)
       exposure: { value: 1 }, bloom: { value: 0.5 }, halation: { value: 0.2 }, ca: { value: 1 }, grain: { value: 0.05 },
       vignette: { value: 0.3 }, hud: { value: 1 }, fade: { value: 0 }, flash: { value: 0 }, time: { value: 0 },
       zoom: { value: 1 }, invert: { value: 0 }, shake: { value: new THREE.Vector2() }, res: { value: new THREE.Vector2(W, H) },
+      saturation: { value: 1 }, contrast: { value: 1 }, split: { value: 0 }, splitBalance: { value: 0 },
+      shadowTint: { value: new THREE.Vector3(1, 1, 1) }, highlightTint: { value: new THREE.Vector3(1, 1, 1) },
     });
   }
 
@@ -214,6 +247,12 @@ ${SCALE === 1 ? `        float g1 = hash12(gl_FragCoord.xy + fract(time * 13.37)
     f.zoom!.value = p.zoom;
     f.invert!.value = p.invert;
     (f.shake!.value as THREE.Vector2).set(p.shake[0], p.shake[1]);
+    f.saturation!.value = p.saturation;
+    f.contrast!.value = p.contrast;
+    f.split!.value = p.split;
+    f.splitBalance!.value = p.splitBalance;
+    (f.shadowTint!.value as THREE.Vector3).copy(tintVec(p.shadowTint));
+    (f.highlightTint!.value as THREE.Vector3).copy(tintVec(p.highlightTint));
     this.final.render(renderer, out);
   }
 }

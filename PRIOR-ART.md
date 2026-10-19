@@ -170,6 +170,13 @@ opened, or marked where it was not.
 
   [R]
 
+## Community projects read on 2026-10-19
+
+| Project | Licence | What we took | How |
+|---|---|---|---|
+| [huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) by 花叔 (alchaincyf) | MIT | The medium layer order, region palettes, washes, broken colour, cel light from a shifted shape, one light map, cast shadows, textureInside, lost edges; the style recipe card and the 95-point scoring protocol; the camera move table and its counting rules; character delivery lines; blank-frame and motion thresholds from `film_gate.py` | Code ported with credit to `engine/src/scenes/_medium.ts`; rules paraphrased in `CRAFT.md`; thresholds in `tools/film-qc.py` |
+| [mortiflix-oss](https://github.com/GTKottman/mortiflix-oss) by GTKottman | AGPL-3.0 | The error-check registry and gate reports, numbered notes with an answer ledger, frozen review snapshots, the final-pass QC checks (black, frozen, CFR, yuv420p, loudness, contact sheet), cut records (carrier, why, lands on) and transition families, the spotting map's hit types, the look sheet and anchor frames, motion numbers | Ideas only, rewritten in our own words (`CRAFT.md`, `METHOD.md`) and code (`checks.json`, `tools/gate.py`, `tools/film-qc.py`). No AGPL code is copied, so its licence does not apply here |
+
 ## Licences and terms that matter
 
 - **pdoom-video's code is MIT.** Its notice is kept in `engine/` and `analysis/`.

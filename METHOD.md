@@ -38,6 +38,9 @@ Two rules hold the roles together:
   - how it was made. Is it all code, or code plus generated art? A reference's look often comes from a cheaper
     technique than it seems.
 - Take the style, never the content: the words, characters and story are new.
+- **For a named or historical style, write a recipe card** (`templates/STYLE-RECIPE.md`, CRAFT.md §11). Look at three
+  or more different works, write the five signature traits as must / bonus / forbidden, and score the first still
+  against them. The lower of your score and an independent one counts.
 - **When the brief is thin, ask before writing anything.** Some decisions are only the director's, and each changes
   every plate. Ask them together, each with two or three concrete options and a recommendation:
   - the look (described options, or references to measure);
@@ -100,11 +103,17 @@ plus any intro or outro you add (`tools/soundtrack.py`). Build these files per t
 another, by up to 3.4 s. The forced alignment matched whisper on 90–99% of words with a median deviation of
 60–70 ms. One take's vocalise pulled a verse's first word 5.5 s early; one `align.json` entry put it back.
 
-### 4. Concept, treatment and script: written first, committed first
+### 4. Concept, look, treatment and script: written first, committed first
 
 Write the whole film down before building any of it, and commit it. A design on disk survives an interruption: a
 crash, a usage limit, a new session. Use `templates/TREATMENT.md`:
 - **The idea in one paragraph**, and **why this take** (from its measured shape).
+- **The look, before any picture** (`templates/LOOK.md`, CRAFT.md §1): palette tokens with weights, one accent, the
+  medium, the light and the grade. Then **three to five anchor frames** covering the opening, the densest moment, a
+  mid-change state and the ending, rendered at full size and judged side by side. If they don't look like one film, the
+  look isn't finished.
+- **A spotting map** (CRAFT.md §9): for each musical event, its class and the picture's response (direct hit,
+  anticipation, aftermath or no hit).
 - **Tone rules**: what the film never does.
 - **Palette**: tokens and how much of each, per film. **Typography**: the roles. **The lyric presentation.**
 - **Camera and compositor grammar.**
@@ -126,11 +135,14 @@ crash, a usage limit, a new session. Use `templates/TREATMENT.md`:
 
 Before any parallel work, build what every plate will draw:
 - the character rig and its acting vocabulary;
+- the medium: the frame's material and light, from `engine/src/scenes/_medium.ts` (paper, washes, broken colour, cel
+  light, one light map, cast shadows; CRAFT.md §2–3), set once for the film;
 - the sets;
 - the cast of silhouettes, each with one telling accessory;
 - the graphics package and the lyric presenter.
 
-Render a look-test scene, fix what reads wrong in the stills, commit, and freeze it. Authors then add props in their
+Render a look-test scene, fix what reads wrong in the stills, commit, and freeze it. `engine/src/scenes/medium-reel.ts`
+is the pattern: one picture built up stage by stage, so each technique's effect is seen on its own. Authors then add props in their
 own files and never edit the kit. A kit that changes while parallel authors build on it breaks their work silently.
 
 ### 6. Plates, in parallel
@@ -165,7 +177,14 @@ before the work starts, in the guide's continuity table.
     acting, a crowd that kneels, a face fixed). Extend the kit for them, fold in the gaps the authors reported (keep a
     `KIT-FIXES.md` while they build: each report's "what I needed but could not touch" goes there), look-test,
     refreeze, and only then resume the authors (by message: they keep their context) for the polish.
-- **The preview gate.** A 1080p render with the music.
+- **Every gate has a report** (`tools/gate.py <gate> report.json`). Each check in `checks.json` that applies to the gate
+  is answered pass, fixed (with a note) or n/a (with a reason), and each numbered director's note on the previous
+  version gets a concrete change and a status (done, partly, not_done; never "addressed"). The tool refuses a report
+  with anything missing. Keep the submitted pages and keyframes in `films/<film>/reviews/<gate>/v<n>/` so what was
+  reviewed cannot change afterwards.
+- **Sort every director's note into error or taste.** Taste becomes direction (below). An error that no check caught
+  becomes a new entry in `checks.json`, proposed to the director once, so every later film runs it.
+- **The preview gate.** A 1080p render with the music, passed through `tools/film-qc.py`.
 - **When the director says "I trust you"**, the gates become milestones: send the boards and the preview, and do not
   wait.
 
@@ -180,6 +199,9 @@ polished work was thrown away.
 - **Continuity:** recurring props and states, against the guide's table.
 - **Performance:** each plate under about 40 ms a frame at 1080p (`render.ts perf`).
 - **A 1080p check render with audio**, read for scene errors.
+- **`tools/film-qc.py` on that render** (with `--take takes/<take>`): format, black and blank frames, frozen stretches
+  against the film's hold ceiling, cuts against the beat grid, loudness recorded, and a contact sheet that a person
+  looks at.
 
 ### 9. The final render
 
@@ -191,6 +213,9 @@ polished work was thrown away.
 - The segments are joined byte for byte, then the audio is added in a second pass.
 
 Then verify the result:
+- `tools/film-qc.py` on the final (`--size 3840x2160 --take takes/<take>`), with designed holds and black named by
+  `--allow`;
+- every segment's GPU renderer string identical (`render.ts gpu`), so no join shimmers;
 - a full decode (no errors);
 - the frame count against duration × 60;
 - the frames either side of each segment join;
@@ -218,7 +243,9 @@ never has to be switched while parallel authors are reading and writing its file
 
 ## What a session needs to know first
 
-- `DIRECTION.md`: the craft rules for the picture.
+- `DIRECTION.md`: how to set and hold a film's direction.
+- `CRAFT.md`: how to make each frame beautiful (medium, light, grade, motion, camera, cuts, characters, style recipes).
+- `checks.json`: every known failure as a check; `tools/gate.py` enforces it at each gate.
 - `MUSIC.md`: the words, the generator and the timing.
 - `LESSONS.md`: what broke, how it was found, and the fix.
 - `PRIOR-ART.md`: whose work each part stands on, with the verified surveys in `research/`.

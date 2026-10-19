@@ -17,15 +17,17 @@ It was built for one brief and is written down here so the next film starts furt
 | Path | What it is |
 |---|---|
 | `METHOD.md` | The method end to end: from a brief to words, takes, timing, treatment, a shared kit, parallel plates, gates, checks and the final render |
+| `CRAFT.md` | How to make each frame beautiful: the medium (paper, washes, broken colour, characters in the same material), one light for the frame, the grade, alive-not-boiling motion, camera language with counting rules, cuts with carriers, a spotting map, character delivery lines, style recipes scored honestly, generated stills |
+| `checks.json` | Every known failure as a check; `tools/gate.py` refuses a gate report that skips one |
 | `DIRECTION.md` | How to set and hold an artistic direction: palettes, type, the readable lyric, environments with clues, a character who acts (anime faces, chibi pops, lines of force), silhouettes that emote, motifs, camera grammar, the compositor's restraint, variants |
 | `MUSIC.md` | The link between the lyric (Claude), the song (Suno, or another generator) and the timing |
 | `LESSONS.md` | What broke, how it was found and the fix, with numbers |
 | `PRIOR-ART.md` | Whose work this stands on, the nearest prior art to each part, the licences that matter, and what is not new; the verified surveys are in `research/` |
 | `memory/` | The working rules in Claude Code memory format, to copy into a project's memory |
-| `templates/` | A treatment, a variants plan, a scene guide, a brief for a plate author, and `plates.json` |
-| `engine/` | The renderer: TypeScript scenes on Canvas2D and three.js, rendered offline in headless Chromium and encoded in the page with WebCodecs. It includes the shared kit (`src/scenes/_motifs.ts`, `_manga.ts`, `_post.ts`) and a demo scene. |
+| `templates/` | A treatment (with a spotting map and cut records), a look sheet, a style recipe card, a variants plan, a scene guide, a brief for a plate author, and `plates.json` |
+| `engine/` | The renderer: TypeScript scenes on Canvas2D and three.js, rendered offline in headless Chromium and encoded in the page with WebCodecs. It includes the shared kit (`src/scenes/_motifs.ts`, `_manga.ts`, `_post.ts`, and the medium kit `_medium.ts`), a demo scene and the six-stage medium reel (`medium-reel.ts`). |
 | `analysis/` | The timing pipeline: Demucs stems, CTC forced alignment, a whisper cross-check, the beat grid, bars and sections |
-| `tools/` | Measuring tools (`palette.py`, `song-analyze.py`, `dynamics.py`, `srt-lines.py`, `srt-check.py`), `soundtrack.py`, `make-demo-take.py`, the storyboard page (`boards.py`), the final render (`render-final.sh`) and its memory guard (`memwatch.py`) |
+| `tools/` | Measuring tools (`palette.py`, `song-analyze.py`, `dynamics.py`, `srt-lines.py`, `srt-check.py`), `soundtrack.py`, `make-demo-take.py`, the storyboard page (`boards.py`), the final render (`render-final.sh`) and its memory guard (`memwatch.py`), the film check (`film-qc.py`) and the gate report check (`gate.py`) |
 | `takes/` | One folder per take: the master WAV and its analysis. `takes/demo/` is made by `tools/make-demo-take.py`. |
 | `examples/stone/` | The worked example: one brief, three films, every treatment, guide, timeline and scene file |
 
@@ -83,6 +85,10 @@ Read `METHOD.md`, then `DIRECTION.md`, then `examples/stone/README.md`. The shor
   - **Two GPUs:** headless Chromium may take the integrated one. `bun scripts/render.ts gpu` prints which; on a Mac set
     `FILM_CHROME_ARGS=--force_high_performance_gpu` (it moved an Intel UHD 630 to an RX 6600 eGPU and halved the frame
     time).
+  - **Linux cloud containers** (run on 2026-10-19): stills render with the container's Chromium through
+    `FILM_CHROME_PATH=/path/to/chrome` when it is older than `playwright-core` expects. Open-source Chromium has no
+    H.264 encoder, so `render.ts video` stops at "Encoder creation error": render video with Google Chrome
+    (`FILM_CHANNEL=chrome`), or render stills and encode them with FFmpeg.
   - `tools/memwatch.py` reads macOS memory statistics (`vm_stat`, `sysctl`, `top`).
 
 ## Credits

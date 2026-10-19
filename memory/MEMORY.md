@@ -22,4 +22,6 @@ Copy the files into a project's memory directory and keep this index in its MEMO
 - [Best tool, not nearest](feedback-best-tool-not-nearest.md): compare options before building
 - [Credits and privacy](feedback-credits-and-privacy.md): credit as asked; no unknown-rights material; sweep before publishing
 - [Estimates](feedback-estimates.md): measure a slice, then multiply
+- [Medium pass](feedback-medium-pass.md): look first, anchor frames, one medium and one light for everything, characters too
+- [Checks registry](feedback-checks-registry.md): gates answer checks.json; uncaught errors become checks; film-qc.py on renders
 - [Project template](project-film-template.md): the per-film project memory to keep current

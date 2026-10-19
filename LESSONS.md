@@ -58,6 +58,46 @@ marked **(Agnosto Theo)** come from the second film, made on a 16 GB Intel i9 Ma
 - **Probe points must be inside the data.** An offset check sampled at 280 s in a 250 s file and reported a bogus
   offset. Fix: sample at fractions of the length.
 
+## Beauty (huashu-art-motion and mortiflix-oss, read 2026-10-19; the medium reel)
+
+- **Flat vector plus noise reads as clip art.** The demo plate (gradient sky, flat buildings, a black silhouette) is
+  clean and lifeless. The medium reel (`engine/src/scenes/medium-reel.ts`) builds one picture up in six stages: paper
+  and washes, broken colour, a cel-lit figure with the same paper inside her, one light map and cast shadows, then the
+  grade and living motifs. The last stage is the first frame in this repository that reads as painted. CRAFT.md has the
+  rules.
+- **Multiply washes compound.** The first reel stacked five multiply passes per area over each other. Orange over
+  purple went brown, and the meadow over the hill went near-black. Fix: light areas with `source-over` at moderate
+  alpha, multiply only for darks laid over them, and the sky as one wash with a gradient fill (not bands of rectangles,
+  which read as stripes).
+- **Watercolour is transparent.** A sun painted under the mountains showed through them as a ghost disc. Fix: paint the
+  sun after the ridge, clipped to the open sky; its bloom is a radial fill, because stacked polygons left a hard blob.
+- **Ambient light sets the hour.** A chiaroscuro ambient (about 0.13) made a dusk meadow murky. Dusk wanted a cool mid
+  (about 0.7).
+- **A placeholder character is the weakest thing in a beautiful frame.** The reel's figure (no joints, no hands, no
+  material detail) is now what the eye goes to. huashu: "a crude character is worse than none".
+- **Cut detection by a global threshold misses quiet cuts.** huashu's `d >= max(8, 3 × median + 2)` found 2 of 5 cuts
+  between states of one composition. A local baseline (the median of the 30 frames around each frame) found 4 of 5,
+  with no false cuts. It still misses near-identical states (12 of 16 in a test), so the cut check vouches only for the
+  cuts it sees.
+- **The film check catches what eyes skim.** `tools/film-qc.py` failed a test film with planted faults: 2.5 s holds
+  against a 1.017 s two-beat ceiling, and a 0.6 s black hole, caught by both blackdetect and the edge test. It passed a
+  film cut every two beats (12 of 12 detected cuts on the beat within a frame).
+
+## Timing (God Moved, 2026-10-13)
+
+- **`song-analyze.py`'s beat phase sat about 58 ms early** against the kick attacks on the drums stem (431 kicks,
+  interquartile 52–64 ms, no drift). It fits the whole mix's onsets. `analyze.py`'s grid, refined on the kicks, agreed
+  with a least-squares kick fit to within 37 ms.
+- **The drums could not decide the bar phase.** On a four-on-the-floor take, a kick on every beat and snares on 2 and 4
+  fit phases 0 and 2 alike. `analyze.py` chose phase 2 by +0.31 to +0.28. Every structural change (the bass entry, both
+  drops, the dip, the breakdown) fell on phase 0, so `audio.json` was rewritten to phase 0. Check the phase against the
+  structure.
+- **The alignment failed on repeats** (build lines 6.2 s early, drop calls about 4 s early, outro repeats up to 12 s
+  late). Thirteen `align.json` windows from the vocal stem's phrases brought all 37 lines within 0.11 s (median 0.01 s).
+- **Suno sang after its own [End] tag.** A whispered "God moves" at 4:41.27 was in neither the lyric sheet nor the
+  subtitle track; the vocal stem showed it and whisper read it. Scan the stem to the last sample.
+- **Suno's line times were good where it did not compress repeats** (within 0.3 s), and 6–20 s out where it did.
+
 ## Rendering
 
 - **Raw frames out of headless Chromium leak memory nobody owns.**
@@ -81,6 +121,10 @@ marked **(Agnosto Theo)** come from the second film, made on a 16 GB Intel i9 Ma
   frame), but count frames against the duration so you know.
 - **An additive flash greyed the blacks.** Fix: blow out the highlights multiplicatively and add only a little light.
 
+- **Playwright and the installed Chromium can disagree (2026-10-19).** `playwright-core` 1.63 looked for a browser
+  build the container did not have. Fix: `FILM_CHROME_PATH` points `render.ts` at any Chromium binary.
+- **Open-source Chromium cannot encode H.264 in the page.** `render.ts video` failed at `VideoEncoder` creation
+  ("Encoder creation error"). Fix: Google Chrome (`FILM_CHANNEL=chrome`), or stills encoded with FFmpeg.
 - **A render asked for a time past the take's end came out black, silently (Agnosto Theo).** A look-test reel run on
   the 16 s demo take produced black frames for every mode after 16 s. Fix: `render.ts` refuses such times.
 
